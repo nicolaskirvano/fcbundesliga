@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:30.000Z
+pubDatetime: 2026-05-31T22:32:02.000Z
 title: "Bundesliga no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,27 +13,28 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Serhou Guirassy (89, Bundesliga), com +46.7% em 24h, a 90k coins no Console (PS)."
+    a: "Zé Roberto (87, Bundesliga), com +52.9% em 24h, a 104k coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Karim Adeyemi (86), -30.1% em 24h, a 158k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Luis Díaz (89) — 95% de probabilidade de alta, a 230k coins."
+    a: "Pelo modelo FutQuant, Franck Honorat (85) — 95% de probabilidade de alta, a 15k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 41 cartas em alta contra 80 em queda (média -1.31%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 41 cartas em alta contra 79 em queda (média 0.3%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **41 subiram** e **80 caíram**, com variação média de **-1.31%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **41 subiram** e **79 caíram**, com variação média de **0.3%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Serhou Guirassy (89) **+46.7%** · 🔴 **Maior baixa:** Karim Adeyemi (86) **-30.1%**
+> 🟢 **Maior alta:** Zé Roberto (87) **+52.9%** · 🔴 **Maior baixa:** Karim Adeyemi (86) **-30.1%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Zé Roberto | 87 | Bundesliga | 104k coins | +52.9% | +56.4% |
 | Serhou Guirassy | 89 | Bundesliga | 90k coins | +46.7% | +42.1% |
 | Fisnik Asllani | 85 | Bundesliga | 32k coins | +40.2% | +53.6% |
 | Alphonso Davies | 89 | Bundesliga | 118k coins | +38.8% | +12.4% |
@@ -43,16 +44,15 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Joshua Kimmich | 90 | Bundesliga | 32k coins | +18.4% | +14.2% |
 | Aleksandar Pavlović | 89 | Bundesliga | 29k coins | +17% | +23.2% |
 | Yan Diomande | 80 | Bundesliga | 48k coins | +16.6% | +15.8% |
-| Matthias Ginter | 88 | Bundesliga | 27k coins | +16.1% | +16.1% |
 
 
 ### Análise das altas
 
+- **Zé Roberto (87)** subiu **+52.9%** em 24h, a **104k coins** (faixa do dia: 68k–114k). Está +43% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (73% de chance de subir mais).
+
 - **Serhou Guirassy (89)** subiu **+46.7%** em 24h, a **90k coins** (faixa do dia: 56k–90k). Está +42% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (68% de chance de subir mais).
 
 - **Fisnik Asllani (85)** subiu **+40.2%** em 24h, a **32k coins** (faixa do dia: 24k–50k). Está +31% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Alphonso Davies (89)** subiu **+38.8%** em 24h, a **118k coins** (faixa do dia: 88k–118k). Está +20% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -86,14 +86,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
+| Franck Honorat | 85 | 15k coins | 19k coins | 95% |
 | Luis Díaz | 89 | 230k coins | 310k coins | 95% |
 | Malik Tillman | 88 | 210k coins | 270k coins | 95% |
 | Alphonso Davies | 89 | 118k coins | 159k coins | 95% |
 | Karim Adeyemi | 86 | 158k coins | 195k coins | 95% |
 | Timo Werner | 87 | 98k coins | 122k coins | 95% |
 | Mario Götze | 88 | 54k coins | 68k coins | 95% |
-| Franck Honorat | 85 | 15k coins | 19k coins | 95% |
-| Fábio Vieira | 87 | 22k coins | 25k coins | 95% |
+| Dan-Axel Zagadou | 85 | 24k coins | 32k coins | 95% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -102,14 +102,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Sven Ulreich | 87 | 28k coins | -15.6% |
-| Harry Kane | 92 | 133k coins | -16.7% |
-| Jakub Kamiński | 83 | 58k coins | -24.1% |
-| Joshua Kimmich | 90 | 32k coins | -29.2% |
-| Can Uzun | 89 | 31k coins | -29% |
-| Loïc Badé | 88 | 29k coins | -17.3% |
-| Aleksandar Pavlović | 89 | 29k coins | -15.6% |
 | Angelo Stiller | 90 | 20k coins | -15.6% |
+| Aleksandar Pavlović | 89 | 29k coins | -15.6% |
+| Loïc Badé | 88 | 29k coins | -17.3% |
+| Can Uzun | 89 | 31k coins | -29% |
+| Sven Ulreich | 87 | 28k coins | -15.6% |
+| Jakub Kamiński | 83 | 58k coins | -24.1% |
+| Harry Kane | 92 | 133k coins | -16.7% |
+| Joshua Kimmich | 90 | 32k coins | -29.2% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -120,16 +120,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Serhou Guirassy (89, Bundesliga), com +46.7% em 24h, a 90k coins no Console (PS).
+Zé Roberto (87, Bundesliga), com +52.9% em 24h, a 104k coins no Console (PS).
 
 **E a maior queda do dia?**  
 Karim Adeyemi (86), -30.1% em 24h, a 158k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Luis Díaz (89) — 95% de probabilidade de alta, a 230k coins.
+Pelo modelo FutQuant, Franck Honorat (85) — 95% de probabilidade de alta, a 15k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 41 cartas em alta contra 80 em queda (média -1.31%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 41 cartas em alta contra 79 em queda (média 0.3%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

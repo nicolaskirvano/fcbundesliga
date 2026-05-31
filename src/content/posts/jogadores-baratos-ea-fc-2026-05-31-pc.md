@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:31.000Z
+pubDatetime: 2026-05-31T22:32:03.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -32,18 +32,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Harry Kane | 89 | ST | Bundesliga | 7k coins | +13.1% |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 7k coins | -1.4% |
 | Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +4.4% |
+| Aleix García | 89 | CM | Bundesliga | 14k coins | +12.5% |
+| Andrej Kramarić | 89 | CAM | Bundesliga | 15k coins | +1.7% |
 | Jamal Musiala | 88 | CAM | Bundesliga | 4k coins | +4.6% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.4% |
 | Andrej Kramarić | 87 | CAM | Bundesliga | 12k coins | -4.2% |
+| Nico Schlotterbeck | 87 | CB | Bundesliga | 12k coins | -5.9% |
+| Julian Brandt | 87 | CAM | Bundesliga | 13k coins | -48% |
 | Michael Olise | 86 | RM | Bundesliga | 2k coins | -34.8% |
-| Julian Ryerson | 86 | RB | Bundesliga | 11k coins | -76.1% |
-| Grimaldo | 86 | LM | Bundesliga | 12k coins | -6.1% |
-| Jamie Leweling | 86 | RM | Bundesliga | 12k coins | -77% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | +6.7% |
-| Nathan Tella | 86 | CAM | Bundesliga | 12k coins | -14% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 13k coins | +8.3% |
-| Péter Gulácsi | 85 | GK | Bundesliga | 2k coins | +68.4% |
-| Robert Andrich | 85 | CB | Bundesliga | 11k coins | -15.4% |
+| Julian Ryerson | 86 | RB | Bundesliga | 11k coins | -74.1% |
+| Jamie Leweling | 86 | RM | Bundesliga | 11k coins | -80% |
+| Christoph Baumgartner | 86 | CM | Bundesliga | 11k coins | -76.6% |
+| Grimaldo | 86 | LM | Bundesliga | 11k coins | -8.2% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
-- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **4k coins**
+- **Aleix García (89, CM)** da Bundesliga, a apenas **14k coins**
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
+- **Andrej Kramarić (89, CAM)** da Bundesliga, a apenas **15k coins**
 
 
 ## Por que estas cartas?

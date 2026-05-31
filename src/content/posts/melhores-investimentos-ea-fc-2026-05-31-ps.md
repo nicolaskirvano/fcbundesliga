@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:30.000Z
+pubDatetime: 2026-05-31T22:32:02.000Z
 title: "Melhores investimentos em Bundesliga no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,7 +32,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Maximilian Beier | 85 | Bundesliga | 78k coins | +7.6% | +59.2% | 16% |
-| Zé Roberto | 87 | Bundesliga | 96k coins | +2.7% | +43.3% | 73% |
+| Roy Makaay | 87 | Bundesliga | 17k coins | +38% | +40.8% | 27% |
 | Loïc Badé | 88 | Bundesliga | 29k coins | +33% | +34.5% | 5% |
 | Joshua Kimmich | 89 | Bundesliga | 112k coins | +19.8% | +31% | 27% |
 | Mario Götze | 88 | Bundesliga | 54k coins | +7.5% | +29.7% | 95% |
@@ -45,14 +45,14 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Lukas Klostermann | 88 | Bundesliga | 117k coins | +6.4% | +10.4% | 50% |
 | Danny da Costa | 84 | Bundesliga | 16k coins | +10% | +10% | 18% |
 | Angelo Stiller | 90 | Bundesliga | 20k coins | +8.3% | +9.9% | 5% |
-| Julian Brandt | 87 | Bundesliga | 18k coins | +1.4% | +5.7% | 8% |
+| Mario Mandžukić | 86 | Bundesliga | 15k coins | +17.6% | +9.1% | 28% |
 
 
 ## 📈 Análise dos destaques
 
 - **Maximilian Beier (85)** — 78k coins, **+59.2% em 7 dias** (+7.6% em 24h). Preço +41% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Zé Roberto (87)** — 96k coins, **+43.3% em 7 dias** (+2.7% em 24h). Preço +36% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **73% de chance de seguir subindo**.
+- **Roy Makaay (87)** — 17k coins, **+40.8% em 7 dias** (+38% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 - **Loïc Badé (88)** — 29k coins, **+34.5% em 7 dias** (+33% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 

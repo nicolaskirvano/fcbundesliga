@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:30.000Z
+pubDatetime: 2026-05-31T22:32:02.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 31/05/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/05/2026)?"
-    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 5k coins no Console (PS)."
+    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 6k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/05/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 5k coins.
+> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 6k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5k coins | +3.8% |
-| Harry Kane | 89 | ST | Bundesliga | 6k coins | +3.8% |
+| Harry Kane | 89 | ST | Bundesliga | 6k coins | +16% |
 | Aleix García | 89 | CM | Bundesliga | 12k coins | -5.8% |
 | Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +2% |
-| Rudi Völler | 89 | ST | Bundesliga | 14k coins | 0% |
 | Tomáš Rosický | 89 | CAM | Bundesliga | 14k coins | -10.9% |
 | Jamal Musiala | 88 | CAM | Bundesliga | 4k coins | -5.3% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.3% |
 | Uli Hoeneß | 88 | RM | Bundesliga | 14k coins | -3.3% |
-| Jonathan Tah | 87 | CB | Bundesliga | 2k coins | -5.6% |
 | Andrej Kramarić | 87 | CAM | Bundesliga | 12k coins | -17.9% |
 | Nico Schlotterbeck | 87 | CB | Bundesliga | 12k coins | -16.1% |
-| Christoph Baumgartner | 86 | CM | Bundesliga | 11k coins | -60.9% |
-| Grimaldo | 86 | LM | Bundesliga | 11k coins | -19.6% |
 | Kim Min Jae | 86 | CB | Bundesliga | 11k coins | -70% |
+| Grimaldo | 86 | LM | Bundesliga | 11k coins | -19.6% |
+| Christoph Baumgartner | 86 | CM | Bundesliga | 11k coins | -60.9% |
+| Julian Ryerson | 86 | RB | Bundesliga | 12k coins | -61.3% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -12.7% |
+| Josip Stanišić | 86 | RB | Bundesliga | 12k coins | -67.3% |
 
 
 ## 📈 Destaques
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5k coins**
-
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **6k coins**
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Aleix García (89, CM)** da Bundesliga, a apenas **12k coins**
 
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins**
+- **Tomáš Rosický (89, CAM)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **4k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/05/2026)?**  
-Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 5k coins no Console (PS).
+Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 6k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
