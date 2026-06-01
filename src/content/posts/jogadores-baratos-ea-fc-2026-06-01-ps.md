@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:32:01.000Z
+pubDatetime: 2026-06-01T13:32:01.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -32,9 +32,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Joshua Kimmich | 89 | CDM | Bundesliga | 6k coins | +20% |
 | Harry Kane | 89 | ST | Bundesliga | 6k coins | +16.7% |
 | Andrej Kramarić | 89 | CAM | Bundesliga | 12k coins | -11.1% |
-| Tomáš Rosický | 89 | CAM | Bundesliga | 14k coins | +3.7% |
 | Roy Makaay | 89 | ST | Bundesliga | 14k coins | +3.7% |
 | Rudi Völler | 89 | ST | Bundesliga | 14k coins | -6.7% |
+| Tomáš Rosický | 89 | CAM | Bundesliga | 14k coins | +3.7% |
 | Aleix García | 89 | CM | Bundesliga | 15k coins | +11.3% |
 | Jamal Musiala | 88 | CAM | Bundesliga | 4k coins | +10.3% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | -10.2% |
@@ -43,7 +43,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Andrej Kramarić | 87 | CAM | Bundesliga | 11k coins | -21.4% |
 | Nico Schlotterbeck | 87 | CB | Bundesliga | 12k coins | -19.3% |
 | Claudio Pizarro | 87 | ST | Bundesliga | 12k coins | -7.8% |
-| Christoph Baumgartner | 86 | CM | Bundesliga | 11k coins | -62.9% |
+| Jamie Leweling | 86 | RM | Bundesliga | 11k coins | -23.2% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Andrej Kramarić (89, CAM)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tomáš Rosický (89, CAM)** da Bundesliga, a apenas **14k coins**
-
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **14k coins**
+
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins**
 
 
 ## Por que estas cartas?

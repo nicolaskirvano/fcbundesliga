@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:32:02.000Z
+pubDatetime: 2026-06-01T13:32:02.000Z
 title: "Bundesliga no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Claudio Pizarro (87, Bundesliga), com +50% em 24h, a 25k coins no PC."
+    a: "Christian Eriksen (87, Bundesliga), com +44.2% em 24h, a 111k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Karim Adeyemi (85), -34.2% em 24h, a 129k coins."
+    a: "Harry Kane (91), -42% em 24h, a 26k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 32 cartas em alta contra 73 em queda (média -2.31%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 34 cartas em alta contra 70 em queda (média 0.4%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **32 subiram** e **73 caíram**, com variação média de **-2.31%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **34 subiram** e **70 caíram**, com variação média de **0.4%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Claudio Pizarro (87) **+50%** · 🔴 **Maior baixa:** Karim Adeyemi (85) **-34.2%**
+> 🟢 **Maior alta:** Christian Eriksen (87) **+44.2%** · 🔴 **Maior baixa:** Harry Kane (91) **-42%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Claudio Pizarro | 87 | Bundesliga | 25k coins | +50% | +57.1% |
-| Patrik Schick | 88 | Bundesliga | 29k coins | +38.6% | +27.8% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 40k coins | +37.9% | -14.4% |
-| Christian Eriksen | 87 | Bundesliga | 115k coins | +33% | +0.9% |
-| Nico Schlotterbeck | 87 | Bundesliga | 38k coins | +31.6% | +11.9% |
-| Tomáš Rosický | 89 | Bundesliga | 20k coins | +31.2% | 0% |
-| Włodzimierz Smolarek | 86 | Bundesliga | 24k coins | +25% | +39.7% |
-| Joshua Kimmich | 89 | Bundesliga | 270k coins | +15.9% | 0% |
-| Haris Tabaković | 85 | Bundesliga | 92k coins | +15.6% | -7.5% |
-| Antonio Nusa | 89 | Bundesliga | 47k coins | +15.4% | +16.9% |
+| Christian Eriksen | 87 | Bundesliga | 111k coins | +44.2% | -2.6% |
+| Willi Orban | 86 | Bundesliga | 36k coins | +36.4% | +23.7% |
+| Lukas Klostermann | 88 | Bundesliga | 299k coins | +35.3% | +0.7% |
+| Kevin Stöger | 86 | Bundesliga | 24k coins | +34.2% | -27.9% |
+| Andrej Kramarić | 89 | Bundesliga | 22k coins | +31.3% | +57.1% |
+| Loïc Badé | 88 | Bundesliga | 35k coins | +29.9% | +80.5% |
+| Benedict Hollerbach | 87 | Bundesliga | 23k coins | +26% | 0% |
+| Keven Schlotterbeck | 89 | Bundesliga | 22k coins | +23.9% | -51.1% |
+| Timo Werner | 87 | Bundesliga | 100k coins | +23.5% | +61.3% |
+| Ritsu Doan | 86 | Bundesliga | 37k coins | +18.2% | -31% |
 
 
 ### Análise das altas
 
-- **Claudio Pizarro (87)** subiu **+50%** em 24h, a **25k coins** (faixa do dia: 14k–25k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
+- **Christian Eriksen (87)** subiu **+44.2%** em 24h, a **111k coins** (faixa do dia: 76k–115k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
 
-- **Patrik Schick (88)** subiu **+38.6%** em 24h, a **29k coins** (faixa do dia: 21k–32k). Está +9% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Willi Orban (86)** subiu **+36.4%** em 24h, a **36k coins** (faixa do dia: 25k–36k). Está +38% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Dan-Axel Zagadou (85)** subiu **+37.9%** em 24h, a **40k coins** (faixa do dia: 28k–42k). Está em linha com a média de 7 dias (+0%). O modelo vê **estabilização** no curto prazo.
+- **Lukas Klostermann (88)** subiu **+35.3%** em 24h, a **299k coins** (faixa do dia: 195k–299k). Está +9% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Karim Adeyemi | 85 | Bundesliga | 129k coins | -34.2% | -49.2% |
-| Willi Orban | 86 | Bundesliga | 25k coins | -30.8% | -11.4% |
-| Zé Roberto | 87 | Bundesliga | 80k coins | -28.4% | +25.2% |
-| Can Uzun | 89 | Bundesliga | 82k coins | -25.9% | +1.9% |
-| Johan Bakayoko | 88 | Bundesliga | 38k coins | -24.2% | +1.4% |
-| Roy Makaay | 89 | Bundesliga | 42k coins | -22.7% | +70% |
-| Malik Tillman | 85 | Bundesliga | 25k coins | -19.2% | +40.3% |
-| Harry Kane | 91 | Bundesliga | 37k coins | -18.7% | -38.3% |
-| Aleksandar Pavlović | 89 | Bundesliga | 53k coins | -18.5% | -10.2% |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 382k coins | -15.1% | +3.2% |
+| Harry Kane | 91 | Bundesliga | 26k coins | -42% | -53.6% |
+| Serhou Guirassy | 89 | Bundesliga | 155k coins | -35.4% | -34.6% |
+| Zé Roberto | 87 | Bundesliga | 74k coins | -26.5% | +15.8% |
+| Lúcio | 91 | Bundesliga | 212k coins | -25.6% | -22.9% |
+| Can Uzun | 89 | Bundesliga | 73k coins | -18.9% | -8.8% |
+| Malik Tillman | 85 | Bundesliga | 24k coins | -17.1% | +34.7% |
+| Joshua Kimmich | 90 | Bundesliga | 24k coins | -16.8% | -16.8% |
+| Patrik Schick | 88 | Bundesliga | 26k coins | -16.5% | +17.8% |
+| Malik Tillman | 88 | Bundesliga | 88k coins | -15.7% | -46.4% |
+| Jean-Mattéo Bahoya | 89 | Bundesliga | 375k coins | -12% | +1.4% |
 
 
 ### Análise das baixas
 
-- **Karim Adeyemi (85)** caiu **-34.2%** em 24h, a **129k coins** (faixa do dia: 54k–196k). Está -10% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Harry Kane (91)** caiu **-42%** em 24h, a **26k coins** (faixa do dia: 26k–42k). Está -45% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Willi Orban (86)** caiu **-30.8%** em 24h, a **25k coins** (faixa do dia: 25k–33k). Está em linha com a média de 7 dias (-4%). O modelo vê **estabilização** no curto prazo.
+- **Serhou Guirassy (89)** caiu **-35.4%** em 24h, a **155k coins** (faixa do dia: 155k–234k). Está -30% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Zé Roberto (87)** caiu **-28.4%** em 24h, a **80k coins** (faixa do dia: 80k–113k). Está +10% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Zé Roberto (87)** caiu **-26.5%** em 24h, a **74k coins** (faixa do dia: 74k–113k). Está em linha com a média de 7 dias (+1%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +86,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
-Claudio Pizarro (87, Bundesliga), com +50% em 24h, a 25k coins no PC.
+Christian Eriksen (87, Bundesliga), com +44.2% em 24h, a 111k coins no PC.
 
 **E a maior queda do dia?**  
-Karim Adeyemi (85), -34.2% em 24h, a 129k coins.
+Harry Kane (91), -42% em 24h, a 26k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 32 cartas em alta contra 73 em queda (média -2.31%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 34 cartas em alta contra 70 em queda (média 0.4%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
