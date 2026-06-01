@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:32:02.000Z
+pubDatetime: 2026-06-01T01:32:01.000Z
 title: "Melhores investimentos em Bundesliga no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,27 +32,27 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Maximilian Beier | 85 | Bundesliga | 78k coins | +7.6% | +59.2% | 16% |
-| Roy Makaay | 87 | Bundesliga | 17k coins | +38% | +40.8% | 27% |
+| Bixente Lizarazu | 88 | Bundesliga | 22k coins | +24.3% | +47.5% | 43% |
 | Loïc Badé | 88 | Bundesliga | 29k coins | +33% | +34.5% | 5% |
 | Joshua Kimmich | 89 | Bundesliga | 112k coins | +19.8% | +31% | 27% |
 | Mario Götze | 88 | Bundesliga | 54k coins | +7.5% | +29.7% | 95% |
+| Jürgen Kohler | 89 | Bundesliga | 16k coins | +23.1% | +25.5% | 95% |
 | Haris Tabaković | 85 | Bundesliga | 117k coins | +1.7% | +23.2% | 95% |
 | Aleksandar Pavlović | 89 | Bundesliga | 29k coins | +17% | +23.2% | 5% |
 | Ritsu Doan | 86 | Bundesliga | 45k coins | +14.6% | +16.9% | 81% |
 | Matthias Ginter | 88 | Bundesliga | 27k coins | +16.1% | +16.1% | 95% |
+| Tomáš Rosický | 89 | Bundesliga | 16k coins | +24% | +14.8% | 95% |
 | Joshua Kimmich | 90 | Bundesliga | 32k coins | +18.4% | +14.2% | 5% |
 | Alphonso Davies | 89 | Bundesliga | 118k coins | +38.8% | +12.4% | 95% |
 | Lukas Klostermann | 88 | Bundesliga | 117k coins | +6.4% | +10.4% | 50% |
 | Danny da Costa | 84 | Bundesliga | 16k coins | +10% | +10% | 18% |
-| Angelo Stiller | 90 | Bundesliga | 20k coins | +8.3% | +9.9% | 5% |
-| Mario Mandžukić | 86 | Bundesliga | 15k coins | +17.6% | +9.1% | 28% |
 
 
 ## 📈 Análise dos destaques
 
 - **Maximilian Beier (85)** — 78k coins, **+59.2% em 7 dias** (+7.6% em 24h). Preço +41% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Roy Makaay (87)** — 17k coins, **+40.8% em 7 dias** (+38% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Bixente Lizarazu (88)** — 22k coins, **+47.5% em 7 dias** (+24.3% em 24h). Preço +46% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Loïc Badé (88)** — 29k coins, **+34.5% em 7 dias** (+33% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
