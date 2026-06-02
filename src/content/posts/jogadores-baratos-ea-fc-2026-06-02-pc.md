@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T10:32:02.000Z
+pubDatetime: 2026-06-02T13:32:04.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (02/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
