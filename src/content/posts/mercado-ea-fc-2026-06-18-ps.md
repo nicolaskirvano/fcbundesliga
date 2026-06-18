@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:32:07.000Z
+pubDatetime: 2026-06-18T22:32:22.000Z
 title: "Bundesliga no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,126 +13,120 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Rudi Völler (89, Bundesliga), com +50.8% em 24h, a 23k coins no Console (PS)."
+    a: "Timo Werner (87, Bundesliga), com +49.6% em 24h, a 57k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Dan-Axel Zagadou (85), -30.6% em 24h, a 22k coins."
+    a: "Maximilian Beier (85), -30% em 24h, a 37k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Jamie Leweling (86) — 95% de probabilidade de alta, a 32k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 48 cartas em alta contra 41 em queda (média 1.77%)."
+  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
+    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 44 cartas em alta contra 47 em queda (média -0.64%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
-## 📊 Resumo do mercado hoje
+## 📈 O mercado hoje, em resumo
 
-Em **18/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **48 subiram** e **41 caíram**, com variação média de **1.77%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+O mercado da Bundesliga em consoles PS hoje 18/06/2026 está com sentimento de lado, com altas e quedas se equilibrando, refletido na média de -0.64% em 24h entre 44 altas e 47 quedas.
 
-> 🟢 **Maior alta:** Rudi Völler (89) **+50.8%** · 🔴 **Maior baixa:** Dan-Axel Zagadou (85) **-30.6%**
+> 🟢 **Maior alta:** Timo Werner (87) **+49.6%** · 🔴 **Maior baixa:** Maximilian Beier (85) **-30%**
 
-## 🟢 Maiores altas (24h)
+## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rudi Völler | 89 | Bundesliga | 23k coins | +50.8% | +53.3% |
-| Ritsu Doan | 86 | Bundesliga | 95k coins | +48.4% | +122.2% |
-| Can Uzun | 89 | Bundesliga | 80k coins | +40.4% | +1.3% |
-| Luis Díaz | 89 | Bundesliga | 137k coins | +34% | +21.1% |
-| Jürgen Kohler | 90 | Bundesliga | 38k coins | +31% | +26.7% |
-| Kaishū Sano | 84 | Bundesliga | 42k coins | +29.5% | +9.9% |
-| Fábio Vieira | 87 | Bundesliga | 20k coins | +29.4% | +10% |
-| Haris Tabaković | 85 | Bundesliga | 68k coins | +28.3% | +53.7% |
-| Malik Tillman | 85 | Bundesliga | 50k coins | +22.7% | +65.3% |
-| Loïc Badé | 88 | Bundesliga | 24k coins | +19.5% | +36.8% |
+| Timo Werner | 87 | Bundesliga | 57k coins | +49.6% | +31.4% |
+| Ritsu Doan | 86 | Bundesliga | 95k coins | +46.2% | +123.5% |
+| Zé Roberto | 87 | Bundesliga | 73k coins | +23.3% | +1.6% |
+| Deniz Undav | 91 | Bundesliga | 72k coins | +22.8% | +27.3% |
+| Han-Noah Massengo | 84 | Bundesliga | 39k coins | +21.5% | -1.2% |
+| Keven Schlotterbeck | 89 | Bundesliga | 22k coins | +19.5% | +46.3% |
+| Fábio Vieira | 87 | Bundesliga | 20k coins | +19.1% | -8% |
+| Dimitris Giannoulis | 83 | Bundesliga | 62k coins | +16% | +23% |
+| Lúcio | 91 | Bundesliga | 290k coins | +16% | +11.1% |
+| Jürgen Kohler | 90 | Bundesliga | 40k coins | +15.9% | +33.3% |
 
 
-### Análise das altas
-
-- **Rudi Völler (89)** subiu **+50.8%** em 24h, a **23k coins** (faixa do dia: 12k–21k). Está +31% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
-
-- **Ritsu Doan (86)** subiu **+48.4%** em 24h, a **95k coins** (faixa do dia: 60k–95k). Está +26% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (81% de chance de subir mais).
-
-- **Can Uzun (89)** subiu **+40.4%** em 24h, a **80k coins** (faixa do dia: 47k–80k). Está em linha com a média de 7 dias (+4%). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+Timo Werner lidera as altas com 49.6% em 24h a 57k coins, seguido de perto por Ritsu Doan com 46.2% a 95k coins. Zé Roberto e Deniz Undav também se destacaram com altas de 23.3% e 22.8% respectivamente, indicando forte demanda por essas cartas específicas.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dan-Axel Zagadou | 85 | Bundesliga | 22k coins | -30.6% | -17.3% |
-| Matthias Ginter | 88 | Bundesliga | 21k coins | -23.5% | -55.4% |
-| David Raum | 87 | Bundesliga | 21k coins | -16.5% | -13.6% |
-| Luis Díaz | 86 | Bundesliga | 158k coins | -14.5% | -30% |
-| Vincenzo Grifo | 84 | Bundesliga | 44k coins | -13.6% | -11.1% |
-| Christian Eriksen | 87 | Bundesliga | 46k coins | -13.6% | -18.9% |
-| Maximilian Mittelstädt | 88 | Bundesliga | 25k coins | -12.3% | -33.3% |
-| Konrad Laimer | 84 | Bundesliga | 60k coins | -10% | +20% |
-| Deniz Undav | 84 | Bundesliga | 40k coins | -9.7% | -6.5% |
-| Nico Schlotterbeck | 87 | Bundesliga | 40k coins | -8.9% | +78.3% |
+| Maximilian Beier | 85 | Bundesliga | 37k coins | -30% | -29.3% |
+| Christian Eriksen | 87 | Bundesliga | 44k coins | -26.3% | -23.7% |
+| Nicolas Seiwald | 85 | Bundesliga | 22k coins | -25.4% | -26.7% |
+| Edmond Tapsoba | 86 | Bundesliga | 22k coins | -21.9% | -6.2% |
+| Harry Kane | 92 | Bundesliga | 213k coins | -17.3% | +10.3% |
+| Nadiem Amiri | 88 | Bundesliga | 22k coins | -17.2% | +31.5% |
+| Willi Orban | 86 | Bundesliga | 24k coins | -16.1% | -2.5% |
+| Serhou Guirassy | 88 | Bundesliga | 21k coins | -14.3% | +3.1% |
+| Serge Gnabry | 90 | Bundesliga | 240k coins | -14.1% | -14.1% |
+| Loïc Badé | 88 | Bundesliga | 25k coins | -14% | +8.9% |
 
 
-### Análise das baixas
-
-- **Dan-Axel Zagadou (85)** caiu **-30.6%** em 24h, a **22k coins** (faixa do dia: 22k–31k). Está -18% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
-
-- **Matthias Ginter (88)** caiu **-23.5%** em 24h, a **21k coins** (faixa do dia: 16k–24k). Está -38% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
-
-- **David Raum (87)** caiu **-16.5%** em 24h, a **21k coins** (faixa do dia: 19k–25k). Está em linha com a média de 7 dias (-5%). O modelo vê **estabilização** no curto prazo.
+Maximilian Beier sofreu a maior queda de 30% em 24h, caindo para 37k coins, enquanto Christian Eriksen despencou 26.3% para 44k coins. Nicolas Seiwald e Edmond Tapsoba também registraram quedas significativas de 25.4% e 21.9% respectivamente, pressionando o preço de defensores e meio-campistas.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Projeções do modelo para 24h
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Jamie Leweling | 86 | 32k coins | 37k coins | 95% |
-| Timo Werner | 87 | 46k coins | 57k coins | 95% |
-| Malik Tillman | 85 | 50k coins | 62k coins | 95% |
-| Mario Götze | 88 | 82k coins | 104k coins | 95% |
-| Harry Kane | 91 | 65k coins | 87k coins | 95% |
 | Dimitris Giannoulis | 83 | 62k coins | 76k coins | 95% |
-| Karim Adeyemi | 86 | 112k coins | 138k coins | 95% |
+| Malik Tillman | 85 | 50k coins | 62k coins | 95% |
+| Alphonso Davies | 89 | 99k coins | 133k coins | 95% |
+| Harry Kane | 91 | 65k coins | 87k coins | 95% |
+| Timo Werner | 87 | 57k coins | 71k coins | 95% |
+| Karim Adeyemi | 86 | 131k coins | 162k coins | 95% |
 | Malik Tillman | 88 | 260k coins | 334k coins | 95% |
 
 
-## ⚠️ Cuidado: o modelo projeta queda
+O modelo projeta alta para Jamie Leweling, Dimitris Giannoulis e Malik Tillman, todos com probabilidade de alta de 95%. Alphonso Davies e Harry Kane também aparecem na lista de previsões positivas, sugerindo oportunidades de compra antecipada.
+
+
+## ⚠️ Cartas em risco nas próximas 24h
 
 Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite comprar agora:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Nico Schlotterbeck | 87 | 32k coins | -17.3% |
-| Niklas Süle | 85 | 32k coins | -21.3% |
-| Grimaldo | 92 | 40k coins | -15.6% |
-| Angelo Stiller | 91 | 32k coins | -15.6% |
-| Jakub Kamiński | 83 | 51k coins | -24.1% |
 | Joshua Kimmich | 90 | 50k coins | -29.2% |
-| Konrad Laimer | 84 | 60k coins | -17.3% |
-| Sven Ulreich | 87 | 54k coins | -15.6% |
+| Xavi Simons | 84 | 44k coins | -34.1% |
+| Grimaldo | 86 | 30k coins | -21.3% |
+| Niklas Süle | 85 | 32k coins | -21.3% |
+| Konrad Laimer | 84 | 53k coins | -17.3% |
+| Harry Kane | 92 | 170k coins | -16.7% |
+| Nico Schlotterbeck | 87 | 32k coins | -17.3% |
+| Grimaldo | 92 | 36k coins | -15.6% |
 
 
-## 📐 Como o FutQuant lê o mercado
+## 🎯 Conclusão do dia
+Dada a estabilidade do mercado de lado, o melhor movimento é comprar as cartas com previsão de alta do modelo como Jamie Leweling e segurar as que já subiram como Timo Werner. Evite compras impulsivas em cartas com quedas acentuadas como Maximilian Beier até haver sinal de estabilização.
 
-Nossos números vêm de **centenas de milhões de pontos de preço** coletados de múltiplas fontes do mercado do EA FC, atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias de preço** (cotações irreais de cartas extintas ou erros de coleta). As previsões usam um modelo treinado no histórico de cada carta, considerando **médias móveis (24h e 7 dias)**, **níveis de suporte e resistência** e a volatilidade recente. Por isso você vê aqui o que a maioria dos sites não mostra: não só o preço, mas **para onde ele tende a ir**.
+
+## 📊 Nossa metodologia em 30 segundos
+Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
 
 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Rudi Völler (89, Bundesliga), com +50.8% em 24h, a 23k coins no Console (PS).
+Timo Werner (87, Bundesliga), com +49.6% em 24h, a 57k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Dan-Axel Zagadou (85), -30.6% em 24h, a 22k coins.
+Maximilian Beier (85), -30% em 24h, a 37k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
 Pelo modelo FutQuant, Jamie Leweling (86) — 95% de probabilidade de alta, a 32k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 48 cartas em alta contra 41 em queda (média 1.77%).
+**O mercado do Ultimate Team subiu ou caiu hoje?**  
+Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 44 cartas em alta contra 47 em queda (média -0.64%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
-Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
+Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
 > 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
