@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:32:48.000Z
+pubDatetime: 2026-06-19T01:33:13.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 18/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/06/2026)?"
-    a: "Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 7k coins no Console (PS)."
+    a: "Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Florian Wirtz (89) por apenas 7k coins.
+> 💰 **Melhor pechincha:** Jürgen Kohler (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,32 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 7k coins | +57.8% |
-| Roy Makaay | 89 | ST | Bundesliga | 14k coins | +3.6% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | +6.2% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.3% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | +8.9% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 12k coins | -7.4% |
-| Grimaldo | 87 | LM | Bundesliga | 15k coins | -10.4% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -19% |
-| Granit Xhaka | 85 | CDM | Bundesliga | 2k coins | +46.2% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | +18.4% |
-| Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +16.7% |
+| Andrej Kramarić | 89 | CAM | Bundesliga | 14k coins | +27.5% |
+| Florian Wirtz | 88 | CAM | Bundesliga | 7k coins | +56.5% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | -4.3% |
+| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -4.3% |
+| Granit Xhaka | 86 | CDM | Bundesliga | 2k coins | +53.8% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | +4.4% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | +4.5% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -23.2% |
 
 
 ## 📈 Destaques
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Roy Makaay (89, ST)** da Bundesliga, a apenas **14k coins**
+- **Andrej Kramarić (89, CAM)** da Bundesliga, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **15k coins**
+- **Florian Wirtz (88, CAM)** da Bundesliga, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **13k coins**
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -71,7 +67,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/06/2026)?**  
-Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 7k coins no Console (PS).
+Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
