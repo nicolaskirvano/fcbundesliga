@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:40:57.000Z
+pubDatetime: 2026-06-19T19:33:18.000Z
 title: "Melhores investimentos em Bundesliga no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Deniz Undav (91, Bundesliga) lidera, com +82.2% em 7 dias a 79k coins no PC, e o modelo dá 27% de chance de seguir subindo."
+    a: "Keven Schlotterbeck (89, Bundesliga) lidera, com +82.4% em 7 dias a 31k coins no PC, e o modelo dá 29% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Deniz Undav (91) acumula **+82.2% em 7 dias** a 79k coins.
+> 🔝 **Destaque:** Keven Schlotterbeck (89) acumula **+82.4% em 7 dias** a 31k coins.
 
 
 ## 🧠 A leitura do dia
-Ao analisar o mercado de cartas da Bundesliga no EA FC Ultimate Team para PC nesta data de 19 de junho de 2026, observamos uma dinâmica de valorização interessante nas últimas 24 horas. O foco principal deste relatório reside em identificar quais ativos apresentam maior potencial de retorno imediato, baseando-se estritamente nas tendências de alta verificadas. Entre as opções disponíveis, a carta de Deniz Undav (91, Bundesliga) destaca-se com um aumento de 26,2% em apenas um dia, posicionando-se a 79k coins. Com uma probabilidade estimada de alta de 27%, esta carta representa uma oportunidade sólida para investidores que buscam segurança relativa combinada com um crescimento significativo, sugerindo uma demanda constante no mercado.
+Ao analisar o mercado de cartas da Bundesliga para o dia 19 de junho de 2026, é fundamental focar nos ativos que demonstram uma tendência de valorização consistente nos últimos sete dias. Entre as opções apresentadas, Uli Hoeneß se destaca como o investimento mais sólido devido à sua probabilidade de alta extremamente elevada de 80%. Apesar de ter um preço atual de 26k coins, que pode parecer modesto para uma carta de 88 rating, a combinação desse custo acessível com uma alta probabilidade de apreciação e um aumento de 12.7% nas últimas 24 horas cria um cenário de risco reduzido e retorno potencialmente robusto. Essa carta não apenas se beneficia da demanda por jogadores icônicos, mas também pela mecânica de mercado que favorece itens de entrada mais barata com alta liquidade esperada.
 
-Outro ponto de atenção crucial é a performance de Fisnik Asllani (85, Bundesliga), que registrou uma subida de 21,4% em 24 horas, encontrando-se no preço de 28k coins. Apesar de ser uma carta de rating mais baixo, sua alta probabilidade de continuar subindo (28%) torna-a uma aposta interessante para quem deseja diversificar portfólios com entradas de capital menores. A combinação de preço acessível e tendência positiva indica que a liquidez desta carta pode aumentar, facilitando a revenda rápida com lucro, o que é essencial para estratégias de curto prazo no mercado atual.
+Outra opção de excelência para portfólio é Grimaldo, que figura com uma avaliação de 92 rating e um preço de 59k coins. Com uma probabilidade de alta de 64% e um crescimento recente de 10% em 24 horas, esta carta representa um equilíbrio ideal entre valorização significativa e estabilidade relativa. Jogadores de linha de frente com ratings elevados tendem a ser alvos constantes de squads de alto nível, e a tendência ascendente de Grimaldo sugere que o mercado está reconhecendo sua utilidade tática. Para investidores que buscam segurança com margens de lucro consideráveis, a entrada em Grimaldo oferece uma base firme, já que a probabilidade superior a 60% indica uma demanda sustentada que dificilmente colapsará abruptamente.
 
-Para investidores dispostos a assumir riscos maiores em busca de retornos proporcionais, a carta de Wouter Burger (87, Bundesliga) merece destaque. Com um aumento de 22,2% em 24 horas e um preço elevado de 230k coins, esta carta apresenta uma probabilidade de alta de 43%. Embora o investimento inicial seja considerável, a magnitude do ganho potencial justifica a análise para carteiras mais robustas. A tendência de valorização nesta faixa de preço sugere que há uma demanda específica por defensores de alto nível na Bundesliga, impulsionando os preços de forma consistente.
+No segmento de médio porte, Benedict Hollerbach apresenta dados intrigantes. Com um preço de 28k coins e uma probabilidade de alta de 66%, ele se posiciona como uma das apostas mais seguras da lista. O aumento de 20% nas últimas 24 horas é um indicador forte de momentum comprador. Diferente de cartas que oscilam violentamente, Hollerbach mostra uma subida consistente, sugerindo que sua inclusão em times competitivos está ganhando tração. Para quem deseja diversificar com ativos que não exigem grandes quantias iniciais, mas que prometem retorno baseado em estatísticas favoráveis, Hollerbach é uma escolha racional e fundamentada.
 
-Em contrapartida, é necessário cautela com cartas que, embora estejam em alta, possuem probabilidades de continuidade menos favoráveis. A carta de Uli Hoeneß (88, Bundesliga), por exemplo, subiu 11,1% e está a 30k coins, mas possui uma probabilidade de alta de 80%. Este dado estatístico indica que a tendência de valorização pode estar próxima de um topo ou saturação, sugerindo que a janela de oportunidade para lucro rápido pode estar se fechando. Investidores devem considerar a realização de lucros nesta carta antes de uma possível correção de mercado.
+Ritsu Doan e Zé Roberto merecem atenção especial devido à sua probabilidade de alta de 60%, um indicador estatisticamente relevante para investimentos de curto a médio prazo. Doan, a 80k coins, e Zé Roberto, a 84k coins, possuem ratings de 86 e 87, respectivamente. Embora os preços sejam mais elevados, a probabilidade de 60% para ambos sugere que o mercado os valoriza acima da média para suas categorias. O aumento de 6.7% de Doan e 6.2% de Zé Roberto em 24 horas pode parecer discreto, mas quando combinado com a alta probabilidade de continuidade da tendência, indica uma valorização orgânica e estável, ideal para investidores que preferem evitar volatilidade extrema.
 
-Cartas como Maximilian Beier (85, Bundesliga) e Nico Schlotterbeck (87, Bundesliga) também apresentam perfis distintos. Beier, com 13% de alta e probabilidade de 33% a 48k coins, oferece um equilíbrio entre risco e retorno moderado. Já Schlotterbeck, com 16,2% de alta e probabilidade de 30% a 45k coins, segue uma trajetória similar, indicando estabilidade no crescimento. Ambas são opções viáveis para estratégias de médio prazo, onde a consistência da tendência é mais valiosa do que picos voláteis de valorização.
+Por outro lado, é crucial exercer cautela com Willi Orban e Keven Schlotterbeck. Orban, apesar do impressionante aumento de 38.2% em 24 horas, possui uma probabilidade de alta de apenas 18%. Isso sugere que o recente pico de preço pode ser uma correção momentânea ou um evento isolado, com baixo potencial de sustentação a longo prazo. Da mesma forma, Schlotterbeck, a 31k coins, tem uma probabilidade de alta de apenas 29%, tornando-o um ativo de risco elevado para investimento estratégico, pois a tendência de alta não parece estar consolidada estatisticamente.
 
-Por fim, cartas como Julian Brandt (87, Bundesliga) e Serhou Guirassy (88, Bundesliga) mostram altas modestas de 5,3% e 4,3% respectivamente, com probabilidades de alta muito baixas (9% e 15%). Isso sugere que o mercado já absorveu grande parte do potencial de valorização recente dessas cartas, tornando-as menos atraentes para novas entradas neste momento. A recomendação final é priorizar ativos como Undav e Asllani para entrada segura, enquanto se monitora de perto Burger para oportunidades de alto risco/alto retorno, evitando expor capital excessivo em cartas com sinais de saturação como Hoeneß.
+Finalmente, Daniel Svensson e Fábio Vieira oferecem cenários mistos. Svensson tem uma alta volatilidade recente (24.3%) mas apenas 33% de probabilidade de alta, enquanto Vieira, a 25k coins, apresenta 54% de probabilidade e 11.5% de crescimento. Vieira parece ter melhor equilíbrio risco-retorno do que Svensson, servindo como uma alternativa de entrada mais barata. Em resumo, a estratégia mais prudente hoje foca em Uli Hoeneß, Grimaldo e Hollerbach, priorizando a probabilidade estatística de alta sobre simples picos de preço momentâneos.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Deniz Undav | 91 | Bundesliga | 79k coins | +26.2% | +82.2% | 27% |
-| Maximilian Beier | 85 | Bundesliga | 48k coins | +13% | +73.6% | 33% |
+| Keven Schlotterbeck | 89 | Bundesliga | 31k coins | +10.7% | +82.4% | 29% |
 | Ritsu Doan | 86 | Bundesliga | 80k coins | +6.7% | +73% | 60% |
-| Fisnik Asllani | 85 | Bundesliga | 28k coins | +21.4% | +64.5% | 28% |
-| Serhou Guirassy | 88 | Bundesliga | 36k coins | +4.3% | +62.9% | 15% |
-| Uli Hoeneß | 88 | Bundesliga | 30k coins | +11.1% | +62.2% | 80% |
-| Julian Brandt | 87 | Bundesliga | 30k coins | +5.3% | +53.8% | 9% |
-| Luka Vušković | 86 | Bundesliga | 26k coins | +15.3% | +53.1% | 13% |
-| Nico Schlotterbeck | 87 | Bundesliga | 45k coins | +16.2% | +49.2% | 30% |
-| Wouter Burger | 87 | Bundesliga | 230k coins | +22.2% | +38.4% | 43% |
-| Jürgen Kohler | 90 | Bundesliga | 45k coins | +2.3% | +36.4% | 61% |
-| Danny da Costa | 84 | Bundesliga | 30k coins | +2.9% | +31.7% | 32% |
-| Christian Günter | 88 | Bundesliga | 36k coins | +37.7% | +22.7% | 25% |
-| Sven Ulreich | 87 | Bundesliga | 45k coins | +5.3% | +20% | 52% |
-| Mario Götze | 88 | Bundesliga | 80k coins | +4.5% | +17.6% | 59% |
+| Benedict Hollerbach | 87 | Bundesliga | 28k coins | +20% | +62.9% | 66% |
+| Daniel Svensson | 84 | Bundesliga | 34k coins | +24.3% | +62.4% | 33% |
+| Serhou Guirassy | 88 | Bundesliga | 36k coins | +5.9% | +61.8% | 15% |
+| Uli Hoeneß | 88 | Bundesliga | 26k coins | +12.7% | +55.4% | 80% |
+| Grimaldo | 92 | Bundesliga | 59k coins | +10% | +46.7% | 64% |
+| Zé Roberto | 87 | Bundesliga | 84k coins | +6.2% | +44.1% | 60% |
+| Fábio Vieira | 87 | Bundesliga | 25k coins | +11.5% | +37.2% | 54% |
+| Willi Orban | 86 | Bundesliga | 34k coins | +38.2% | +27% | 18% |
+| Andrej Kramarić | 89 | Bundesliga | 20k coins | +2.6% | +27% | 56% |
+| Alphonso Davies | 89 | Bundesliga | 175k coins | +25% | +26.4% | 58% |
+| Luis Díaz | 89 | Bundesliga | 180k coins | +32.4% | +25.9% | 78% |
+| David Raum | 84 | Bundesliga | 54k coins | +1.9% | +23.2% | 14% |
+| Serhou Guirassy | 89 | Bundesliga | 120k coins | +22.4% | +21.8% | 24% |
 
 
 ## 📈 Análise dos destaques
 
-- **Deniz Undav (91)** — 79k coins, **+82.2% em 7 dias** (+26.2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Keven Schlotterbeck (89)** — 31k coins, **+82.4% em 7 dias** (+10.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Maximilian Beier (85)** — 48k coins, **+73.6% em 7 dias** (+13% em 24h). Preço em linha com a média de 7 dias (-4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ritsu Doan (86)** — 80k coins, **+73% em 7 dias** (+6.7% em 24h). Preço em linha com a média de 7 dias (+8%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ritsu Doan (86)** — 80k coins, **+73% em 7 dias** (+6.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Benedict Hollerbach (87)** — 28k coins, **+62.9% em 7 dias** (+20% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Fisnik Asllani (85)** — 28k coins, **+64.5% em 7 dias** (+21.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Daniel Svensson (84)** — 34k coins, **+62.4% em 7 dias** (+24.3% em 24h). Preço +43% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Serhou Guirassy (88)** — 36k coins, **+62.9% em 7 dias** (+4.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Serhou Guirassy (88)** — 36k coins, **+61.8% em 7 dias** (+5.9% em 24h). Preço em linha com a média de 7 dias (-1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +90,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Deniz Undav (91, Bundesliga) lidera, com +82.2% em 7 dias a 79k coins no PC, e o modelo dá 27% de chance de seguir subindo.
+Keven Schlotterbeck (89, Bundesliga) lidera, com +82.4% em 7 dias a 31k coins no PC, e o modelo dá 29% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
