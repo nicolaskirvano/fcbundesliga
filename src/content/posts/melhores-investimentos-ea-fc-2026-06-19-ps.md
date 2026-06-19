@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:36:47.000Z
+pubDatetime: 2026-06-19T22:33:41.000Z
 title: "Melhores investimentos em Bundesliga no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Nico Schlotterbeck (87, Bundesliga) lidera, com +48.3% em 7 dias a 34k coins no Console (PS), e o modelo dá 68% de chance de seguir subindo."
+    a: "Keven Schlotterbeck (89, Bundesliga) lidera, com +34.9% em 7 dias a 21k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Nico Schlotterbeck (87) acumula **+48.3% em 7 dias** a 34k coins.
+> 🔝 **Destaque:** Keven Schlotterbeck (89) acumula **+34.9% em 7 dias** a 21k coins.
 
 
 ## 🧠 A leitura do dia
-Ao analisar o mercado do EA FC Ultimate Team para o console PlayStation na data de 19 de junho de 2026, a liga da Bundesliga se destaca como uma fonte promissora de oportunidades de investimento, especialmente quando observamos as tendências de valorização dos últimos sete dias. A volatilidade do mercado exige uma análise criteriosa, focando não apenas no aumento percentual imediato, mas na probabilidade estatística de que essa alta se sustente. Entre as opções disponíveis, Christian Günter e Jean-Mattéo Bahoya surgem como as escolhas mais lógicas para quem busca entrada segura, combinando variações significativas com altas probabilidades de continuidade da tendência, o que reduz o risco de perda capital em curto prazo.
+No cenário atual do EA FC Ultimate Team, especificamente para jogadores de Console PS em 19 de junho de 2026, o mercado da Bundesliga apresenta uma dinâmica interessante para investidores que buscam oportunidades de curto prazo. Ao analisar as tendências de valorização dos últimos sete dias, identificamos cartas que não apenas subiram em 24 horas, mas que também possuem uma probabilidade estatística significativa de continuar essa trajetória ascendente. O foco aqui é identificar ativos com alto potencial de retorno imediato, baseando-se estritamente nos dados de performance recente e nas probabilidades fornecidas pelo mercado, sem especulações externas.
 
-Christian Günter, com uma nota de 84, apresenta um aumento robusto de 33,8% em apenas 24 horas, atingindo um preço atual de 16 mil moedas. O que torna essa carta particularmente atrativa é a sua probabilidade de alta de 80%, indicando um forte consenso de mercado na direção de valorização. Para investidores que operam com orçamentos mais ajustados, Günter oferece um perfil de risco-benefício excepcional, permitindo a entrada em uma tendência clara sem comprometer uma parte significativa do capital total da conta.
+Entre as opções mais conservadoras e seguras, Luis Díaz e Grimaldo se destacam como investimentos de alta confiabilidade. Luis Díaz, uma carta de 86 de rating, registrou uma alta de 1% nas últimas 24 horas, cotada a 50k coins. O dado crucial aqui é a probabilidade de alta de 95%, o que indica que a tendência é extremamente sólida e quase garantida para os próximos dias. Da mesma forma, Grimaldo, com 87 de rating, apresentou um salto impressionante de 23.3% em 24 horas, posicionando-se a 18k coins. Com uma probabilidade de alta também de 95%, Grimaldo oferece uma combinação poderosa de valor acessível e crescimento acelerado, sendo ideal para quem quer lucrar rápido com baixo risco de correção.
 
-No extremo oposto do espectro de preços, Jean-Mattéo Bahoya, com uma nota impressionante de 89, registra um aumento de 7,4% em 24 horas, cotado a 105 mil moedas. Apesar do percentual ser moderado em comparação com outros ativos, a probabilidade de alta de 84% é a mais elevada do grupo analisado. Isso sugere que a demanda por Bahoya é estável e crescente, tornando-o uma peça-chave para times competitivos que buscam qualidade na Bundesliga. Investir em Bahoya é, portanto, uma aposta em sustentabilidade e valorização gradual, ideal para quem prefere segurança sobre ganhos explosivos e imediatos.
+Para investidores dispostos a aceitar riscos moderados em troca de retornos potencialmente maiores, Fisnik Asllani e Manolis Saliakas merecem atenção. Asllani, com 85 de rating, subiu 5.6% em 24 horas e está cotado a 34k coins. Sua probabilidade de alta é de 58%, sugerindo uma tendência positiva, embora menos certa que a de Díaz ou Grimaldo. Já Saliakas, de 84 de rating, teve uma explosão de 23.6% em 24 horas, atingindo os 46k coins. Com 50% de probabilidade de alta, ele representa uma aposta mais volátil, onde o ganho recente foi significativo, mas a continuidade depende da manutenção da demanda no mercado.
 
-Outras cartas merecem atenção por apresentarem probabilidades elevadas de alta, mesmo que com variações percentuais mais modestas. Nico Schlotterbeck (87) subiu 4,9% para 34 mil moedas, com 68% de probabilidade de continuidade, enquanto Deniz Undav (91) aumentou 6,4% para 75 mil moedas, com 63% de chance de alta. Ambos oferecem perfis sólidos: Schlotterbeck como uma defesa confiável e Undav como um atacante de elite. A combinação de preço acessível e alta probabilidade torna esses ativos interessantes para diversificar o portfólio de investimento, capturando valor em diferentes faixas de preço.
+Por outro lado, é fundamental evitar cartas que, apesar de terem subido, apresentam baixíssima probabilidade de continuidade. Keven Schlotterbeck e Roy Makaay são exemplos claros disso. Schlotterbeck (89) subiu 6.2% e está a 21k coins, enquanto Makaay (89) subiu 6.7% e está a 16k coins. No entanto, ambos possuem apenas 5% de probabilidade de alta. Isso indica que o movimento recente pode ser um pico temporário ou uma correção de preço, tornando-as péssimas opções para investimento imediato, pois o risco de queda é extremamente elevado.
 
-Por outro lado, é crucial exercitar cautela com cartas que apresentam altos aumentos percentuais, mas baixas probabilidades de continuidade. Harry Kane (92), por exemplo, disparou 14,3% para 209 mil moedas, mas sua probabilidade de alta é de apenas 5%, sugerindo uma possível correção ou saturação de demanda. Da mesma forma, Luis Díaz (87) subiu 40% para 158 mil moedas, mas com apenas 55% de probabilidade de alta. Embora os números sejam tentadores, a baixa probabilidade indica que esses movimentos podem ser efêmeros, tornando-as arriscadas para novas entradas.
+Harry Kane, a carta de maior rating do grupo com 91, também se posiciona como uma excelente oportunidade. Ele registrou uma alta de 18.2% em 24 horas e está cotado a 65k coins. Assim como Díaz e Grimaldo, Kane possui 95% de probabilidade de alta. Para investidores com maior capital, Kane oferece a segurança da probabilidade alta combinada com o status de jogador elite, o que geralmente garante liquidez e sustentação de preço.
 
-Em suma, o mercado da Bundesliga no dia 19 de junho de 2026 recompensa a análise fria. Enquanto cartas como Keven Schlotterbeck (89, 20k), Willi Orban (86, 26k) e Yan Diomande (84, 55k) apresentam probabilidades variadas entre 5% e 50%, a estratégia mais prudente foca em Günter e Bahoya. Jürgen Kohler (90, 38k), com 50% de probabilidade e 2,6% de alta, serve como uma opção intermediária de baixo risco. A decisão final deve considerar a tolerância ao risco: Günter e Bahoya oferecem o melhor equilíbrio entre tendência confirmada e probabilidade estatística de lucro, sendo as cartas que mais valem a entrada neste momento específico do mercado.
+Em resumo, as melhores entradas hoje são Grimaldo e Harry Kane pela alta probabilidade e volume de subida, seguidos por Luis Díaz para estabilidade. Asllani e Saliakas são apostas para quem aceita volatilidade. Schlotterbeck e Makaay devem ser evitados devido à baixa probabilidade de continuidade. O mercado de 19/06/2026 recompensa a análise fria dos dados de probabilidade, não apenas o aumento percentual isolado.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,34 +45,26 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nico Schlotterbeck | 87 | Bundesliga | 34k coins | +4.9% | +48.3% | 68% |
-| Jürgen Kohler | 90 | Bundesliga | 38k coins | +2.6% | +44.4% | 50% |
-| Harry Kane | 92 | Bundesliga | 209k coins | +14.3% | +41.8% | 5% |
-| Luis Díaz | 87 | Bundesliga | 158k coins | +40% | +38.7% | 55% |
-| Keven Schlotterbeck | 89 | Bundesliga | 20k coins | +4.7% | +38.5% | 5% |
-| Deniz Undav | 91 | Bundesliga | 75k coins | +6.4% | +37.6% | 63% |
-| Willi Orban | 86 | Bundesliga | 26k coins | +5.6% | +34.3% | 43% |
-| Christian Günter | 84 | Bundesliga | 16k coins | +33.8% | +29.9% | 80% |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 105k coins | +7.4% | +29.1% | 84% |
-| Yan Diomande | 84 | Bundesliga | 55k coins | +10% | +27.9% | 50% |
-| Włodzimierz Smolarek | 86 | Bundesliga | 15k coins | +17.6% | +27.7% | 5% |
-| Angelo Stiller | 91 | Bundesliga | 38k coins | +10.1% | +26.7% | 5% |
-| Uli Hoeneß | 88 | Bundesliga | 21k coins | +14.3% | +25% | 81% |
-| David Raum | 87 | Bundesliga | 25k coins | +7.1% | +20% | 45% |
-| Grimaldo | 87 | Bundesliga | 20k coins | +4% | +14.7% | 95% |
+| Keven Schlotterbeck | 89 | Bundesliga | 21k coins | +6.2% | +34.9% | 5% |
+| Luis Díaz | 86 | Bundesliga | 50k coins | +1% | +17.6% | 95% |
+| Manolis Saliakas | 84 | Bundesliga | 46k coins | +23.6% | +13.7% | 50% |
+| Fisnik Asllani | 85 | Bundesliga | 34k coins | +5.6% | +10.9% | 58% |
+| Grimaldo | 87 | Bundesliga | 18k coins | +23.3% | +8.8% | 95% |
+| Harry Kane | 91 | Bundesliga | 65k coins | +18.2% | +8.3% | 95% |
+| Roy Makaay | 89 | Bundesliga | 16k coins | +6.7% | +6.7% | 5% |
 
 
 ## 📈 Análise dos destaques
 
-- **Nico Schlotterbeck (87)** — 34k coins, **+48.3% em 7 dias** (+4.9% em 24h). Preço -16% abaixo da média de 7 dias (descontada). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
+- **Keven Schlotterbeck (89)** — 21k coins, **+34.9% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (+7%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Jürgen Kohler (90)** — 38k coins, **+44.4% em 7 dias** (+2.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Luis Díaz (86)** — 50k coins, **+17.6% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Harry Kane (92)** — 209k coins, **+41.8% em 7 dias** (+14.3% em 24h). Preço +37% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Manolis Saliakas (84)** — 46k coins, **+13.7% em 7 dias** (+23.6% em 24h). Preço em linha com a média de 7 dias (+6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Luis Díaz (87)** — 158k coins, **+38.7% em 7 dias** (+40% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Fisnik Asllani (85)** — 34k coins, **+10.9% em 7 dias** (+5.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Keven Schlotterbeck (89)** — 20k coins, **+38.5% em 7 dias** (+4.7% em 24h). Preço em linha com a média de 7 dias (-1%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Grimaldo (87)** — 18k coins, **+8.8% em 7 dias** (+23.3% em 24h). Preço em linha com a média de 7 dias (+3%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -90,7 +82,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Nico Schlotterbeck (87, Bundesliga) lidera, com +48.3% em 7 dias a 34k coins no Console (PS), e o modelo dá 68% de chance de seguir subindo.
+Keven Schlotterbeck (89, Bundesliga) lidera, com +34.9% em 7 dias a 21k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
