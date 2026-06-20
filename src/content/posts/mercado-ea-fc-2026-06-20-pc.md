@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:33:48.000Z
+pubDatetime: 2026-06-20T13:33:56.000Z
 title: "Bundesliga no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Serhou Guirassy (89, Bundesliga), com +52.2% em 24h, a 117k coins no PC."
+    a: "Malik Tillman (85, Bundesliga), com +50% em 24h, a 32k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Alphonso Davies (89), -36.3% em 24h, a 127k coins."
+    a: "Ragnar Ache (84), -45.7% em 24h, a 28k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 26k coins."
+    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 18k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 46 cartas em alta contra 51 em queda (média -0.05%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 36 cartas em alta contra 52 em queda (média -4.35%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado da Bundesliga no PC apresenta um cenário de extrema volatilidade e indecisão nesta terça-feira, 20 de junho de 2026, caracterizado por um sentimento lateral que não oferece direcionamento claro para os traders. Com um balanço quase equilibrado entre altas e quedas, registrando 46 aumentos contra 51 reduções de preço, a média geral do segmento recuou ligeiramente 0,05% nas últimas 24 horas, indicando uma fase de consolidação e cautela. Esse ambiente de incerteza exige uma leitura atenta dos fundamentos por trás de cada movimento, pois a ausência de um catalisador macroeconômico forte sugere que as flutuações são impulsionadas por microeventos específicos de squads e rotatividade de inventários. A divergência entre a probabilidade de alta projetada pelo modelo e os preços atuais revela oportunidades de arbitragem para quem possui disciplina para operar contra a manada, aproveitando a confusão do mercado em definir um valor justo para os ativos. Neste contexto, a estratégia deve focar na identificação de ativos supercomprados com baixa probabilidade de continuidade e ativos subvalorizados com alta probabilidade de correção positiva.
+O mercado da Bundesliga no PC apresenta um cenário de extrema cautela e pressão vendedora hoje, 20 de junho de 2026, com uma predominância clara de quedas nos ativos, onde 52 jogadores registraram perdas contra apenas 36 altas, resultando em uma média negativa de 4.35% em 24 horas. Este contexto de desânimo generalizado reflete a aversão ao risco dos traders, que estão liquidando posições de forma agressiva para se protegerem de possíveis volatilidades negativas ou simplesmente buscando liquidez imediata em um ambiente hostil. A dinâmica atual sugere que qualquer compra deve ser feita com critérios extremamente rigorosos, focando apenas em ativos com fundamentos sólidos ou oportunidades de desconto profundo, evitando-se especulações de curto prazo que podem resultar em prejuízos significativos diante da tendência de baixa. O tom do dia é de desconfiança, onde até mesmo os jogadores com alta probabilidade de valorização struggle para manter o preço, indicando que a oferta supera a demanda na maioria dos segmentos da liga alemã. Analistas devem estar atentos aos movimentos contrários à tendência, pois podem indicar oportunidades de 'buy the dip' para os mais ousados, mas a regra de ouro hoje é a preservação de capital.
 
-> 🟢 **Maior alta:** Serhou Guirassy (89) **+52.2%** · 🔴 **Maior baixa:** Alphonso Davies (89) **-36.3%**
+> 🟢 **Maior alta:** Malik Tillman (85) **+50%** · 🔴 **Maior baixa:** Ragnar Ache (84) **-45.7%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Serhou Guirassy | 89 | Bundesliga | 117k coins | +52.2% | +10.5% |
-| Loïc Badé | 88 | Bundesliga | 28k coins | +49.4% | -7.1% |
-| Malik Tillman | 85 | Bundesliga | 32k coins | +40% | -16% |
-| Włodzimierz Smolarek | 86 | Bundesliga | 20k coins | +36.7% | +41.4% |
-| Willi Orban | 86 | Bundesliga | 33k coins | +33.3% | +15.8% |
-| Jakub Kamiński | 83 | Bundesliga | 59k coins | +26.2% | +20.4% |
-| Luis Díaz | 91 | Bundesliga | 319k coins | +22.6% | +18.9% |
-| Serhou Guirassy | 88 | Bundesliga | 49k coins | +22.4% | +134.5% |
-| Felix Nmecha | 86 | Bundesliga | 404k coins | +21.6% | +69.2% |
-| Nathan Tella | 86 | Bundesliga | 22k coins | +20% | +33.3% |
+| Malik Tillman | 85 | Bundesliga | 32k coins | +50% | -16% |
+| Silas | 84 | Bundesliga | 58k coins | +36.5% | +6.4% |
+| Kevin Stöger | 86 | Bundesliga | 34k coins | +35.3% | -9.2% |
+| Jakub Kamiński | 83 | Bundesliga | 59k coins | +32.6% | +19.2% |
+| Karim Adeyemi | 86 | Bundesliga | 179k coins | +28.8% | +27% |
+| Nicolas Seiwald | 85 | Bundesliga | 38k coins | +26.1% | +32.7% |
+| Luis Díaz | 91 | Bundesliga | 361k coins | +24.5% | +21.5% |
+| Konrad Laimer | 84 | Bundesliga | 68k coins | +22.7% | -1.5% |
+| Lukas Klostermann | 88 | Bundesliga | 153k coins | +20.5% | +12.5% |
+| Kim Min Jae | 86 | Bundesliga | 38k coins | +18.1% | 0% |
 
 
-A liderança das altas é dominada por Serhou Guirassy na versão 89, que registrou um impressionante salto de 52,2% em 24 horas, atingindo os 117k coins, um movimento que parece desproporcional à sua probabilidade de alta de apenas 24%, sugerindo um pico de interesse especulativo de curto prazo. Logo atrás, Loïc Badé (88) sobe 49,4% para 28k coins, mas diferentemente de Guirassy, possui uma robusta probabilidade de alta de 63%, indicando que esta valorização tem suporte fundamental mais sólido e menos risco de reversão imediata. Malik Tillman (85) também se destaca com alta de 40% para 32k coins, apoiado por uma probabilidade de alta de 52%, o que confirma uma tendência de compra consistente em seu faixa de preço médio. Włodzimierz Smolarek (86) apresenta alta de 36,7% para 20k coins, embora sua probabilidade de alta de 38% indique que o movimento pode estar esgotando o combustível de compradores novos. Willi Orban (86) fecha o top 5 com alta de 33,3% para 33k coins, mas sua baixa probabilidade de alta de 18% serve como um alerta vermelho para traders de swing, indicando que este pico é provavelmente uma anomalia de liquidez momentânea e não uma reavaliação estrutural do ativo.
+Entre os poucos ativos que conseguiram se destacar no mar vermelho, Malik Tillman lidera as altas com um impressionante salto de 50% em 24 horas, atingindo 32k coins, impulsionado por uma probabilidade de alta de 52% que atraiu compradores de contramão. Silas também registrou um desempenho robusto, subindo 36.5% para 58k coins, embora sua probabilidade de alta de apenas 21% sugira que este movimento possa ser mais técnico do que fundamental, exigindo cautela na entrada. Kevin Stöger apresentou uma alta de 35.3% chegando a 34k coins, apoiado por uma probabilidade de alta de 65%, o que indica um consenso mais forte entre os traders sobre o potencial de valorização deste ativo de médio porte. Jakub Kamiński, por sua vez, valorizou 32.6% atingindo 59k coins, mas com uma probabilidade de alta de apenas 30%, sugerindo que o preço pode estar superaquecido em relação aos fundamentos de mercado. Karim Adeyemi, um ativo de maior capitalização, subiu 28.8% para 179k coins com probabilidade de alta de 26%, indicando que mesmo os preços elevados podem sofrer ajustes bruscos se a narrativa de alta não for sustentada por demanda consistente. Nicolas Seiwald completou o quadro das altas com um ganho de 26.1% a 38k coins e probabilidade de 42%, oferecendo um balanço razoável entre risco e retorno para traders que buscam exposição a meias de boa qualidade.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alphonso Davies | 89 | Bundesliga | 127k coins | -36.3% | -23.1% |
-| Lennart Karl | 83 | Bundesliga | 35k coins | -32.2% | -9% |
-| Sven Ulreich | 87 | Bundesliga | 30k coins | -31.7% | -18% |
-| Michael Gregoritsch | 84 | Bundesliga | 30k coins | -27.5% | -25.3% |
-| Yan Diomande | 84 | Bundesliga | 39k coins | -26.2% | -10.4% |
-| Ritsu Doan | 86 | Bundesliga | 60k coins | -25% | -20% |
-| Christian Eriksen | 87 | Bundesliga | 54k coins | -24.8% | -62.9% |
-| Malik Tillman | 88 | Bundesliga | 130k coins | -23.5% | +4% |
-| Patrik Schick | 88 | Bundesliga | 20k coins | -23.4% | -34.4% |
-| Mario Götze | 88 | Bundesliga | 54k coins | -22.1% | -22.1% |
+| Ragnar Ache | 84 | Bundesliga | 28k coins | -45.7% | -33.7% |
+| Grimaldo | 92 | Bundesliga | 45k coins | -35.8% | +17.2% |
+| Luis Díaz | 89 | Bundesliga | 91k coins | -33.5% | -28.1% |
+| Sven Ulreich | 87 | Bundesliga | 30k coins | -33.3% | -20% |
+| Alphonso Davies | 89 | Bundesliga | 116k coins | -32.2% | -35.9% |
+| Edmond Tapsoba | 86 | Bundesliga | 20k coins | -31.9% | -27% |
+| Yan Diomande | 84 | Bundesliga | 38k coins | -27.4% | -11% |
+| Mario Götze | 88 | Bundesliga | 50k coins | -26.4% | -26.4% |
+| Karim Adeyemi | 85 | Bundesliga | 48k coins | -26.4% | -13.6% |
+| Angelo Stiller | 91 | Bundesliga | 28k coins | -24% | -4.3% |
 
 
-Na outra ponta do espectro, Alphonso Davies (89) lidera as quedas com uma retração severa de 36,3% para 127k coins, um movimento doloroso considerando sua alta probabilidade de alta de 58%, o que sugere uma venda excessiva emocional ou desmonta de squads de fim de semana que criaram uma oportunidade de compra de valor. Lennart Karl (83) despencou 32,2% para 35k coins, e com uma probabilidade de alta de apenas 8%, este ativo parece estar em uma tendência de baixa estrutural, devendo ser evitado por traders que buscam recuperação rápida. Sven Ulreich (87) caiu 31,7% para 30k coins, mas sua probabilidade de alta de 52% indica que este pode ser um fundo temporário, atraindo compradores de contramão que apostam na estabilização do preço. Michael Gregoritsch (84) recuou 27,5% para 30k coins, com probabilidade de alta de 36%, apresentando um risco moderado de continuidade na queda, exigindo paciência para entrar. Yan Diomande (84) fechou com queda de 26,2% para 39k coins, e sua probabilidade de alta de 28% reforça a ideia de que a pressão vendedora ainda está presente, tornando-o um ativo arriscado para acumulação imediata.
+As quedas foram massivas e abrangentes, com Ragnar Ache liderando a hemorragia de valor ao despencar 45.7% em 24 horas para 28k coins, apesar de uma probabilidade de alta de 52%, o que revela uma venda de pânico ou correção de preço excessivamente otimista. Grimaldo sofreu uma queda drástica de 35.8% atingindo 45k coins, o que é particularmente preocupante dado seu alto rating de 92 e probabilidade de alta de 64%, sugerindo uma possível mudança de narrativa ou evento externo não capturado pelos modelos básicos. Luis Díaz, na versão 89, caiu 33.5% para 91k coins com uma impressionante probabilidade de alta de 78%, indicando que este pode ser o ponto de compra ideal para traders de longo prazo, aproveitando a descrença momentânea do mercado. Sven Ulreich perdeu 33.3% seu valor, fechando em 30k coins, com probabilidade de alta de 52%, enquanto Alphonso Davies despencou 32.2% para 116k coins, com 58% de chance de alta, mostrando que até laterais de elite não estão imunes à pressão vendedora generalizada. Edmond Tapsoba caiu 31.9% para 20k coins, mas com apenas 17% de probabilidade de alta, confirmando que este ativo está em tendência de baixa estrutural e deve ser evitado por enquanto. Yan Diomande e Mario Götze também registraram quedas significativas de 27.4% e 26.4% respectivamente, com preços em 38k e 50k, reforçando a ideia de que o mercado está sem compacidade para ativos de defesa e meio-campo de linha 2.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,14 +74,14 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Uli Hoeneß | 88 | 26k coins | 27k coins | 80% |
+| Uli Hoeneß | 88 | 18k coins | 19k coins | 80% |
 
 
-O modelo quantitativo identifica Uli Hoeneß (88) como o ativo com maior potencial de valorização imediata, projetando uma probabilidade de alta de 80% para o seu preço atual de 26k coins. Esta previsão sugere uma forte assimetria de risco-retorno, onde a probabilidade estatística de ganho supera amplamente o risco de perda, tornando-o o alvo mais seguro para operações de curto prazo no segmento da Bundesliga.
+O modelo de previsão identifica Uli Hoeneß como o ativo com maior potencial de valorização imediata, com uma probabilidade de alta de 80% para o seu preço atual de 18k coins. Esta alta probabilidade sugere uma forte divergência entre a percepção de valor do mercado e os fundamentos estatísticos do jogador, criando uma oportunidade de assimetria favorável para os compradores. A magnitude da probabilidade indica que a oferta está exausta e que qualquer pequena demanda pode disparar o preço, tornando-o um candidato ideal para entrada de baixo risco em um mercado predominantemente negativo. Traders devem monitorar de perto a liquidez deste ativo, pois a baixa base de preço pode atrair tanto especuladores quanto colecionadores, potencializando o movimento de alta previsto pelo algoritmo.
 
 
 ## 🎯 A estratégia do dia
-A estratégia do dia deve priorizar a compra de ativos com alta probabilidade de modelo e queda recente, como Alphonso Davies (89) e Sven Ulreich (87), aproveitando a pânico vendedora para acumular posições com margem de segurança. Simultaneamente, recomenda-se a venda parcial de ativos com altas explosivas mas baixa probabilidade de continuidade, como Serhou Guirassy (89) e Willi Orban (86), para realizar lucros antes de uma provável correção. Loïc Badé (88) deve ser mantido ou acumulado se houver oportunidade, dada a combinação de alta recente e alta probabilidade de sustentação. Evite entrar em Lennart Karl (83) e Yan Diomande (84) até que haja sinais claros de reversão de tendência, pois suas probabilidades de alta são baixas. O timing ideal para operações é nas próximas horas, antes da estabilização do mercado lateral, focando na arbitragem entre a percepção de mercado e os dados probabilísticos do modelo.
+A estratégia recomendada para hoje é extremamente seletiva, focando na compra de ativos com alta probabilidade de valorização que estão sendo vendidos por pânico, como Luis Díaz (89) a 91k coins e Grimaldo a 45k coins, que oferecem margens de segurança consideráveis. Evite completamente a compra de ativos em queda livre sem suporte fundamental, como Edmond Tapsoba e Yan Diomande, que podem continuar desvalorizando em um mercado sem compacidade. Considere a entrada em Uli Hoeneß como uma aposta de alta probabilidade e baixo custo, aproveitando a discrepância de 80% de chance de alta contra o sentimento geral de baixa. Para os que possuem posições em ativos como Malik Tillman e Kevin Stöger, mantenha os stops de ganho apertados, pois a probabilidade de reversão é alta em um mercado tão fraco. A liquidez é o ativo mais valioso hoje, portanto, não hesite em vender posições fracas ou sem convicção para manter o caixa e aguardar melhores oportunidades de compra em ativos de elite que foram descontados excessivamente. O timing é crucial: compre no medo, mas apenas nos ativos com fundamentos sólidos de probabilidade, e tenha paciência para a correção de mercado que deve ocorrer nas próximas horas.
 
 
 ## ⚙️ A engine por tras deste post
@@ -91,16 +91,16 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Serhou Guirassy (89, Bundesliga), com +52.2% em 24h, a 117k coins no PC.
+Malik Tillman (85, Bundesliga), com +50% em 24h, a 32k coins no PC.
 
 **E a maior queda do dia?**  
-Alphonso Davies (89), -36.3% em 24h, a 127k coins.
+Ragnar Ache (84), -45.7% em 24h, a 28k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 26k coins.
+Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 18k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 46 cartas em alta contra 51 em queda (média -0.05%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 36 cartas em alta contra 52 em queda (média -4.35%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
