@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T10:32:09.000Z
+pubDatetime: 2026-06-22T13:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (22/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,15 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | -44.3% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -43.3% |
+| Harry Kane | 89 | ST | Bundesliga | 3k coins | -43.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -45% |
 | Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -54.1% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | -2.9% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | -21.4% |
 | Roy Makaay | 87 | ST | Bundesliga | 12k coins | +6.5% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -12.2% |
+| Claudio Pizarro | 87 | ST | Bundesliga | 14k coins | -17.9% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | -2.3% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -10.2% |
 | Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.4% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Christian Günter | 84 | LB | Bundesliga | 12k coins | -41% |
 
 
 ## 📈 Destaques
@@ -48,9 +49,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aleix García (89, CM)** da Bundesliga, a apenas **15k coins**
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
