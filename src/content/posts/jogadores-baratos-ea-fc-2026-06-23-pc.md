@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T16:32:09.000Z
+pubDatetime: 2026-06-23T19:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (23/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,15 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | -30.4% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -34.5% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | -28.1% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -31% |
 | Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | -38% |
+| Tomáš Rosický | 89 | CAM | Bundesliga | 13k coins | -27.3% |
+| Rudi Völler | 89 | ST | Bundesliga | 15k coins | -22.4% |
 | Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -40.6% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -13.7% |
-| Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -14.8% |
+| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -4.3% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -14% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | -4.4% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +2.3% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | +4% |
+| Christian Günter | 84 | LB | Bundesliga | 13k coins | -28% |
 
 
 ## 📈 Destaques
@@ -48,9 +50,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Tomáš Rosický (89, CAM)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
