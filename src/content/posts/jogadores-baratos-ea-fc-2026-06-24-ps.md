@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T19:32:05.000Z
+pubDatetime: 2026-06-24T22:32:05.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | -31.9% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -38.5% |
+| Harry Kane | 89 | ST | Bundesliga | 3k coins | -32.7% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | -35.3% |
 | Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -50% |
-| Aleix García | 89 | CM | Bundesliga | 12k coins | -32.4% |
+| Aleix García | 89 | CM | Bundesliga | 12k coins | -31.5% |
 | Andrej Kramarić | 89 | CAM | Bundesliga | 13k coins | -13.6% |
-| Rudi Völler | 89 | ST | Bundesliga | 14k coins | -18.8% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -6.4% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -20.3% |
-| Serhou Guirassy | 88 | ST | Bundesliga | 14k coins | -26.6% |
-| Patrik Schick | 88 | ST | Bundesliga | 14k coins | -34.1% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | -2.1% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -24.2% |
+| Patrik Schick | 88 | ST | Bundesliga | 14k coins | -30% |
 | Roy Makaay | 87 | ST | Bundesliga | 11k coins | -2.2% |
-| Grimaldo | 87 | LM | Bundesliga | 12k coins | -42.9% |
-| David Raum | 87 | LB | Bundesliga | 12k coins | -50% |
-| Julian Brandt | 87 | CAM | Bundesliga | 13k coins | -30.8% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | -2.2% |
+| David Raum | 87 | LB | Bundesliga | 12k coins | -47.9% |
+| Julian Brandt | 87 | CAM | Bundesliga | 12k coins | -42.9% |
+| Claudio Pizarro | 87 | ST | Bundesliga | 12k coins | -16.7% |
+| Grimaldo | 87 | LM | Bundesliga | 13k coins | -38.1% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | -6.5% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -4.3% |
 
 
 ## 📈 Destaques
