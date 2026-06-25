@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T10:32:09.000Z
+pubDatetime: 2026-06-25T13:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,22 +29,23 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | -32.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | -51.9% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -48.5% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | -26% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -20.4% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | -42.9% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.3% |
 | Roy Makaay | 87 | ST | Bundesliga | 11k coins | -8.3% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -14% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -18.9% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | -8.5% |
+| Fisnik Asllani | 85 | ST | Bundesliga | 15k coins | -28.6% |
 
 
 ## 📈 Destaques
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
 
