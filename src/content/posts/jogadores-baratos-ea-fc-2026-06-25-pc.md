@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T19:32:09.000Z
+pubDatetime: 2026-06-25T22:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,22 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | -2.4% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -2.2% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | -35.7% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -31% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | -9.8% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -9.1% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | -37.7% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -27.6% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.3% |
 | Roy Makaay | 87 | ST | Bundesliga | 11k coins | -10.2% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 15k coins | -16.7% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -10.4% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | -17% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -6.2% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | -8% |
 
 
 ## 📈 Destaques
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins**
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
