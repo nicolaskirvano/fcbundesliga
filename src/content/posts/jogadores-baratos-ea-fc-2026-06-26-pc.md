@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T16:32:09.000Z
+pubDatetime: 2026-06-26T19:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 4k coins no PC."
+    a: "Mario Gomez (88, Bundesliga) aparece como melhor custo-benefício, a 12k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 4k coins.
+> 💰 **Melhor pechincha:** Mario Gomez (88) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,31 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | +43.3% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5k coins | +12.5% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 5k coins | +51.7% |
-| Roy Makaay | 89 | ST | Bundesliga | 14k coins | -33.7% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | +21.1% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +13.6% |
-| Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | -26.6% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -12.2% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.5% |
+| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -2.2% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | -27.5% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
 | Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +4.7% |
-| Franck Honorat | 85 | RM | Bundesliga | 14k coins | -40.2% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | +6.1% |
 
 
 ## 📈 Destaques
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5k coins**
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
+- **David Raum (87, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (89, ST)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mario Mandžukić (86, ST)** da Bundesliga, a apenas **11k coins**
 
-- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Uli Hoeneß (86, RM)** da Bundesliga, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -70,7 +64,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 4k coins no PC.
+Mario Gomez (88, Bundesliga) aparece como melhor custo-benefício, a 12k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
