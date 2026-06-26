@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T22:32:09.000Z
+pubDatetime: 2026-06-26T01:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,27 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | -9.8% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -9.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | -37.7% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -27.6% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.3% |
-| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -10.2% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -6.2% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | -8% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | -5% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -4.8% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | -41.2% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -31% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -22.8% |
+| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -12% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | -4.4% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | 0% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 14k coins | +10% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 15k coins | -44.7% |
+| Luka Vušković | 86 | CB | Bundesliga | 15k coins | -34.7% |
 
 
 ## 📈 Destaques
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins**
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4k coins**
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
