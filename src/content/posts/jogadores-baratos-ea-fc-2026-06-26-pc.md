@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T13:32:09.000Z
+pubDatetime: 2026-06-26T16:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,29 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 4k coins | +21.9% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4k coins | -2.5% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 4k coins | +29% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -20.8% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | +43.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5k coins | +12.5% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 5k coins | +51.7% |
+| Roy Makaay | 89 | ST | Bundesliga | 14k coins | -33.7% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | +21.1% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +13.6% |
 | Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | -26.6% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -12.2% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +2.3% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | -12.2% |
-| Luka Vušković | 86 | CB | Bundesliga | 15k coins | -38.8% |
-| Nicolas Seiwald | 85 | CB | Bundesliga | 13k coins | -52.1% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +4.7% |
+| Franck Honorat | 85 | RM | Bundesliga | 14k coins | -40.2% |
 
 
 ## 📈 Destaques
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4k coins**
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5k coins**
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Roy Makaay (89, ST)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
+- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
