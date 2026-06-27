@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T10:32:09.000Z
+pubDatetime: 2026-06-27T13:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (27/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Roy Makaay (87, Bundesliga) aparece como melhor custo-benefício, a 11k coins no PC."
+    a: "Aleix García (89, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Roy Makaay (87) por apenas 11k coins.
+> 💰 **Melhor pechincha:** Aleix García (89) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -10.2% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 12k coins | -9.1% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | -18.8% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | +14% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +9.3% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 13k coins | -8.5% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 13k coins | -40.9% |
+| Aleix García | 89 | CM | Bundesliga | 14k coins | -11.3% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.3% |
+| Claudio Pizarro | 87 | ST | Bundesliga | 12k coins | -13.8% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | 0% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | -22.2% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | +13.3% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +11.6% |
 
 
 ## 📈 Destaques
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Aleix García (89, CM)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
 
 - **Claudio Pizarro (87, ST)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
+
 - **David Raum (87, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Mario Mandžukić (86, ST)** da Bundesliga, a apenas **11k coins**
-
-- **Uli Hoeneß (86, RM)** da Bundesliga, a apenas **12k coins**
 
 
 ## Por que estas cartas?
@@ -65,7 +66,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Roy Makaay (87, Bundesliga) aparece como melhor custo-benefício, a 11k coins no PC.
+Aleix García (89, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
