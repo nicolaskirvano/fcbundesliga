@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T13:32:05.000Z
+pubDatetime: 2026-06-27T16:32:05.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,17 +29,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -16.4% |
-| Aleix García | 89 | CM | Bundesliga | 15k coins | +7.1% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -6.4% |
-| Serhou Guirassy | 88 | ST | Bundesliga | 15k coins | -4.6% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | -2.1% |
-| Grimaldo | 87 | LM | Bundesliga | 12k coins | -27.3% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 13k coins | +12% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -6.5% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | -4.4% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | 0% |
-| Nathan Tella | 86 | CAM | Bundesliga | 14k coins | +11.1% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -21.7% |
+| Andrej Kramarić | 89 | CAM | Bundesliga | 14k coins | +3.4% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | +1.9% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +2.2% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | -8.6% |
+| Serhou Guirassy | 88 | ST | Bundesliga | 15k coins | -9.2% |
+| Grimaldo | 87 | LM | Bundesliga | 11k coins | -30.3% |
+| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -6.2% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -4.3% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | +2.2% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +6.5% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 13k coins | -6.9% |
+| Luka Vušković | 86 | CB | Bundesliga | 14k coins | -1.7% |
+| Angelo Stiller | 85 | CDM | Bundesliga | 13k coins | -15% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
 
 
@@ -47,13 +50,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Andrej Kramarić (89, CAM)** da Bundesliga, a apenas **14k coins**
+
 - **Aleix García (89, CM)** da Bundesliga, a apenas **15k coins**
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
-- **Serhou Guirassy (88, ST)** da Bundesliga, a apenas **15k coins**
-
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
