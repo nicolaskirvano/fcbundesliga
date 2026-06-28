@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T19:32:11.000Z
+pubDatetime: 2026-06-28T22:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (28/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 28/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (28/06/2026)?"
-    a: "Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 13k coins no PC."
+    a: "Keven Schlotterbeck (89, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **28/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jürgen Kohler (89) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Keven Schlotterbeck (89) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -27.3% |
-| Roy Makaay | 89 | ST | Bundesliga | 15k coins | +1.6% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -12% |
-| Loïc Badé | 88 | CB | Bundesliga | 15k coins | -59.6% |
-| Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
-| David Raum | 87 | LB | Bundesliga | 12k coins | -47.8% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -42.4% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -2.2% |
+| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | -60.8% |
 | Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -4.4% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 12k coins | -47.7% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.4% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 12k coins | -54.4% |
 
 
 ## 📈 Destaques
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (89, ST)** da Bundesliga, a apenas **15k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Maximilian Mittelstädt (88, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Loïc Badé (88, CB)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11k coins**
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
+- **Uli Hoeneß (86, RM)** da Bundesliga, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -67,7 +64,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (28/06/2026)?**  
-Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 13k coins no PC.
+Keven Schlotterbeck (89, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
