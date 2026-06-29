@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T22:32:09.000Z
+pubDatetime: 2026-06-29T01:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (28/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 28/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (28/06/2026)?"
-    a: "Keven Schlotterbeck (89, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 15k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **28/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Keven Schlotterbeck (89) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Jürgen Kohler (89) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,19 +29,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -42.4% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -2.2% |
-| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | -60.8% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 15k coins | -22.1% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.5% |
+| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | -58% |
 | Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -4.4% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.4% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 12k coins | -54.4% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -2.3% |
 
 
 ## 📈 Destaques
 
-- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
 - **Maximilian Mittelstädt (88, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -64,7 +63,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (28/06/2026)?**  
-Keven Schlotterbeck (89, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC.
+Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 15k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T22:32:05.000Z
+pubDatetime: 2026-06-29T01:32:05.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (28/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -43.3% |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -37.9% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -37.5% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -40% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -45.5% |
+| Rudi Völler | 89 | ST | Bundesliga | 11k coins | -24.2% |
 | Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -33.3% |
-| Andrej Kramarić | 89 | CAM | Bundesliga | 13k coins | -10.5% |
-| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -21% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -43.1% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -46% |
+| Andrej Kramarić | 89 | CAM | Bundesliga | 14k coins | +1.8% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.3% |
 | Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -14.3% |
-| Jonathan Tah | 88 | CB | Bundesliga | 13k coins | -46.4% |
-| Loïc Badé | 88 | CB | Bundesliga | 14k coins | -28.7% |
-| Maximilian Mittelstädt | 88 | LB | Bundesliga | 14k coins | -20.8% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 12k coins | -3.8% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 12k coins | -5.9% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | +2.1% |
+| Patrik Schick | 88 | ST | Bundesliga | 12k coins | -22.1% |
+| Jonathan Tah | 88 | CB | Bundesliga | 13k coins | -50% |
+| Maximilian Mittelstädt | 88 | LB | Bundesliga | 13k coins | -26.4% |
+| Christian Günter | 88 | LB | Bundesliga | 14k coins | -16.2% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | -4% |
+| Claudio Pizarro | 87 | ST | Bundesliga | 13k coins | 0% |
+| David Raum | 87 | LB | Bundesliga | 13k coins | -3.7% |
 
 
 ## 📈 Destaques
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andrej Kramarić (89, CAM)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
