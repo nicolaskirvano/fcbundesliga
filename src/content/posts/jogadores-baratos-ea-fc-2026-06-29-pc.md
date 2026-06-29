@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-29T19:32:09.000Z
+pubDatetime: 2026-06-29T22:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (29/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,27 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -50% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -35.3% |
-| Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | 0% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -48.5% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -42.4% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | +11.4% |
+| Julian Brandt | 87 | CAM | Bundesliga | 15k coins | -28.6% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | +4.7% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | +9.3% |
-| Luka Vušković | 86 | CB | Bundesliga | 12k coins | -16.4% |
-| Christian Günter | 84 | LB | Bundesliga | 13k coins | -6.8% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | 0% |
+| Luka Vušković | 86 | CB | Bundesliga | 12k coins | -5.3% |
+| Edmond Tapsoba | 86 | CB | Bundesliga | 15k coins | -39.2% |
 
 
 ## 📈 Destaques
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
 
-- **Uli Hoeneß (86, RM)** da Bundesliga, a apenas **11k coins**
+- **Julian Brandt (87, CAM)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Mandžukić (86, ST)** da Bundesliga, a apenas **11k coins**
+- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11k coins**
 
 
 ## Por que estas cartas?
