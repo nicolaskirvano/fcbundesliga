@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:32:05.000Z
+pubDatetime: 2026-06-30T13:32:05.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,19 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -17.7% |
 | Rudi Völler | 89 | ST | Bundesliga | 14k coins | -6.9% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +2.1% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.3% |
 | Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | +12.5% |
 | Serhou Guirassy | 88 | ST | Bundesliga | 14k coins | -14.9% |
 | David Raum | 87 | LB | Bundesliga | 13k coins | -3.7% |
 | Claudio Pizarro | 87 | ST | Bundesliga | 13k coins | +2% |
-| Roy Makaay | 87 | ST | Bundesliga | 14k coins | +10.2% |
-| Grimaldo | 87 | LM | Bundesliga | 14k coins | +7.4% |
+| Roy Makaay | 87 | ST | Bundesliga | 14k coins | +14.9% |
+| Grimaldo | 87 | LM | Bundesliga | 14k coins | +11.5% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | -2.2% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | +4.7% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +4.3% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | +2.3% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +6.5% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 13k coins | -7.3% |
 | Luka Vušković | 86 | CB | Bundesliga | 15k coins | +5.4% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 14k coins | -26.3% |
-| Franck Honorat | 85 | RM | Bundesliga | 14k coins | +3.6% |
+| Edmond Tapsoba | 86 | CB | Bundesliga | 15k coins | -36.2% |
 
 
 ## 📈 Destaques
