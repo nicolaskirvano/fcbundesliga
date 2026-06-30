@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T16:32:09.000Z
+pubDatetime: 2026-06-30T19:32:10.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,26 +30,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Harry Kane | 89 | ST | Bundesliga | 2k coins | -59% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -52.4% |
 | Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | -17.9% |
 | Andrej Kramarić | 89 | CAM | Bundesliga | 15k coins | -22.1% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 11k coins | -52.2% |
 | Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
 | Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -4.4% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -50% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -52.2% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Luka Vušković | 86 | CB | Bundesliga | 14k coins | -46% |
-| Christian Günter | 84 | LB | Bundesliga | 15k coins | +1.7% |
+| Luka Vušković | 86 | CB | Bundesliga | 14k coins | -46.5% |
+| Christian Günter | 84 | LB | Bundesliga | 15k coins | -9.1% |
 
 
 ## 📈 Destaques
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Andrej Kramarić (89, CAM)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
 
