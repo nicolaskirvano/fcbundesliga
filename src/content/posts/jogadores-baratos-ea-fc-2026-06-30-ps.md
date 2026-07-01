@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:32:05.000Z
+pubDatetime: 2026-07-01T01:32:05.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aleix García | 89 | CM | Bundesliga | 12k coins | -5.9% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -19% |
+| Aleix García | 89 | CM | Bundesliga | 12k coins | -12.7% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -20.3% |
 | Roy Makaay | 89 | ST | Bundesliga | 13k coins | -8.6% |
-| Rudi Völler | 89 | ST | Bundesliga | 14k coins | -6.9% |
+| Rudi Völler | 89 | ST | Bundesliga | 14k coins | -8.5% |
+| Uli Hoeneß | 88 | RM | Bundesliga | 11k coins | -21.4% |
 | Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.3% |
 | Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | +12.5% |
 | Serhou Guirassy | 88 | ST | Bundesliga | 14k coins | -8.1% |
 | Claudio Pizarro | 87 | ST | Bundesliga | 13k coins | +4% |
 | David Raum | 87 | LB | Bundesliga | 13k coins | -3.7% |
 | Roy Makaay | 87 | ST | Bundesliga | 14k coins | +22.7% |
+| Nico Schlotterbeck | 87 | CB | Bundesliga | 14k coins | -70.1% |
 | Grimaldo | 87 | LM | Bundesliga | 14k coins | +13.7% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | -2.2% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -2.2% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +6.5% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 13k coins | -8.9% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **12k coins**
+- **Aleix García (89, CM)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins**
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+- **Uli Hoeneß (88, RM)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
