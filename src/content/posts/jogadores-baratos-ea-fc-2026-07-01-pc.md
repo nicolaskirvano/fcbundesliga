@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T16:32:09.000Z
+pubDatetime: 2026-07-01T19:32:10.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (01/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 01/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (01/07/2026)?"
-    a: "Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC."
+    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **01/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Florian Wirtz (89) por apenas 3k coins.
+> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -35.7% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -56.1% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -45.2% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -58% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | -25.4% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -12.9% |
 | Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | +4.5% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -2.3% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 12k coins | -15.3% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -6.2% |
-| Edmond Tapsoba | 86 | CB | Bundesliga | 15k coins | -44.7% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -4.3% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 13k coins | -5.6% |
+| Christian Günter | 84 | LB | Bundesliga | 15k coins | -23.4% |
 
 
 ## 📈 Destaques
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
-
-- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11k coins**
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -67,7 +69,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (01/07/2026)?**  
-Florian Wirtz (89, Bundesliga) aparece como melhor custo-benefício, a 3k coins no PC.
+Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
