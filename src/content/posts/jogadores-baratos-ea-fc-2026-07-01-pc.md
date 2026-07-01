@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T13:32:09.000Z
+pubDatetime: 2026-07-01T16:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (01/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,30 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -34.1% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 12k coins | -59.7% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -14.1% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | -35.7% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | -22.2% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | -25.4% |
 | Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | -34.9% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -2.3% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | +4.5% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 11k coins | -25.9% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -6.2% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 12k coins | -15.3% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -6.2% |
+| Edmond Tapsoba | 86 | CB | Bundesliga | 15k coins | -44.7% |
 
 
 ## 📈 Destaques
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
 
 - **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
+
+- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11k coins**
 
 
 ## Por que estas cartas?
