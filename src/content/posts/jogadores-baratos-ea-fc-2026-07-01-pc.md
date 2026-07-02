@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T22:32:09.000Z
+pubDatetime: 2026-07-02T01:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (01/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,18 +29,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -61% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -55% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -54.8% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 12k coins | -60.3% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -63.4% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -60% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -59.5% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -36.7% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 12k coins | -60.6% |
 | Andrej Kramarić | 89 | CAM | Bundesliga | 14k coins | +12% |
 | Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | -8.2% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | -15.8% |
 | Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | -21.4% |
 | Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -4.4% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +2.2% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -2.2% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 12k coins | -14.8% |
+| Luka Vušković | 86 | CB | Bundesliga | 14k coins | +5.3% |
 
 
 ## 📈 Destaques
@@ -51,9 +53,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andrej Kramarić (89, CAM)** da Bundesliga, a apenas **14k coins**
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
