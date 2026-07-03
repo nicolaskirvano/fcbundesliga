@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T16:32:05.000Z
+pubDatetime: 2026-07-03T19:32:05.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -8.2% |
-| Rudi Völler | 89 | ST | Bundesliga | 12k coins | -18.6% |
-| Aleix García | 89 | CM | Bundesliga | 14k coins | -16.1% |
-| Andrej Kramarić | 89 | CAM | Bundesliga | 15k coins | +8.8% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -2.2% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -14.8% |
-| Loïc Badé | 88 | CB | Bundesliga | 14k coins | -27.6% |
-| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -6.4% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 14k coins | +5.8% |
-| David Raum | 87 | LB | Bundesliga | 15k coins | +17.6% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.3% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | -4.3% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -4.3% |
-| Luka Vušković | 86 | CB | Bundesliga | 12k coins | -2% |
-| Angelo Stiller | 85 | CDM | Bundesliga | 13k coins | +6.2% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -6.1% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -9.1% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -32.6% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -4.3% |
+| Loïc Badé | 88 | CB | Bundesliga | 13k coins | -27.8% |
+| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -2.1% |
+| Grimaldo | 87 | LM | Bundesliga | 13k coins | -7.4% |
+| Julian Brandt | 87 | CAM | Bundesliga | 14k coins | -6.9% |
+| Claudio Pizarro | 87 | ST | Bundesliga | 14k coins | +7.7% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | +16% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -8.5% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | -2.2% |
+| Angelo Stiller | 85 | CDM | Bundesliga | 13k coins | +12.5% |
+| Christian Günter | 84 | LB | Bundesliga | 14k coins | +17.4% |
+| Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Andrej Kramarić (89, CAM)** da Bundesliga, a apenas **15k coins**
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
+
+- **Loïc Badé (88, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
