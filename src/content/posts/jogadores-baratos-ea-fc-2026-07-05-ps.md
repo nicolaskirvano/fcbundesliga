@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T10:32:05.000Z
+pubDatetime: 2026-07-05T13:32:05.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | +46.2% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | +38.5% |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +64.3% |
 | Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | +53.3% |
+| Rudi Völler | 89 | ST | Bundesliga | 12k coins | -4% |
 | Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | +8.7% |
-| Rudi Völler | 89 | ST | Bundesliga | 12k coins | 0% |
-| Aleix García | 89 | CM | Bundesliga | 15k coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | +8% |
-| Loïc Badé | 88 | CB | Bundesliga | 14k coins | -3.6% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | +4.3% |
-| David Raum | 87 | LB | Bundesliga | 13k coins | +9.3% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 14k coins | +4% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | +14.3% |
-| Grimaldo | 87 | LM | Bundesliga | 14k coins | -5% |
-| Julian Brandt | 87 | CAM | Bundesliga | 15k coins | +3.4% |
+| Andrej Kramarić | 89 | CAM | Bundesliga | 15k coins | +3.4% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +4.4% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | +6.1% |
+| Loïc Badé | 88 | CB | Bundesliga | 14k coins | -5.4% |
+| Uli Hoeneß | 88 | RM | Bundesliga | 14k coins | +19.2% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | +3.7% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | +12.2% |
+| Claudio Pizarro | 87 | ST | Bundesliga | 14k coins | +10% |
+| Grimaldo | 87 | LM | Bundesliga | 14k coins | -1.7% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | +2.2% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
-
 - **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins**
+
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
 
 ## Por que estas cartas?
