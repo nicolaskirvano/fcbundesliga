@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T19:32:09.000Z
+pubDatetime: 2026-07-05T22:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,19 +29,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +123.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +107.1% |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | +133.3% |
-| Rudi Völler | 89 | ST | Bundesliga | 11k coins | 0% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | +100% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | -2.2% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | -13.6% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | -4.3% |
-| David Raum | 87 | LB | Bundesliga | 14k coins | +9.1% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +92.3% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +100% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | +4.5% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | +9.8% |
 | Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | 0% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +4.5% |
-| Luka Vušković | 86 | CB | Bundesliga | 14k coins | -5.2% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +2.3% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | +2.3% |
 
 
 ## 📈 Destaques
@@ -50,11 +45,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **11k coins**
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
 
-- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **David Raum (87, LB)** da Bundesliga, a apenas **14k coins**
 
 
 ## Por que estas cartas?
