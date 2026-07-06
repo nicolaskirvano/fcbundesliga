@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T16:32:09.000Z
+pubDatetime: 2026-07-06T19:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (06/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,28 +30,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Harry Kane | 89 | ST | Bundesliga | 2k coins | +50% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | +50% |
-| Mario Gomez | 88 | ST | Bundesliga | 11k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | +27.3% |
-| Uli Hoeneß | 88 | RM | Bundesliga | 15k coins | -29.4% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | +9.1% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +55% |
+| Rudi Völler | 89 | ST | Bundesliga | 11k coins | -15.3% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14k coins | +5.5% |
+| Mario Gomez | 88 | ST | Bundesliga | 11k coins | +2.3% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | +38.6% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | +1.6% |
 | Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | 0% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | 0% |
-| Luka Vušković | 86 | CB | Bundesliga | 14k coins | +1.9% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +7% |
+| Luka Vušković | 86 | CB | Bundesliga | 15k coins | +9.3% |
 
 
 ## 📈 Destaques
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14k coins**
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **11k coins**
-
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Uli Hoeneß (88, RM)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
