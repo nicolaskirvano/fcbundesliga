@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T22:32:09.000Z
+pubDatetime: 2026-07-08T01:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (07/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,14 +29,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +34.8% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +47.8% |
-| Rudi Völler | 89 | ST | Bundesliga | 14k coins | -8.3% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 15k coins | +25.5% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | -8.5% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +21.7% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +20% |
+| Harry Kane | 89 | ST | Bundesliga | 4k coins | +89.5% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 13k coins | -7.1% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | 0% |
 | Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | 0% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | +9.3% |
-| Nathan Tella | 86 | CAM | Bundesliga | 13k coins | -63.6% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 12k coins | +7% |
 
 
 ## 📈 Destaques
@@ -45,11 +45,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Benedict Hollerbach (87, ST)** da Bundesliga, a apenas **13k coins**
 
-- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11k coins**
 
 
 ## Por que estas cartas?
