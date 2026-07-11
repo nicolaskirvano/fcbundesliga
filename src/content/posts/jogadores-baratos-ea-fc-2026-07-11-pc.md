@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T19:32:09.000Z
+pubDatetime: 2026-07-11T22:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,11 +29,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -29.2% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -28% |
-| Rudi Völler | 89 | ST | Bundesliga | 13k coins | +22.2% |
-| Mario Gomez | 88 | ST | Bundesliga | 14k coins | +18.2% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | 0% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -33.3% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 11k coins | -8.2% |
+| Mario Gomez | 88 | ST | Bundesliga | 13k coins | +17.8% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | 0% |
 
 
@@ -41,13 +39,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11k coins**
+- **Mario Mandžukić (86, ST)** da Bundesliga, a apenas **12k coins**
 
 
 ## Por que estas cartas?
