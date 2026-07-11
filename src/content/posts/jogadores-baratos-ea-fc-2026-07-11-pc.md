@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T16:32:09.000Z
+pubDatetime: 2026-07-11T19:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,23 +29,23 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2k coins | -25% |
-| Mario Gomez | 88 | ST | Bundesliga | 13k coins | +22.7% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.4% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | +14% |
-| Christian Günter | 84 | LB | Bundesliga | 15k coins | -18.9% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -29.2% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -28% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | +22.2% |
+| Mario Gomez | 88 | ST | Bundesliga | 14k coins | +18.2% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | 0% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Uli Hoeneß (86, RM)** da Bundesliga, a apenas **11k coins**
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mario Mandžukić (86, ST)** da Bundesliga, a apenas **11k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11k coins**
 
