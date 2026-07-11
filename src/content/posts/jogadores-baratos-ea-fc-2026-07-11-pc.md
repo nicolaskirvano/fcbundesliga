@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T13:32:09.000Z
+pubDatetime: 2026-07-11T16:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Mario Gomez (88, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Mario Gomez (88) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mario Gomez | 88 | ST | Bundesliga | 14k coins | +31.8% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | 0% |
+| Harry Kane | 89 | ST | Bundesliga | 2k coins | -25% |
+| Mario Gomez | 88 | ST | Bundesliga | 13k coins | +22.7% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.4% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | 0% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | +14% |
+| Christian Günter | 84 | LB | Bundesliga | 15k coins | -18.9% |
 
 
 ## 📈 Destaques
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Uli Hoeneß (86, RM)** da Bundesliga, a apenas **11k coins**
 
 - **Mario Mandžukić (86, ST)** da Bundesliga, a apenas **11k coins**
+
+- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -60,7 +64,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Mario Gomez (88, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC.
+Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
