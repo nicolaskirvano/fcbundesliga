@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T13:32:05.000Z
+pubDatetime: 2026-07-12T16:32:05.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,20 +29,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -2% |
-| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -2% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | -2.1% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | -9.4% |
-| Loïc Badé | 88 | CB | Bundesliga | 15k coins | +13.2% |
-| Roy Makaay | 87 | ST | Bundesliga | 13k coins | -25.8% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 14k coins | +3.6% |
-| Benedict Hollerbach | 87 | ST | Bundesliga | 15k coins | +9.1% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | -4.2% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | -9.4% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -12.7% |
-| Luka Vušković | 86 | CB | Bundesliga | 12k coins | -8.9% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 14k coins | 0% |
-| Maximilian Beier | 85 | ST | Bundesliga | 13k coins | +4% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -4% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -3.8% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | +3.8% |
+| Roy Makaay | 87 | ST | Bundesliga | 13k coins | -23% |
+| Grimaldo | 87 | LM | Bundesliga | 13k coins | +7.5% |
+| David Raum | 87 | LB | Bundesliga | 14k coins | 0% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | -2.1% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -11.3% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | -7.5% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 13k coins | -5.5% |
+| Edmond Tapsoba | 86 | CB | Bundesliga | 14k coins | -16.7% |
+| Maximilian Beier | 85 | ST | Bundesliga | 14k coins | +12% |
+| Danny da Costa | 84 | RB | Bundesliga | 14k coins | +7.5% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
 
 
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins**
 
-- **Loïc Badé (88, CB)** da Bundesliga, a apenas **15k coins**
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

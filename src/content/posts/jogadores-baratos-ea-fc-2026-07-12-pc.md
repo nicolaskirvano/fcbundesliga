@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T13:32:09.000Z
+pubDatetime: 2026-07-12T16:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (12/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,25 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11k coins | -11.8% |
-| Mario Gomez | 88 | ST | Bundesliga | 13k coins | +13% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 11k coins | -16.7% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +10.9% |
+| Uli Hoeneß | 88 | RM | Bundesliga | 15k coins | -11.9% |
 | Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
 | Claudio Pizarro | 86 | ST | Bundesliga | 11k coins | 0% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.4% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | +7% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +22.2% |
 
 
 ## 📈 Destaques
 
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **13k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+
+- **Uli Hoeneß (88, RM)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
 
 - **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11k coins**
-
-- **Mario Mandžukić (86, ST)** da Bundesliga, a apenas **12k coins**
 
 
 ## Por que estas cartas?
