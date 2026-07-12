@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T19:32:05.000Z
+pubDatetime: 2026-07-12T22:32:05.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 12/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (12/07/2026)?"
-    a: "Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Rudi Völler (89, Bundesliga) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **12/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jürgen Kohler (89) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Rudi Völler (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -2% |
-| Rudi Völler | 89 | ST | Bundesliga | 13k coins | -5.6% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 14k coins | -21.1% |
-| Aleix García | 89 | CM | Bundesliga | 14k coins | -3.3% |
+| Rudi Völler | 89 | ST | Bundesliga | 12k coins | -9.4% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -10% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 13k coins | -22.5% |
+| Andrej Kramarić | 89 | CAM | Bundesliga | 13k coins | -11.7% |
+| Aleix García | 89 | CM | Bundesliga | 15k coins | -5.1% |
 | Mario Gomez | 88 | ST | Bundesliga | 12k coins | 0% |
-| Loïc Badé | 88 | CB | Bundesliga | 13k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | +1.9% |
-| Jonathan Tah | 88 | CB | Bundesliga | 15k coins | -2.9% |
-| Roy Makaay | 87 | ST | Bundesliga | 13k coins | -13.3% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 14k coins | -1.8% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -5.9% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | 0% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | -7.5% |
-| Luka Vušković | 86 | CB | Bundesliga | 12k coins | -12.3% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 14k coins | -1.8% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | 0% |
+| Uli Hoeneß | 88 | RM | Bundesliga | 13k coins | -13.1% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | -24.6% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 13k coins | -1.9% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | -2.1% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | -5.9% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 13k coins | +6.2% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 13k coins | -1.9% |
+| Luka Vušković | 86 | CB | Bundesliga | 14k coins | -1.8% |
 
 
 ## 📈 Destaques
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **14k coins**
+- **Andrej Kramarić (89, CAM)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+- **Aleix García (89, CM)** da Bundesliga, a apenas **15k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (12/07/2026)?**  
-Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Rudi Völler (89, Bundesliga) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
