@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T22:32:09.000Z
+pubDatetime: 2026-07-13T01:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (12/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,16 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -37.5% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -44.4% |
-| Rudi Völler | 89 | ST | Bundesliga | 12k coins | +15.6% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +20.7% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2k coins | -41.7% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2k coins | -40.7% |
+| Rudi Völler | 89 | ST | Bundesliga | 12k coins | +2.1% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | -12.1% |
 | Mario Gomez | 88 | ST | Bundesliga | 13k coins | +13% |
-| Roy Makaay | 87 | ST | Bundesliga | 13k coins | +20.5% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 15k coins | -1.5% |
-| Grimaldo | 87 | LM | Bundesliga | 15k coins | -17.8% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | -4.4% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | +7% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | +22.2% |
+| Grimaldo | 87 | LM | Bundesliga | 15k coins | -23.4% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11k coins | +7% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +11.1% |
+| Luka Vušković | 86 | CB | Bundesliga | 14k coins | -14.1% |
 
 
 ## 📈 Destaques
@@ -47,9 +47,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12k coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **13k coins**
 
