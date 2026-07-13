@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T13:32:05.000Z
+pubDatetime: 2026-07-13T16:32:05.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 11k coins | -11.5% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | -4.2% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | +6.5% |
-| Julian Brandt | 87 | CAM | Bundesliga | 14k coins | -3.2% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 12k coins | -4% |
+| Andrej Kramarić | 89 | CAM | Bundesliga | 13k coins | -22.4% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 13k coins | -19.1% |
+| Rudi Völler | 89 | ST | Bundesliga | 13k coins | +1.9% |
+| Aleix García | 89 | CM | Bundesliga | 14k coins | +1.7% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 11k coins | -13.2% |
+| Mario Gomez | 88 | ST | Bundesliga | 12k coins | -2.2% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | +8.9% |
+| Claudio Pizarro | 87 | ST | Bundesliga | 14k coins | +11.5% |
+| Benedict Hollerbach | 87 | ST | Bundesliga | 14k coins | +3.7% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | -2.1% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | +2.2% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -9.6% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 12k coins | -11.1% |
-| Luka Vušković | 86 | CB | Bundesliga | 13k coins | -7.1% |
-| Edmond Tapsoba | 86 | CB | Bundesliga | 14k coins | -18.2% |
-| Franck Honorat | 85 | RM | Bundesliga | 14k coins | -6.8% |
-| Maximilian Beier | 85 | ST | Bundesliga | 14k coins | +16% |
-| Christian Günter | 84 | LB | Bundesliga | 15k coins | -5.1% |
-| Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | +6.5% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 12k coins | -10.9% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -7.7% |
+| Luka Vušković | 86 | CB | Bundesliga | 14k coins | -3.6% |
 
 
 ## 📈 Destaques
 
 - **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **12k coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Andrej Kramarić (89, CAM)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13k coins**
 
-- **Julian Brandt (87, CAM)** da Bundesliga, a apenas **14k coins**
+- **Aleix García (89, CM)** da Bundesliga, a apenas **14k coins**
 
 
 ## Por que estas cartas?
