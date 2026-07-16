@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T22:32:09.000Z
+pubDatetime: 2026-07-16T01:32:09.000Z
 title: "Jogadores baratos de Bundesliga no EA FC (15/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,26 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 3k coins | -19.5% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +13.3% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +20.5% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | +14% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 13k coins | +25.6% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 15k coins | +39.5% |
-| Luka Vušković | 86 | CB | Bundesliga | 15k coins | -57.7% |
+| Harry Kane | 89 | ST | Bundesliga | 3k coins | -26.2% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3k coins | +30.8% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 3k coins | +13.8% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2k coins | -17.6% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 11k coins | +7% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | +23.3% |
+| Luka Vušković | 86 | CB | Bundesliga | 15k coins | -59.2% |
 
 
 ## 📈 Destaques
 
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3k coins**
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Uli Hoeneß (86, RM)** da Bundesliga, a apenas **12k coins**
-
-- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Uli Hoeneß (86, RM)** da Bundesliga, a apenas **11k coins**
 
 
 ## Por que estas cartas?
