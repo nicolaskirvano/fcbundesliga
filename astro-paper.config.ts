@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcbundesliga.pages.dev/",
     title: "Bundesliga Market",
     description:
-      "Precos e mercado da Bundesliga no EA FC Ultimate Team, atualizados todos os dias com dados reais.",
+      "preços e mercado da Bundesliga no EA FC Ultimate Team, atualizados todos os dias com dados reais.",
     author: "Bundesliga Market",
-    profile: "https://fcbundesliga.pages.dev/",
+    profile: "https://fcbundesliga.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Bundesliga Market",
