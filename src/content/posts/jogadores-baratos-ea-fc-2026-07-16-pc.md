@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:05:43.000Z
+pubDatetime: 2026-07-17T01:32:19.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 16/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 16/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2.900 coins no PC."
+    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2.400 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 2.900 coins.
+> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 2.400 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Bundesliga em 16/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-16-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 9.415 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 1.600 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 9.356 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 2.400 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,38 +40,36 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 89 | ST | Bundesliga | 2.900 coins | -9.7% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2.900 coins | -12.1% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3.000 coins | -11.8% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13.250 coins | -3.4% |
-| Rudi Völler | 89 | ST | Bundesliga | 14.500 coins | -10.6% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 1.600 coins | +7.7% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 12.750 coins | -2% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 14.250 coins | -9.4% |
-| Nathan Tella | 86 | CAM | Bundesliga | 14.250 coins | -13.9% |
-| Luka Vušković | 86 | CB | Bundesliga | 14.750 coins | 0% |
+| Harry Kane | 89 | ST | Bundesliga | 2.400 coins | -6.5% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2.800 coins | -12.1% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2.900 coins | -12.1% |
+| Rudi Völler | 89 | ST | Bundesliga | 13.250 coins | -14.7% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14.500 coins | -7.9% |
+| Mario Gomez | 88 | ST | Bundesliga | 14.250 coins | +36.7% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 12.250 coins | +11.1% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 12.500 coins | -5.7% |
 
 
 ## 📈 Destaques
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **2.900 coins**
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **2.400 coins**
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13.250 coins**
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13.250 coins**
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14.500 coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Jürgen Kohler (89, CB) por 13.250 coins é a referência de rating deste recorte.
+- **Defesa:** Jürgen Kohler (89, CB) por 14.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 2.900 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 2.800 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 2.900 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 2.400 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -90,7 +88,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2.900 coins no PC.
+Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 2.400 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
