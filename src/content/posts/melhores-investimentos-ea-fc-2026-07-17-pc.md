@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:32:18.000Z
+pubDatetime: 2026-07-17T16:32:18.000Z
 title: "Investimentos EA FC: Bundesliga em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Keven Schlotterbeck (89, Bundesliga) lidera, com +75% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Patrik Schick (88, Bundesliga) lidera, com +69.1% em 7 dias a 62k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Keven Schlotterbeck (89) acumula **+75% em 7 dias** a 32k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Patrik Schick (88) acumula **+69.1% em 7 dias** a 62k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Bundesliga em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.1% em 24h** e **+32.6% em 7 dias**.
-- **5 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 14 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.2% em 24h** e **+28.2% em 7 dias**.
+- **5 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 12 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,33 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Keven Schlotterbeck | 89 | Bundesliga | 32k coins | +2.2% | +75% | Esticada |
-| Maximilian Mittelstädt | 88 | Bundesliga | 37k coins | +12.4% | +57.1% | Momentum moderado |
-| Loïc Badé | 88 | Bundesliga | 25k coins | +34.4% | +56.2% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 55k coins | +9.1% | +54.8% | Momentum moderado |
-| Manuel Neuer | 86 | Bundesliga | 74k coins | +24.6% | +44.8% | Esticada |
-| Mario Götze | 88 | Bundesliga | 34k coins | +7.5% | +42.6% | Momentum moderado |
-| Sven Ulreich | 87 | Bundesliga | 22k coins | +7.4% | +33.6% | Momentum moderado |
-| Luis Díaz | 87 | Bundesliga | 87k coins | +5.9% | +31.6% | Momentum moderado |
-| Nico Schlotterbeck | 87 | Bundesliga | 48k coins | +15.8% | +23.8% | Momentum moderado |
-| Alphonso Davies | 89 | Bundesliga | 112k coins | +21.1% | +20.4% | Esticada |
-| Karim Adeyemi | 85 | Bundesliga | 80k coins | +6.7% | +14.3% | Momentum moderado |
+| Patrik Schick | 88 | Bundesliga | 62k coins | +33.3% | +69.1% | Esticada |
+| Julian Brandt | 87 | Bundesliga | 31k coins | +13.6% | +62.3% | Esticada |
+| Maximilian Mittelstädt | 88 | Bundesliga | 36k coins | +12.9% | +52% | Momentum moderado |
+| Timo Werner | 87 | Bundesliga | 51k coins | +28.4% | +50.5% | Esticada |
+| Uli Hoeneß | 86 | Bundesliga | 16.000 coins | +13.1% | +46.8% | Momentum moderado |
+| Franck Honorat | 85 | Bundesliga | 24k coins | +13.3% | +29.1% | Momentum moderado |
+| Edmond Tapsoba | 86 | Bundesliga | 22k coins | +12% | +27.4% | Momentum moderado |
+| Serhou Guirassy | 88 | Bundesliga | 42k coins | +25% | +25% | Esticada |
+| Nadiem Amiri | 88 | Bundesliga | 31k coins | +21.6% | +24% | Esticada |
+| Rani Khedira | 84 | Bundesliga | 58k coins | +2.7% | +15.2% | Entrada a observar |
 | Harry Kane | 92 | Bundesliga | 237k coins | +3% | +9.2% | Entrada a observar |
-| Aleix García | 89 | Bundesliga | 24k coins | +28.4% | +9.2% | Esticada |
-| Kim Min Jae | 86 | Bundesliga | 65k coins | +9.2% | +8.3% | Momentum moderado |
+| Angelo Stiller | 85 | Bundesliga | 23k coins | +2.5% | +5.1% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Keven Schlotterbeck (89)** — 32k coins, **+75% em 7 dias** (+2.2% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrik Schick (88)** — 62k coins, **+69.1% em 7 dias** (+33.3% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maximilian Mittelstädt (88)** — 37k coins, **+57.1% em 7 dias** (+12.4% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julian Brandt (87)** — 31k coins, **+62.3% em 7 dias** (+13.6% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Loïc Badé (88)** — 25k coins, **+56.2% em 7 dias** (+34.4% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maximilian Mittelstädt (88)** — 36k coins, **+52% em 7 dias** (+12.9% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (91)** — 55k coins, **+54.8% em 7 dias** (+9.1% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Timo Werner (87)** — 51k coins, **+50.5% em 7 dias** (+28.4% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manuel Neuer (86)** — 74k coins, **+44.8% em 7 dias** (+24.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Uli Hoeneß (86)** — 16.000 coins, **+46.8% em 7 dias** (+13.1% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -87,7 +85,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Keven Schlotterbeck (89, Bundesliga) lidera, com +75% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Patrik Schick (88, Bundesliga) lidera, com +69.1% em 7 dias a 62k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
