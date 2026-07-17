@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **+3,1%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📈 O mercado hoje, em resumo
+## Dados preservados do snapshot
 
-O mercado da Bundesliga no PC apresenta hoje, 18 de junho de 2026, um cenário de extrema volatilidade lateralizada, onde o equilíbrio entre forças compradoras e vendedoras resulta em um movimento geral morno com média de apenas 0.52% nas últimas 24 horas. Observamos uma distribuição assimétrica de ações com 43 jogadores registrando altas e 58 sofrendo quedas, indicando que a maioria dos ativos está sob pressão de vendas ou correção de preços anteriores, enquanto uma minoria selecionada captura a liquidez disponível. Esse ambiente exige do trader uma disciplina ferrenha, pois a ausência de um direcionamento macro claro significa que as oportunidades são pontuais e baseadas em discrepâncias de probabilidade e volume, não em tendências sustentadas de alta. O sentimento de mercado sugere que os investidores estão cautelosos, aguardando gatilhos específicos de eventos ou promoções da EA para direcionar fluxos mais robustos, o que torna a análise técnica e fundamentalista de cada carta individual crucial para a tomada de decisão. Operar neste contexto requer a identificação rápida de ativos com alta probabilidade de continuidade de tendência versus aqueles que estão em fase de exaustão de compra ou pânico de venda, aproveitando a discrepância entre o preço atual e o valor percebido pela comunidade de trading.
+As 3 tabelas abaixo preservam **21 registros** de **21 jogadores** observados em 18/06/2026 no PC. Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Roy Makaay (89) **+59.4%** · 🔴 **Maior baixa:** Vincenzo Grifo (84) **-46.2%**
-
-## 🟢 Destaques de alta (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado da Bundesliga no PC apresenta hoje, 18 de junho de 2026, um cenário d
 | Nico Schlotterbeck | 87 | Bundesliga | 50k coins | +25.8% | +1.5% |
 | Timo Werner | 87 | Bundesliga | 60k coins | +25.7% | +50% |
 
-
-Entre as maiores altas, Roy Makaay se destaca com um impressionante aumento de 59.4% em 24 horas, atingindo 28k coins, impulsionado por uma probabilidade de alta de 61% que sugere forte interesse de construtores de times nostálgicos ou meta. Tomáš Rosický também apresenta um movimento significativo de 44.4%, cotado em 23k coins, com uma probabilidade de alta de 42% indicando que o momento de compra ainda não esgotou seu potencial a curto prazo. Haris Tabaković, embora em um patamar mais elevado de 140k coins, subiu 43.6%, mas sua probabilidade de alta de apenas 29% alerta traders para possível saturação imediata ou correção técnica após este salto brusco. Julian Brandt registra alta de 34.7% para 25k coins, mas com probabilidade de alta residual de apenas 9%, sinalizando claramente que o movimento já foi absorvido pelo mercado e que vender agora pode ser a estratégia mais segura. Mario Götze, em 80k coins, sobe 30.1% com uma probabilidade de alta robusta de 59%, o que indica que há ainda espaço para apreciação, especialmente se houver alguma promoção relacionada a lendas da Bundesliga que ainda não foi ativada. Daniel Svensson e Keven Schlotterbeck completam o top com altas de 29.7% e 26.8% respectivamente, mas suas probabilidades de alta de 33% e 29% sugerem cautela, pois a força do movimento pode estar diminuindo rapidamente em meio ao mercado lateral.
-
-
-## 🔴 Maiores baixas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,53 +61,20 @@ Entre as maiores altas, Roy Makaay se destaca com um impressionante aumento de 5
 | Silas | 84 | Bundesliga | 46k coins | -20.7% | +15% |
 | Jonathan Tah | 88 | Bundesliga | 61k coins | -19.5% | -2.1% |
 
-
-Na contramão, Vincenzo Grifo sofre a maior queda com -46.2%, caindo para 28k coins, e com probabilidade de alta de apenas 19%, indica um colapso de demanda ou venda em massa por parte de traders que lucraram em movimentos anteriores. Rani Khedira despencou 41.3% para 29k coins, mas sua probabilidade de alta de 51% sugere que esta pode ser uma oportunidade de compra reversa, pois o mercado pode estar sobre-reagindo à queda e buscando estabilização. Ragnar Ache caiu 32.8% para 36k coins com probabilidade de alta de 52%, outro candidato interessante para acumulação em níveis de suporte, já que a probabilidade indica que o pior da queda pode estar próximo. Manolis Saliakas, em -31.4% para 39k coins, possui probabilidade de alta de 46%, o que confirma a tese de possível fundo formado ou consolidação lateral após a correção. Ibrahim Maza, apesar de estar em um valor mais alto de 64k coins, caiu 28.2%, mas sua alta probabilidade de alta de 50% indica que a base de investidores de longo prazo ainda está comprando nos preços mais baixos. Danilho Doekhi e Wouter Burger, com quedas de -24.2% e -22.8% respectivamente, apresentam probabilidades de alta de 21% e 57%, mostrando que enquanto Doekhi ainda pode cair, Burger está em uma posição mais favorável para reversão de tendência.
-
-
-## 🔮 Projeções do modelo para 24h
-
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
+### Probabilidades registradas no snapshot
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Uli Hoeneß | 88 | 24k coins | 25k coins | 80% |
 
+## Como interpretar este arquivo
 
-O modelo preditivo identifica Uli Hoeneß como o ativo com maior potencial de apreciação imediata, com uma probabilidade de alta de 80% no preço atual de 24k coins, sugerindo uma assimetria de risco-recompensa extremamente favorável para entradas de curto prazo.
-
-
-## 🎯 Conclusão do dia
-A estratégia do dia deve focar na compra seletiva de ativos em queda com alta probabilidade de reversão, como Rani Khedira e Ragnar Ache, apostando na estabilização do mercado lateral e na correção de vendas excessivas. Deve-se evitar a compra tardia de Roy Makaay e Haris Tabaković, pois suas altas recentes e probabilidades mistas indicam risco de correção imediata, sugerindo que traders oportunistas devem vender frações de suas carteiras nestes ativos para garantir lucros. Uli Hoeneß deve ser monitorado de perto ou comprado imediatamente, dada a probabilidade de alta de 80%, representando a oportunidade de maior convicção do dia para traders de swing curto. Traders conservadores devem permanecer em caixa ou em ativos estáveis, evitando expor capital a jogadores como Julian Brandt, cuja probabilidade de alta de 9% indica exaustão total do movimento atual. O timing é crucial neste mercado de lado, onde a paciência para comprar no pânico das quedas de Grifo e Saliakas pode render melhores retornos do que perseguir as altas de Götze e Tabaković. Em resumo, busque valor nos preços descontados com indicadores de reversão positivos e realize lucros nos picos emocionais das altas recentes, mantendo a disciplina rigorosa diante da volatilidade sem direção clara.
-
-
-## 📊 Nossa metodologia em 30 segundos
-Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
-Roy Makaay (89, Bundesliga), com +59.4% em 24h, a 28k coins no PC.
-
-**E a maior queda do dia?**
-Vincenzo Grifo (84), -46.2% em 24h, a 28k coins.
-
-**Qual carta tinha maior probabilidade registrada nesse snapshot?**
-No snapshot histórico, Uli Hoeneß (88) — 80% de probabilidade de alta, a 24k coins.
-
-**O mercado do Ultimate Team subiu ou caiu hoje?**
-Naquele dia, o mercado estava de lado — altas e quedas se equilibram, com 43 cartas em alta contra 58 em queda (média 0.52%).
-
-**Os dados de preço do FutQuant são confiáveis?**
-Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
-
-
-> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
-
----
-
-*Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **23k coins** a **394k coins**, com mediana de **36k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **+3,1%**.
+- A mediana das variações de 7d presentes nas tabelas foi **+4,0%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -123,3 +84,7 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 - [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

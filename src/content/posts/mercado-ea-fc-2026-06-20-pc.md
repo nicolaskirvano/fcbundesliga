@@ -87,8 +87,8 @@ Naquele snapshot, o modelo projetava alta significativa para Uli Hoeneß, ativo 
 A estratégia do dia deve focar em comprar ativos com alta probabilidade de continuidade nas altas, como Christian Eriksen e Malik Tillman, enquanto se evita ativos com alta percentual mas baixa probabilidade, como Silas e Grimaldo. É recomendável segurar posições em Loïc Badé e Wouter Burger, que combinam bom desempenho recente com probabilidades de alta acima de 50%, indicando sustentação. Traders devem considerar compras agressivas em Manuel Neuer e Alphonso Davies nas quedas, aproveitando suas altas probabilidades de alta (60% e 58% respectivamente) como sinais de fundo técnico. Evite comprar Can Uzun e Silas por preços atuais devido à baixa probabilidade de alta ou risco de exaustão, preferindo aguardar confirmação de sustentação. A previsão de Uli Hoeneß com 80% de probabilidade de alta deve ser monitorada de perto para entrada antecipada, mas com stop-loss rigoroso devido ao valor baixo do ativo. O mercado lateral exige disciplina: compre força, venda fraqueza, e respeite as probabilidades do modelo acima dos sentimentos de curto prazo.
 
 
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
+## ⚙️ A engine por trás deste post
+Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes

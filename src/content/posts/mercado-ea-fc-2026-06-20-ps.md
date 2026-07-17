@@ -110,8 +110,8 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 A estratégia recomendada para hoje é focar na compra de ativos com alta probabilidade de valorização estatística, como Jamie Leweling, Karim Adeyemi e Mario Götze, que o modelo projeta com 95% de chance de alta, oferecendo uma relação risco-retorno favorável para acumulação de curto prazo. Devemos evitar entradas em Lukas Klostermann e Michael Gregoritsch devido às quedas acentuadas combinadas com baixas probabilidades de recuperação imediata, o que pode prender capital em ativos estagnados ou em nova descida. Para traders mais conservadores, Manuel Neuer e Johan Bakayoko representam oportunidades de venda rápida, aproveitando as altas recentes de 40% e 39% respectivamente, antes que a probabilidade de continuação diminua e o mercado se corrija. É fundamental manter uma reserva de liquidez para aproveitar possíveis quedas adicionais em ativos como Zé Roberto e Vladimír Coufal, que podem encontrar suporte em níveis mais baixos, permitindo compras com maior margem de segurança. O timing é essencial: comprar no início do dia os ativos projetados pelo modelo e vender as altas do dia anterior no pico de atividade da tarde, garantindo rotatividade de capital e proteção contra volatilidade noturna.
 
 
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
+## ⚙️ A engine por trás deste post
+Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes
