@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:32:10.000Z
-title: "Jogadores baratos de Bundesliga no EA FC (16/07/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-07-17T00:05:34.000Z
+title: "Jogadores baratos EA FC: Bundesliga em 16/07 — Console (PS)"
 draft: false
 featured: false
 tags:
@@ -9,10 +9,10 @@ tags:
   - custo-beneficio
   - budget
   - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 16/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+description: "Cartas 83+ abaixo de 15 mil coins em 16/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (16/07/2026)?"
-    a: "Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,46 +21,66 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **16/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jürgen Kohler (89) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Jürgen Kohler (89) por apenas 11.750 coins.
+
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Bundesliga em 16/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Retrato do recorte de hoje
+
+- **Preço médio das 10 opções:** 12.875 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 10.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
-Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
+Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma alta forte:
 
-| Jogador | OVR | Pos | Liga | Preço | 7d |
+| Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13k coins | +10.6% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 15k coins | -7.7% |
-| Mario Gomez | 88 | ST | Bundesliga | 12k coins | +6.7% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | -5.4% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | 0% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12k coins | +11.4% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12k coins | -2% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 12k coins | +4.3% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 12k coins | +4.1% |
-| Nathan Tella | 86 | CAM | Bundesliga | 13k coins | -18.8% |
-| Luka Vušković | 86 | CB | Bundesliga | 15k coins | -1.7% |
-| Piero Hincapié | 83 | CB | Bundesliga | 10k coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 11.750 coins | -1.9% |
+| Mario Gomez | 88 | ST | Bundesliga | 12.500 coins | 0% |
+| Roy Makaay | 87 | ST | Bundesliga | 12.750 coins | -8% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 12.500 coins | -4% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 12.500 coins | -2% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 13.250 coins | -5.9% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 14.000 coins | -1.8% |
+| Nathan Tella | 86 | CAM | Bundesliga | 14.750 coins | -14.3% |
+| Luka Vušković | 86 | CB | Bundesliga | 14.750 coins | -4.8% |
+| Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **13k coins**
+- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **11.750 coins**
 
-- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **15k coins**
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12.500 coins**
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12k coins**
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12.750 coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **13k coins**
+- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **12.500 coins**
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
+- **Mario Mandžukić (86, ST)** da Bundesliga, a apenas **12.500 coins**
+
+
+## Como distribuir a banca
+
+- **Defesa:** Jürgen Kohler (89, CB) por 11.750 coins é a referência de rating deste recorte.
+
+- **Meio:** Uli Hoeneß (86, RM) por 13.250 coins é a referência de rating deste recorte.
+
+- **Ataque:** Mario Gomez (88, ST) por 12.500 coins é a referência de rating deste recorte.
+
+- Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
+- **Rating 83+** é um filtro inicial; confira atributos, função tática e química.
 - **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
-- Filtramos preços anômalos para você não cair em cotação irreal.
+- Preços anômalos são excluídos, mas a cotação pode mudar depois da publicação.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -70,7 +90,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (16/07/2026)?**  
-Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Jürgen Kohler (89, Bundesliga) aparece como melhor custo-benefício, a 11.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -84,3 +104,11 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Bundesliga em 16/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Bundesliga — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

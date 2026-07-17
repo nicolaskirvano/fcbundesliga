@@ -1,72 +1,84 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:32:08.000Z
-title: "Melhores investimentos em Bundesliga no EA FC (16/07/2026): análise e previsões — Console (PS)"
+pubDatetime: 2026-07-17T00:05:32.000Z
+title: "Investimentos EA FC: Bundesliga em 16/07 — Console (PS)"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Jobe Bellingham (89, Bundesliga) lidera, com +81.7% em 7 dias a 211k coins no Console (PS)."
+    a: "Jobe Bellingham (89, Bundesliga) lidera, com +79.2% em 7 dias a 212k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **Console (PS)**:
+Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jobe Bellingham (89) acumula **+81.7% em 7 dias** a 211k coins.
+> 🔝 **Destaque:** Jobe Bellingham (89) acumula **+79.2% em 7 dias** a 212k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Bundesliga em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+13.6% em 24h** e **+29.2% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jobe Bellingham | 89 | Bundesliga | 211k coins | +3.8% | +81.7% | 0% |
-| Tomáš Rosický | 89 | Bundesliga | 27k coins | +31% | +71.9% | 85% |
-| Loïc Badé | 88 | Bundesliga | 18k coins | +9.1% | +33.3% | 26% |
-| Julian Brandt | 87 | Bundesliga | 20k coins | +28.4% | +32.3% | 74% |
-| Timo Werner | 87 | Bundesliga | 50k coins | +4.5% | +31.4% | 19% |
-| Andrej Kramarić | 87 | Bundesliga | 47k coins | +31.1% | +31.1% | 18% |
-| Deniz Undav | 91 | Bundesliga | 135k coins | +12% | +29.6% | 51% |
-| Felix Nmecha | 86 | Bundesliga | 173k coins | +1.8% | +21% | 0% |
-| Jonathan Tah | 88 | Bundesliga | 20k coins | +14.1% | +20.9% | 22% |
-| Julian Ryerson | 86 | Bundesliga | 37k coins | +18.8% | +16.6% | 19% |
-| Grimaldo | 92 | Bundesliga | 48k coins | +1.3% | +14.3% | 14% |
-| Joshua Kimmich | 90 | Bundesliga | 54k coins | +5.4% | +13.5% | 22% |
-| Jamie Leweling | 86 | Bundesliga | 40k coins | +7.3% | +12.7% | 0% |
-| Matthias Ginter | 88 | Bundesliga | 37k coins | +6.5% | +11.3% | 22% |
-| Andrej Kramarić | 89 | Bundesliga | 18k coins | +9.4% | +11.1% | 20% |
+| Jobe Bellingham | 89 | Bundesliga | 212k coins | +3.4% | +79.2% | Esticada |
+| Tomáš Rosický | 89 | Bundesliga | 24k coins | +19.3% | +64.1% | Esticada |
+| Harry Kane | 91 | Bundesliga | 178k coins | +2.6% | +46% | Momentum moderado |
+| Timo Werner | 87 | Bundesliga | 48k coins | +3.9% | +34.3% | Momentum moderado |
+| Loïc Badé | 88 | Bundesliga | 17.750 coins | +16.1% | +33.3% | Momentum moderado |
+| Grimaldo | 92 | Bundesliga | 44k coins | +11.2% | +30.9% | Momentum moderado |
+| Rani Khedira | 84 | Bundesliga | 43k coins | +25.5% | +29.9% | Esticada |
+| Julian Brandt | 87 | Bundesliga | 22k coins | +27.3% | +29.2% | Esticada |
+| Andrej Kramarić | 87 | Bundesliga | 47k coins | +24.5% | +24.5% | Esticada |
+| Antonio Nusa | 89 | Bundesliga | 203k coins | +28.8% | +21.7% | Esticada |
+| Felix Nmecha | 86 | Bundesliga | 172k coins | +1.8% | +21% | Entrada a observar |
+| Jonathan Tah | 88 | Bundesliga | 19.500 coins | +14.1% | +20.9% | Momentum moderado |
+| Karim Adeyemi | 86 | Bundesliga | 178k coins | +11.5% | +19.9% | Momentum moderado |
+| Benedict Hollerbach | 87 | Bundesliga | 16.500 coins | +9.4% | +16.7% | Momentum moderado |
+| Luis Díaz | 89 | Bundesliga | 146k coins | +13.6% | +15.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jobe Bellingham (89)** — 211k coins, **+81.7% em 7 dias** (+3.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jobe Bellingham (89)** — 212k coins, **+79.2% em 7 dias** (+3.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tomáš Rosický (89)** — 27k coins, **+71.9% em 7 dias** (+31% em 24h). Preço em linha com a média de 7 dias (+5%). 🔮 O modelo reforça a tese: **85% de chance de seguir subindo**.
+- **Tomáš Rosický (89)** — 24k coins, **+64.1% em 7 dias** (+19.3% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Loïc Badé (88)** — 18k coins, **+33.3% em 7 dias** (+9.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Harry Kane (91)** — 178k coins, **+46% em 7 dias** (+2.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julian Brandt (87)** — 20k coins, **+32.3% em 7 dias** (+28.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **74% de chance de seguir subindo**.
+- **Timo Werner (87)** — 48k coins, **+34.3% em 7 dias** (+3.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Timo Werner (87)** — 50k coins, **+31.4% em 7 dias** (+4.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Loïc Badé (88)** — 17.750 coins, **+33.3% em 7 dias** (+16.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -76,7 +88,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Jobe Bellingham (89, Bundesliga) lidera, com +81.7% em 7 dias a 211k coins no Console (PS).
+Jobe Bellingham (89, Bundesliga) lidera, com +79.2% em 7 dias a 212k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -90,3 +102,11 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Bundesliga em 16/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Bundesliga — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
