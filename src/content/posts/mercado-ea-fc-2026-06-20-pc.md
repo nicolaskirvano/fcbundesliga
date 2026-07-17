@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Bundesliga Market"
 pubDatetime: 2026-06-21T01:33:51.000Z
-title: "Bundesliga no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Bundesliga no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Can Uzun (89, Bundesliga), com +57.1% em 24h, a 110k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Jonathan Tah (88), -40.8% em 24h, a 38k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 19k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 42 cartas em alta contra 51 em queda (média 1.34%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PC: Can Uzun liderou as altas e Jonathan Tah as baixas em Bundesliga. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Can Uzun** registrou o maior movimento de 24h (+57,1%), enquanto **Jonathan Tah** marcou o menor (-40,8%). A distância entre os extremos foi de **97,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+8,3%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Bundesliga no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado da Bundesliga nesta terça-feira, 20 de junho de 2026, exibe uma clara falta de direção, caracterizando um ambiente lateral onde a indecisão dos traders prevalece sobre movimentos agressivos de compra ou venda. Com um balanço de 42 altas contra 51 quedas nos últimos 24 horas e uma variação média modesta de apenas 1.34%, o cenário sugere que a maioria dos ativos está em consolidação, aguardando catalisadores externos ou mudanças de sentimento para definir uma tendência mais assertiva. Essa neutralidade exige cautela extrema, pois operações sem filtro técnico ou fundamentalista tendem a resultar em perdas silenciosas ou oportunidades perdidas por entrada prematura em ativos voláteis. O tom do dia é de observação atenta, onde a liquidez parece fragmentada entre os jogadores de elite e os valores de entrada, criando bolsas de preço isoladas que não se comunicam eficientemente. Traders experientes devem interpretar este momento não como inatividade, mas como uma fase de reprecificação silenciosa, onde a paciência e a disciplina de entrada são mais valiosas do que a velocidade de execução.
 
@@ -68,7 +71,7 @@ A liderança das altas é dominada por Can Uzun, que dispara 57.1% em 24 horas, 
 No lado oposto, Jonathan Tah lidera as quedas com uma queda drástica de 40.8%, caindo para 38k coins, um movimento severo apesar de sua probabilidade de alta residual de 32%, sugerindo venda de pânico ou correção de sobreavaliação anterior. Manuel Neuer acompanha a descida com queda de 40.6%, atingindo 47k coins, mas sua probabilidade de alta de 60% indica que muitos traders veem isso como oportunidade de compra em fundo, potencialmente revertendo a tendência. Luis Díaz cai 39.4% para 100k coins, com probabilidade de alta baixa de 17%, sinalizando fraqueza estrutural no ativo e risco elevado de continuidade da queda. Alphonso Davies registra queda de 39.2%, valendo 121k coins, mas sua probabilidade de alta de 58% sugere que a venda pode estar sendo absorvida por compradores institucionais a preços mais baixos. Harry Kane, ativo de elite, cai 33.3% para 122k coins, com probabilidade de alta de apenas 20%, o que é preocupante para ativos de alto custo, indicando possível desinteresse do mercado premium. Nicolas Seiwald perde 32% para 22k coins, com probabilidade de 42%, mostrando volatilidade típica de ativos de entrada. Karim Adeyemi cai 29.7% para 79k coins, com probabilidade de 26%, reforçando a fragilidade de ativos ofensivos secundários neste momento. Michael Olise apresenta queda de 24% para 349k coins, com probabilidade de 47%, indicando que mesmo ativos caros estão sofrendo ajuste, mas com potencial de estabilização.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -77,7 +80,7 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 | Uli Hoeneß | 88 | 19k coins | 20k coins | 80% |
 
 
-O modelo projeta alta significativa para Uli Hoeneß, ativo de 88 rating na Bundesliga, com probabilidade de alta de 80% e preço atual de 19k coins, indicando forte potencial de valorização imediata.
+Naquele snapshot, o modelo projetava alta significativa para Uli Hoeneß, ativo de 88 rating na Bundesliga, com probabilidade de alta de 80% e preço atual de 19k coins, indicando forte potencial de valorização imediata.
 
 
 ## 🎯 A estratégia do dia
@@ -90,19 +93,19 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Can Uzun (89, Bundesliga), com +57.1% em 24h, a 110k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Jonathan Tah (88), -40.8% em 24h, a 38k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 19k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Uli Hoeneß (88) — 80% de probabilidade de alta, a 19k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 42 cartas em alta contra 51 em queda (média 1.34%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 42 cartas em alta contra 51 em queda (média 1.34%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -111,3 +114,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Bundesliga baratos no EA FC em 20/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-20-pc/)
+- [Momentum de Bundesliga no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

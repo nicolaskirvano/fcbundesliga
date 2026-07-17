@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Bundesliga Market"
 pubDatetime: 2026-06-01T01:32:02.000Z
-title: "Bundesliga no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
+title: "Bundesliga no EA FC em 31/05: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,23 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Luis Díaz (86, Bundesliga), com +35% em 24h, a 40k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Konrad Laimer (84), -45.4% em 24h, a 21k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 16k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 35 cartas em alta contra 52 em queda (média 1.33%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PC: Luis Díaz liderou as altas e Konrad Laimer as baixas em Bundesliga. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **35 subiram** e **52 caíram**, com variação média de **1.33%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Luis Díaz** registrou o maior movimento de 24h (+35,0%), enquanto **Konrad Laimer** marcou o menor (-45,4%). A distância entre os extremos foi de **80,4 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+1,0%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Bundesliga no EA FC em 31/05: altas e baixas — PC](/charts/mercado-ea-fc-2026-05-31-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **35 subiram** e **52 caíram**, com variação média de **1.33%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Luis Díaz (86) **+35%** · 🔴 **Maior baixa:** Konrad Laimer (84) **-45.4%**
 
@@ -48,11 +51,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Luis Díaz (86)** subiu **+35%** em 24h, a **40k coins** (faixa do dia: 26k–42k). Está em linha com a média de 7 dias (+2%). O modelo vê **estabilização** no curto prazo.
+- **Luis Díaz (86)** subiu **+35%** em 24h, a **40k coins** (faixa do dia: 26k–42k). Está em linha com a média de 7 dias (+2%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Wouter Burger (87)** subiu **+33.3%** em 24h, a **276k coins** (faixa do dia: 197k–300k). Está +16% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Wouter Burger (87)** subiu **+33.3%** em 24h, a **276k coins** (faixa do dia: 197k–300k). Está +16% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Harry Kane (91)** subiu **+27.7%** em 24h, a **189k coins** (faixa do dia: 119k–208k). Está em linha com a média de 7 dias (-6%). O modelo vê **estabilização** no curto prazo.
+- **Harry Kane (91)** subiu **+27.7%** em 24h, a **189k coins** (faixa do dia: 119k–208k). Está em linha com a média de 7 dias (-6%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,16 +76,16 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Konrad Laimer (84)** caiu **-45.4%** em 24h, a **21k coins** (faixa do dia: 13k–22k). Está -16% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Konrad Laimer (84)** caiu **-45.4%** em 24h, a **21k coins** (faixa do dia: 13k–22k). Está -16% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Loïc Badé (88)** caiu **-45%** em 24h, a **28k coins** (faixa do dia: 28k–50k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Loïc Badé (88)** caiu **-45%** em 24h, a **28k coins** (faixa do dia: 28k–50k). Está +13% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Maximilian Beier (85)** caiu **-37.2%** em 24h, a **47k coins** (faixa do dia: 47k–74k). Está -31% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Maximilian Beier (85)** caiu **-37.2%** em 24h, a **47k coins** (faixa do dia: 47k–74k). Está -31% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -96,19 +99,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 Luis Díaz (86, Bundesliga), com +35% em 24h, a 40k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Konrad Laimer (84), -45.4% em 24h, a 21k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Uli Hoeneß (88) — 80% de probabilidade de alta, a 16k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Uli Hoeneß (88) — 80% de probabilidade de alta, a 16k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 35 cartas em alta contra 52 em queda (média 1.33%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 35 cartas em alta contra 52 em queda (média 1.33%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -117,3 +120,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Bundesliga baratos no EA FC em 31/05 — PC](/posts/jogadores-baratos-ea-fc-2026-05-31-pc/)
+- [Momentum de Bundesliga no EA FC em 31/05 — PC](/posts/melhores-investimentos-ea-fc-2026-05-31-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Bundesliga Market"
 pubDatetime: 2026-06-21T01:32:48.000Z
-title: "Bundesliga no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Bundesliga no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Jamal Musiala (89, Bundesliga), com +56.4% em 24h, a 349k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Lukas Klostermann (88), -41.3% em 24h, a 121k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Jamie Leweling (86) — 95% de probabilidade de alta, a 32k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 54 cartas em alta contra 34 em queda (média 3.95%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Jamal Musiala liderou as altas e Lukas Klostermann as baixas em Bundesliga. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Jamal Musiala** registrou o maior movimento de 24h (+56,4%), enquanto **Lukas Klostermann** marcou o menor (-41,3%). A distância entre os extremos foi de **97,7 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+9,3%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Bundesliga no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado da Bundesliga no console PlayStation apresenta um cenário de otimismo cauteloso nesta terça-feira, 20 de junho de 2026, com uma clara predominância de valorizações que sinalizam uma liquidez ativa entre os traders experientes. Os indicadores mostram 54 jogadores em alta contra apenas 34 em queda, resultando em uma média de valorização de 3.95% nas últimas 24 horas, o que configura um ambiente propício para operações de curto prazo, desde que se evite as armadilhas dos preços inflacionados. O sentimento geral é de compra seletiva, focado em ativos com alta probabilidade de revalorização e baixa oferta imediata, enquanto a volatilidade nos preços dos ídolos exige atenção redobrada para não comprar no topo. A dinâmica atual sugere que a comunidade está focada em montar squads competitivas para os modos online da temporada, impulsionando a demanda por cartas específicas que oferecem bom custo-benefício em relação ao seu rating e atributos. É fundamental analisar não apenas o percentual de alta, mas também a probabilidade estatística de continuação dessa tendência, pois muitos dos movimentos recentes podem ser correções momentâneas de preços superajustados em dias anteriores.
 
@@ -68,7 +71,7 @@ Destaque absoluto para Jamal Musiala, cuja carta 89 disparou 56.4% em 24 horas, 
 Lukas Klostermann sofreu a maior queda do dia, despencando 41.3% para 121 mil coins na carta 88, um movimento preocupante dado que a probabilidade de alta é de apenas 50%, indicando instabilidade e risco de continuação da desvalorização se não houver notícias positivas ou promoções futuras. Zé Roberto, na carta 87, caiu 31.8% para 34 mil coins, mas apresenta uma probabilidade de alta de 73%, o que caracteriza uma oportunidade de compra de fundo, sugerindo que o preço atual é um ponto de suporte forte e a correção pode ser temporária. Michael Gregoritsch perdeu 26.6% de valor, caindo para 36 mil coins na versão 84, com probabilidade de alta de apenas 18%, o que alerta traders a evitarem essa carta a menos que haja uma necessidade imediata de preenchimento de squad, pois a tendência é de baixa ou lateralização. Vladimír Coufal, outro lateral em queda, despencou 23% para 34 mil coins na carta 84, com probabilidade de alta de 27%, reforçando a tese de que laterais de rating médio estão sob pressão de venda devido à abundância de alternativas mais baratas no mercado. Luis Díaz, na versão 91, caiu 17.6% para 200 mil coins, um ativo de alto valor com probabilidade de alta de 27%, o que exige extrema cautela, pois quedas em cartas caras geralmente precedem consolidções de preço ou novas quedas se a demanda não se recuperar rapidamente.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Jamal Musiala (89, Bundesliga), com +56.4% em 24h, a 349k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Lukas Klostermann (88), -41.3% em 24h, a 121k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Jamie Leweling (86) — 95% de probabilidade de alta, a 32k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Jamie Leweling (86) — 95% de probabilidade de alta, a 32k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 54 cartas em alta contra 34 em queda (média 3.95%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 54 cartas em alta contra 34 em queda (média 3.95%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Bundesliga baratos no EA FC em 20/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-20-ps/)
+- [Momentum de Bundesliga no EA FC em 20/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
