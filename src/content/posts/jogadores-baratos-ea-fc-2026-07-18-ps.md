@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:28:05.000Z
+pubDatetime: 2026-07-18T10:32:10.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 18/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.643 coins.
+- **Preço médio das 15 opções:** 11.553 coins.
 - **Posição mais frequente:** ST, com 8 cartas.
 - **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
@@ -40,19 +40,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2.000 coins | +13.6% |
-| Harry Kane | 89 | ST | Bundesliga | 3.400 coins | +24% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 2.000 coins | +4.5% |
+| Harry Kane | 89 | ST | Bundesliga | 3.300 coins | +32% |
 | Keven Schlotterbeck | 89 | CB | Bundesliga | 14.000 coins | +6.7% |
 | Rudi Völler | 89 | ST | Bundesliga | 14.250 coins | +13.5% |
 | Mario Gomez | 88 | ST | Bundesliga | 11.750 coins | -4.1% |
 | Bixente Lizarazu | 88 | LB | Bundesliga | 14.000 coins | -3.4% |
-| Loïc Badé | 88 | CB | Bundesliga | 14.250 coins | -3.2% |
+| Loïc Badé | 88 | CB | Bundesliga | 14.250 coins | -6.5% |
 | Roy Makaay | 87 | ST | Bundesliga | 11.500 coins | -9.8% |
 | Claudio Pizarro | 87 | ST | Bundesliga | 12.250 coins | -12.5% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11.500 coins | -4.3% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 10.750 coins | +4.2% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11.500 coins | 0% |
 | Claudio Pizarro | 86 | ST | Bundesliga | 12.000 coins | +4.3% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 12.500 coins | +2% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 12.750 coins | -7.3% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 13.250 coins | -7.3% |
 | Nathan Tella | 86 | CAM | Bundesliga | 14.000 coins | -3.3% |
 | Luka Vušković | 86 | CB | Bundesliga | 14.500 coins | 0% |
 
@@ -61,7 +61,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14.000 coins**
 
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Joshua Kimmich (89, CDM) por 2.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 3.400 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 3.300 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

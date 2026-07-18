@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:28:14.000Z
+pubDatetime: 2026-07-18T10:32:19.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 18/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 6.320 coins.
+- **Preço médio das 5 opções:** 6.440 coins.
 - **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 1.900 a 11.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.300 a 11.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,19 +41,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Joshua Kimmich | 89 | CDM | Bundesliga | 3.300 coins | +10% |
-| Harry Kane | 89 | ST | Bundesliga | 3.900 coins | +17.6% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 1.900 coins | +23.5% |
+| Harry Kane | 89 | ST | Bundesliga | 4.100 coins | +20.6% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2.300 coins | +23.5% |
 | Claudio Pizarro | 86 | ST | Bundesliga | 11.250 coins | -6.2% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11.250 coins | -4.3% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11.250 coins | -2.2% |
 
 
 ## 📈 Destaques
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.100 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **1.900 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11.250 coins**
 
@@ -64,7 +64,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Joshua Kimmich (89, CDM) por 3.300 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 3.900 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 4.100 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:28:04.000Z
+pubDatetime: 2026-07-18T10:32:08.000Z
 title: "Investimentos EA FC: Bundesliga em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -52,8 +52,8 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Edmond Tapsoba | 86 | Bundesliga | 20k coins | +7.9% | +36.7% | Momentum moderado |
 | Willi Orban | 86 | Bundesliga | 27k coins | +30.5% | +28.9% | Esticada |
 | Fisnik Asllani | 85 | Bundesliga | 35k coins | +6.7% | +28.6% | Momentum moderado |
+| Manolis Saliakas | 84 | Bundesliga | 44k coins | +33.8% | +24.3% | Esticada |
 | David Raum | 87 | Bundesliga | 16.500 coins | +4.7% | +21.8% | Entrada a observar |
-| Manolis Saliakas | 84 | Bundesliga | 44k coins | +30.8% | +21.4% | Esticada |
 | Julian Ryerson | 86 | Bundesliga | 44k coins | +19.9% | +21.4% | Momentum moderado |
 | Antonio Nusa | 89 | Bundesliga | 212k coins | +5.5% | +21.1% | Momentum moderado |
 | Harry Kane | 91 | Bundesliga | 160k coins | +17.7% | +18.6% | Momentum moderado |
