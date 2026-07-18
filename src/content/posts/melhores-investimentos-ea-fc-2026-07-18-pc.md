@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:32:18.000Z
+pubDatetime: 2026-07-18T22:32:18.000Z
 title: "Investimentos EA FC: Bundesliga em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Wouter Burger (87, Bundesliga) lidera, com +77.4% em 7 dias a 139k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Patrik Schick (88, Bundesliga) lidera, com +76.4% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Wouter Burger (87) acumula **+77.4% em 7 dias** a 139k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Patrik Schick (88) acumula **+76.4% em 7 dias** a 64k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Bundesliga em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.7% em 24h** e **+28.3% em 7 dias**.
-- **2 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+16.5% em 24h** e **+33.7% em 7 dias**.
+- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Bundesliga** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,28 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Wouter Burger | 87 | Bundesliga | 139k coins | +14.6% | +77.4% | Esticada |
-| Włodzimierz Smolarek | 86 | Bundesliga | 24k coins | +22.8% | +56.5% | Esticada |
-| Luis Díaz | 86 | Bundesliga | 64k coins | +3.2% | +53.6% | Momentum moderado |
-| Jürgen Kohler | 90 | Bundesliga | 44k coins | +8.7% | +45.8% | Momentum moderado |
-| Fisnik Asllani | 85 | Bundesliga | 34k coins | +13.3% | +28.3% | Momentum moderado |
-| Daniel Svensson | 84 | Bundesliga | 38k coins | +9.5% | +26.1% | Momentum moderado |
-| Timo Werner | 87 | Bundesliga | 62k coins | +10.7% | +24.6% | Momentum moderado |
-| Luka Vušković | 86 | Bundesliga | 15.750 coins | +8.3% | +16.1% | Momentum moderado |
-| Benedict Hollerbach | 87 | Bundesliga | 18.000 coins | +16.9% | +7.8% | Momentum moderado |
+| Patrik Schick | 88 | Bundesliga | 64k coins | +9.5% | +76.4% | Esticada |
+| Jürgen Kohler | 90 | Bundesliga | 45k coins | +11.8% | +50% | Momentum moderado |
+| Antonio Nusa | 89 | Bundesliga | 93k coins | +37.4% | +40% | Esticada |
+| Włodzimierz Smolarek | 86 | Bundesliga | 24k coins | +16.5% | +37.3% | Momentum moderado |
+| Luis Díaz | 86 | Bundesliga | 64k coins | +3.2% | +33.7% | Momentum moderado |
+| Rani Khedira | 84 | Bundesliga | 49k coins | +29.5% | +25.5% | Esticada |
+| Zé Roberto | 87 | Bundesliga | 92k coins | +3.8% | +18% | Entrada a observar |
+| Keven Schlotterbeck | 89 | Bundesliga | 19.000 coins | +19.1% | +14.1% | Momentum moderado |
+| Manuel Neuer | 86 | Bundesliga | 58k coins | +35.3% | +8.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Wouter Burger (87)** — 139k coins, **+77.4% em 7 dias** (+14.6% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrik Schick (88)** — 64k coins, **+76.4% em 7 dias** (+9.5% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Włodzimierz Smolarek (86)** — 24k coins, **+56.5% em 7 dias** (+22.8% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jürgen Kohler (90)** — 45k coins, **+50% em 7 dias** (+11.8% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luis Díaz (86)** — 64k coins, **+53.6% em 7 dias** (+3.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Antonio Nusa (89)** — 93k coins, **+40% em 7 dias** (+37.4% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jürgen Kohler (90)** — 44k coins, **+45.8% em 7 dias** (+8.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Włodzimierz Smolarek (86)** — 24k coins, **+37.3% em 7 dias** (+16.5% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fisnik Asllani (85)** — 34k coins, **+28.3% em 7 dias** (+13.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luis Díaz (86)** — 64k coins, **+33.7% em 7 dias** (+3.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -92,7 +92,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Wouter Burger (87, Bundesliga) lidera, com +77.4% em 7 dias a 139k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Patrik Schick (88, Bundesliga) lidera, com +76.4% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
