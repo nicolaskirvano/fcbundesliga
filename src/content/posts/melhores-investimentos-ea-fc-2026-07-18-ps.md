@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:32:08.000Z
+pubDatetime: 2026-07-18T13:32:08.000Z
 title: "Investimentos EA FC: Bundesliga em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Dan-Axel Zagadou (85, Bundesliga) lidera, com +53.2% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Angelo Stiller (91, Bundesliga) lidera, com +78.2% em 7 dias a 46k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Dan-Axel Zagadou (85) acumula **+53.2% em 7 dias** a 30k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Angelo Stiller (91) acumula **+78.2% em 7 dias** a 46k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Bundesliga em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.7% em 24h** e **+28.9% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+9.7% em 24h** e **+28.6% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Bundesliga** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dan-Axel Zagadou | 85 | Bundesliga | 30k coins | +26.9% | +53.2% | Esticada |
-| Joshua Kimmich | 90 | Bundesliga | 76k coins | +28.6% | +51.5% | Esticada |
-| David Raum | 84 | Bundesliga | 50k coins | +2.1% | +45.3% | Momentum moderado |
-| Harry Kane | 90 | Bundesliga | 159k coins | +12.7% | +44.4% | Momentum moderado |
-| Franck Honorat | 85 | Bundesliga | 21k coins | +30.3% | +43.3% | Esticada |
-| Nico Schlotterbeck | 87 | Bundesliga | 55k coins | +22.6% | +42.5% | Esticada |
-| Edmond Tapsoba | 86 | Bundesliga | 20k coins | +7.9% | +36.7% | Momentum moderado |
-| Willi Orban | 86 | Bundesliga | 27k coins | +30.5% | +28.9% | Esticada |
-| Fisnik Asllani | 85 | Bundesliga | 35k coins | +6.7% | +28.6% | Momentum moderado |
-| Manolis Saliakas | 84 | Bundesliga | 44k coins | +33.8% | +24.3% | Esticada |
-| David Raum | 87 | Bundesliga | 16.500 coins | +4.7% | +21.8% | Entrada a observar |
-| Julian Ryerson | 86 | Bundesliga | 44k coins | +19.9% | +21.4% | Momentum moderado |
-| Antonio Nusa | 89 | Bundesliga | 212k coins | +5.5% | +21.1% | Momentum moderado |
-| Harry Kane | 91 | Bundesliga | 160k coins | +17.7% | +18.6% | Momentum moderado |
-| Matthias Ginter | 88 | Bundesliga | 37k coins | +12.9% | +18.3% | Momentum moderado |
+| Angelo Stiller | 91 | Bundesliga | 46k coins | +17.8% | +78.2% | Esticada |
+| Harry Kane | 90 | Bundesliga | 181k coins | +20.3% | +63.8% | Esticada |
+| Dan-Axel Zagadou | 85 | Bundesliga | 23k coins | +3.7% | +49.3% | Momentum moderado |
+| David Raum | 84 | Bundesliga | 48k coins | +20% | +36.2% | Esticada |
+| Michael Gregoritsch | 84 | Bundesliga | 52k coins | +7.1% | +31.2% | Momentum moderado |
+| Joshua Kimmich | 90 | Bundesliga | 66k coins | +30.7% | +29.4% | Esticada |
+| Willi Orban | 86 | Bundesliga | 27k coins | +2.9% | +28.9% | Momentum moderado |
+| Silas | 84 | Bundesliga | 54k coins | +2.6% | +28.6% | Momentum moderado |
+| Edmond Tapsoba | 86 | Bundesliga | 21k coins | +8.2% | +27.4% | Momentum moderado |
+| Uli Hoeneß | 88 | Bundesliga | 19.750 coins | +9.7% | +27.4% | Momentum moderado |
+| Benedict Hollerbach | 87 | Bundesliga | 17.750 coins | +31% | +26.7% | Esticada |
+| Harry Kane | 91 | Bundesliga | 155k coins | +13.5% | +14.3% | Momentum moderado |
+| Kaishū Sano | 84 | Bundesliga | 42k coins | +13.8% | +13.8% | Momentum moderado |
+| Christian Günter | 84 | Bundesliga | 18.750 coins | +4.1% | +11.8% | Entrada a observar |
+| Daniel Svensson | 84 | Bundesliga | 21k coins | +8.6% | +8.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Dan-Axel Zagadou (85)** — 30k coins, **+53.2% em 7 dias** (+26.9% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (91)** — 46k coins, **+78.2% em 7 dias** (+17.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joshua Kimmich (90)** — 76k coins, **+51.5% em 7 dias** (+28.6% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Harry Kane (90)** — 181k coins, **+63.8% em 7 dias** (+20.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Raum (84)** — 50k coins, **+45.3% em 7 dias** (+2.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dan-Axel Zagadou (85)** — 23k coins, **+49.3% em 7 dias** (+3.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Kane (90)** — 159k coins, **+44.4% em 7 dias** (+12.7% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Raum (84)** — 48k coins, **+36.2% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franck Honorat (85)** — 21k coins, **+43.3% em 7 dias** (+30.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michael Gregoritsch (84)** — 52k coins, **+31.2% em 7 dias** (+7.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Dan-Axel Zagadou (85, Bundesliga) lidera, com +53.2% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Angelo Stiller (91, Bundesliga) lidera, com +78.2% em 7 dias a 46k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
