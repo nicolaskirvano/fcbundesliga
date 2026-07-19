@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T19:32:07.000Z
+pubDatetime: 2026-07-19T22:32:07.000Z
 title: "Mercado EA FC em 19/07: Bundesliga — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Wouter Burger (87, Bundesliga), com +55.3% em 24h, a 72k coins no Console (PS)."
+    a: "Christian Eriksen (87, Bundesliga), com +55.1% em 24h, a 27k coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Loïs Openda (83), -50% em 24h, a 150k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 39 cartas em alta contra 67 em queda (média -1.98%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 44 cartas em alta contra 49 em queda (média -0.09%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **19/07/2026** no Console (PS): mercado **pressionado** — as quedas dominam o dia. **39 valorizações** contra **67 quedas** entre as cartas relevantes, com média de **-1.98%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **19/07/2026** no Console (PS): dia **indefinido** — sem tendência dominante. **44 valorizações** contra **49 quedas** entre as cartas relevantes, com média de **-0.09%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Wouter Burger (87) **+55.3%** · 🔴 **Maior baixa:** Loïs Openda (83) **-50%**
+> 🟢 **Maior alta:** Christian Eriksen (87) **+55.1%** · 🔴 **Maior baixa:** Loïs Openda (83) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Bundesliga — Console (PS)](/charts/mercado-ea-fc-2026-07-19-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **19/07/2026** no Console (PS): mercado **pressionado** — as quedas 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 105.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 36.8% entre as cartas que se moveram; o universo observado reúne 126 cartas.
+- **Amplitude do dia:** 105.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.3% entre as cartas que se moveram; o universo observado reúne 112 cartas.
 - **Concentração:** Bundesliga aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wouter Burger | 87 | Bundesliga | 72k coins | +55.3% | +128.1% |
-| Christian Günter | 88 | Bundesliga | 28k coins | +52.7% | +66.2% |
-| Malik Tillman | 85 | Bundesliga | 40k coins | +47.7% | +102.6% |
-| Michael Olise | 87 | Bundesliga | 270k coins | +35.7% | -26.8% |
-| Harry Kane | 92 | Bundesliga | 300k coins | +32.8% | +5.8% |
-| Karim Adeyemi | 91 | Bundesliga | 310k coins | +27.7% | -2.3% |
-| Silas | 84 | Bundesliga | 61k coins | +25% | +11.1% |
-| Michael Gregoritsch | 84 | Bundesliga | 50k coins | +23.9% | +10% |
-| Matthias Ginter | 88 | Bundesliga | 30k coins | +23.7% | -12.4% |
-| Luis Díaz | 91 | Bundesliga | 188k coins | +21.9% | -5.5% |
+| Christian Eriksen | 87 | Bundesliga | 27k coins | +55.1% | -25.5% |
+| Konrad Laimer | 84 | Bundesliga | 62k coins | +47.1% | +25% |
+| Luis Díaz | 86 | Bundesliga | 58k coins | +30.7% | -2.5% |
+| Joshua Kimmich | 90 | Bundesliga | 78k coins | +28% | +63.3% |
+| Antonio Nusa | 89 | Bundesliga | 160k coins | +25.4% | -9.4% |
+| Christian Günter | 88 | Bundesliga | 27k coins | +24.4% | +48.6% |
+| Matthias Ginter | 88 | Bundesliga | 29k coins | +23.4% | -14.7% |
+| Fábio Vieira | 87 | Bundesliga | 25k coins | +23.2% | -6.5% |
+| Luis Díaz | 87 | Bundesliga | 58k coins | +20.9% | -1.7% |
+| Manolis Saliakas | 84 | Bundesliga | 44k coins | +19% | +8.7% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ Resumo de **19/07/2026** no Console (PS): mercado **pressionado** — as quedas 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Wouter Burger (87)** subiu **+55.3%** em 24h, a **72k coins** (faixa do dia: 39k–138k). Está +31% acima da média de 7 dias (aquecida).
+- **Christian Eriksen (87)** subiu **+55.1%** em 24h, a **27k coins** (faixa do dia: 24k–84k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Christian Günter (88)** subiu **+52.7%** em 24h, a **28k coins** (faixa do dia: 15.750–28k). Está +22% acima da média de 7 dias (aquecida).
+- **Konrad Laimer (84)** subiu **+47.1%** em 24h, a **62k coins** (faixa do dia: 35k–68k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Malik Tillman (85)** subiu **+47.7%** em 24h, a **40k coins** (faixa do dia: 19.500–42k). Está +65% acima da média de 7 dias (aquecida).
+- **Luis Díaz (86)** subiu **+30.7%** em 24h, a **58k coins** (faixa do dia: 40k–58k). Está +12% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
@@ -73,29 +73,29 @@ Resumo de **19/07/2026** no Console (PS): mercado **pressionado** — as quedas 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Loïs Openda | 83 | Bundesliga | 150k coins | -50% | -50% |
-| Nadiem Amiri | 88 | Bundesliga | 22k coins | -33.3% | -30.9% |
-| Joshua Kimmich | 89 | Bundesliga | 40k coins | -31.5% | 0% |
-| Luis Díaz | 89 | Bundesliga | 88k coins | -29.2% | -12.4% |
-| Deniz Undav | 91 | Bundesliga | 64k coins | -28.2% | -35.8% |
-| Harry Kane | 91 | Bundesliga | 294k coins | -25.8% | -21.8% |
-| Julian Ryerson | 86 | Bundesliga | 38k coins | -19.6% | -1.3% |
-| Manolis Saliakas | 84 | Bundesliga | 34k coins | -19% | -13.4% |
-| Harry Kane | 92 | Bundesliga | 166k coins | -19% | -21% |
-| Nico Schlotterbeck | 87 | Bundesliga | 22k coins | -17.8% | -22.9% |
+| Alphonso Davies | 89 | Bundesliga | 56k coins | -33.3% | -19.2% |
+| Christoph Baumgartner | 86 | Bundesliga | 32k coins | -32.5% | -12.5% |
+| Johan Bakayoko | 88 | Bundesliga | 20k coins | -31.5% | -25.5% |
+| Joshua Kimmich | 89 | Bundesliga | 39k coins | -28.8% | -12.7% |
+| Michael Olise | 88 | Bundesliga | 489k coins | -28.6% | -0.2% |
+| Ritsu Doan | 86 | Bundesliga | 70k coins | -25.8% | -29.1% |
+| Tomáš Rosický | 89 | Bundesliga | 24k coins | -23% | -17.9% |
+| Harry Kane | 91 | Bundesliga | 272k coins | -18.9% | -27.6% |
+| Nico Schlotterbeck | 87 | Bundesliga | 22k coins | -17.8% | -31.5% |
 
 
 ### Análise das baixas
 
-- **Loïs Openda (83)** caiu **-50%** em 24h, a **150k coins** (faixa do dia: 150k–300k). Está -47% abaixo da média de 7 dias (descontada).
+- **Loïs Openda (83)** caiu **-50%** em 24h, a **150k coins** (faixa do dia: 150k–150k). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Nadiem Amiri (88)** caiu **-33.3%** em 24h, a **22k coins** (faixa do dia: 14.000–26k). Está +14% acima da média de 7 dias (aquecida).
+- **Alphonso Davies (89)** caiu **-33.3%** em 24h, a **56k coins** (faixa do dia: 36k–76k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Joshua Kimmich (89)** caiu **-31.5%** em 24h, a **40k coins** (faixa do dia: 39k–76k). Está -49% abaixo da média de 7 dias (descontada).
+- **Christoph Baumgartner (86)** caiu **-32.5%** em 24h, a **32k coins** (faixa do dia: 32k–50k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Wouter Burger já avançou 55.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Christian Eriksen já avançou 55.1% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Loïs Openda recuou -50%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Wouter Burger (87, Bundesliga), com +55.3% em 24h, a 72k coins no Console (PS).
+Christian Eriksen (87, Bundesliga), com +55.1% em 24h, a 27k coins no Console (PS).
 
 **E a maior queda do dia?**
 Loïs Openda (83), -50% em 24h, a 150k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 39 cartas em alta contra 67 em queda (média -1.98%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 44 cartas em alta contra 49 em queda (média -0.09%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
