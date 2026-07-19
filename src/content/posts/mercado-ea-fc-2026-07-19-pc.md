@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:32:16.000Z
+pubDatetime: 2026-07-19T16:32:17.000Z
 title: "Mercado EA FC em 19/07: Bundesliga — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Jean-Mattéo Bahoya (89, Bundesliga), com +38.4% em 24h, a 62k coins no PC."
+    a: "Christian Eriksen (87, Bundesliga), com +58.7% em 24h, a 96k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Johan Bakayoko (88), -43.2% em 24h, a 25k coins."
+    a: "Johan Bakayoko (88), -46.1% em 24h, a 25k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 43 cartas em alta contra 44 em queda (média 1.52%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 40 cartas em alta contra 50 em queda (média -0.71%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **19/07/2026** no PC: mercado **aquecido** — as altas dominam o dia. **43 valorizações** contra **44 quedas** entre as cartas relevantes, com média de **1.52%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **19/07/2026** no PC: dia **indefinido** — sem tendência dominante. **40 valorizações** contra **50 quedas** entre as cartas relevantes, com média de **-0.71%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Jean-Mattéo Bahoya (89) **+38.4%** · 🔴 **Maior baixa:** Johan Bakayoko (88) **-43.2%**
+> 🟢 **Maior alta:** Christian Eriksen (87) **+58.7%** · 🔴 **Maior baixa:** Johan Bakayoko (88) **-46.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Bundesliga — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **19/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 81.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.4% entre as cartas que se moveram; o universo observado reúne 120 cartas.
+- **Amplitude do dia:** 104.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.4% entre as cartas que se moveram; o universo observado reúne 115 cartas.
 - **Concentração:** Bundesliga aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 62k coins | +38.4% | -26.2% |
-| Matthias Ginter | 88 | Bundesliga | 44k coins | +37.6% | -42.5% |
-| Karim Adeyemi | 86 | Bundesliga | 188k coins | +29.7% | -10.5% |
-| Włodzimierz Smolarek | 86 | Bundesliga | 26k coins | +21.8% | +1% |
-| Wouter Burger | 87 | Bundesliga | 190k coins | +20.3% | +130.3% |
-| Han-Noah Massengo | 84 | Bundesliga | 40k coins | +19.4% | +0.6% |
-| Deniz Undav | 84 | Bundesliga | 44k coins | +19.2% | +15.2% |
-| Grimaldo | 92 | Bundesliga | 46k coins | +18.8% | -12.9% |
-| Malik Tillman | 85 | Bundesliga | 37k coins | +17.2% | 0% |
-| Grimaldo | 86 | Bundesliga | 53k coins | +15.2% | +18.4% |
+| Christian Eriksen | 87 | Bundesliga | 96k coins | +58.7% | +20% |
+| Franck Honorat | 85 | Bundesliga | 26k coins | +47.1% | +7.3% |
+| Patrik Schick | 88 | Bundesliga | 59k coins | +40.5% | +76.1% |
+| Angelo Stiller | 91 | Bundesliga | 63k coins | +40% | +70.3% |
+| Harry Kane | 90 | Bundesliga | 209k coins | +33.3% | +71.4% |
+| Joshua Kimmich | 89 | Bundesliga | 151k coins | +26.7% | +20.6% |
+| Joshua Kimmich | 90 | Bundesliga | 86k coins | +24.4% | +4.3% |
+| Tomáš Rosický | 89 | Bundesliga | 35k coins | +23.9% | +44.3% |
+| Grimaldo | 92 | Bundesliga | 42k coins | +18.8% | -18.6% |
+| Ragnar Ache | 84 | Bundesliga | 46k coins | +15.6% | -14.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **19/07/2026** no PC: mercado **aquecido** — as altas dominam o dia.
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jean-Mattéo Bahoya (89)** subiu **+38.4%** em 24h, a **62k coins** (faixa do dia: 35k–74k). Está -9% abaixo da média de 7 dias (descontada).
+- **Christian Eriksen (87)** subiu **+58.7%** em 24h, a **96k coins** (faixa do dia: 50k–120k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Matthias Ginter (88)** subiu **+37.6%** em 24h, a **44k coins** (faixa do dia: 29k–110k). Está -28% abaixo da média de 7 dias (descontada).
+- **Franck Honorat (85)** subiu **+47.1%** em 24h, a **26k coins** (faixa do dia: 15.000–30k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Karim Adeyemi (86)** subiu **+29.7%** em 24h, a **188k coins** (faixa do dia: 130k–200k). Está em linha com a média de 7 dias (-3%).
+- **Patrik Schick (88)** subiu **+40.5%** em 24h, a **59k coins** (faixa do dia: 40k–64k). Está +23% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Johan Bakayoko | 88 | Bundesliga | 25k coins | -43.2% | -30.8% |
-| Maximilian Beier | 85 | Bundesliga | 21k coins | -40% | +9.8% |
-| Jonathan Tah | 88 | Bundesliga | 35k coins | -38.6% | -21.8% |
-| Malik Tillman | 88 | Bundesliga | 107k coins | -35.9% | -50% |
-| Manolis Saliakas | 84 | Bundesliga | 32k coins | -31.8% | -23.5% |
-| Aleix García | 89 | Bundesliga | 22k coins | -31.2% | +3.1% |
+| Johan Bakayoko | 88 | Bundesliga | 25k coins | -46.1% | -36.1% |
+| Jonathan Tah | 88 | Bundesliga | 35k coins | -39.5% | -15.9% |
+| Malik Tillman | 88 | Bundesliga | 107k coins | -35.9% | -47.8% |
+| Roy Makaay | 89 | Bundesliga | 30k coins | -35.1% | -24.5% |
+| Rani Khedira | 84 | Bundesliga | 35k coins | -34.7% | -21.2% |
+| Haris Tabaković | 85 | Bundesliga | 74k coins | -31.8% | -46.4% |
+| Rudi Völler | 89 | Bundesliga | 25k coins | -30.8% | -8.2% |
+| Mario Götze | 88 | Bundesliga | 25k coins | -28.6% | -33.8% |
+| Julian Ryerson | 86 | Bundesliga | 41k coins | -20.5% | -7% |
 | Harry Kane | 91 | Bundesliga | 303k coins | -20.3% | +4.5% |
-| Aleksandar Pavlović | 89 | Bundesliga | 24k coins | -20% | -45.5% |
-| Haris Tabaković | 85 | Bundesliga | 75k coins | -16.7% | -46.4% |
-| Julian Ryerson | 86 | Bundesliga | 40k coins | -16% | +1.2% |
 
 
 ### Análise das baixas
 
-- **Johan Bakayoko (88)** caiu **-43.2%** em 24h, a **25k coins** (faixa do dia: 17.000–40k). Está -26% abaixo da média de 7 dias (descontada).
+- **Johan Bakayoko (88)** caiu **-46.1%** em 24h, a **25k coins** (faixa do dia: 17.000–40k). Está -26% abaixo da média de 7 dias (descontada).
 
-- **Maximilian Beier (85)** caiu **-40%** em 24h, a **21k coins** (faixa do dia: 14.750–40k). Está -20% abaixo da média de 7 dias (descontada).
+- **Jonathan Tah (88)** caiu **-39.5%** em 24h, a **35k coins** (faixa do dia: 31k–56k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Jonathan Tah (88)** caiu **-38.6%** em 24h, a **35k coins** (faixa do dia: 31k–58k). Está -14% abaixo da média de 7 dias (descontada).
+- **Malik Tillman (88)** caiu **-35.9%** em 24h, a **107k coins** (faixa do dia: 107k–167k). Está -36% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jean-Mattéo Bahoya já avançou 38.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Christian Eriksen já avançou 58.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Johan Bakayoko recuou -43.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Johan Bakayoko recuou -46.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Jean-Mattéo Bahoya (89, Bundesliga), com +38.4% em 24h, a 62k coins no PC.
+Christian Eriksen (87, Bundesliga), com +58.7% em 24h, a 96k coins no PC.
 
 **E a maior queda do dia?**
-Johan Bakayoko (88), -43.2% em 24h, a 25k coins.
+Johan Bakayoko (88), -46.1% em 24h, a 25k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 43 cartas em alta contra 44 em queda (média 1.52%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 40 cartas em alta contra 50 em queda (média -0.71%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
