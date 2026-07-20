@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T16:32:16.000Z
+pubDatetime: 2026-07-20T19:32:16.000Z
 title: "Mercado EA FC em 20/07: Bundesliga — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Deniz Undav (84, Bundesliga), com +38.3% em 24h, a 48k coins no PC."
+    a: "Luis Díaz (86, Bundesliga), com +57.1% em 24h, a 55k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jean-Mattéo Bahoya (89), -42.4% em 24h, a 32k coins."
+    a: "Felix Nmecha (86), -46.3% em 24h, a 231k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 48 cartas em alta contra 48 em queda (média -0.19%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 37 cartas em alta contra 48 em queda (média -0.88%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**20/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **48 subiram**, **48 caíram** (80+ e 5k+ coins), média de **-0.19%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**20/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **37 subiram**, **48 caíram** (80+ e 5k+ coins), média de **-0.88%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Deniz Undav (84) **+38.3%** · 🔴 **Maior baixa:** Jean-Mattéo Bahoya (89) **-42.4%**
+> 🟢 **Maior alta:** Luis Díaz (86) **+57.1%** · 🔴 **Maior baixa:** Felix Nmecha (86) **-46.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Bundesliga — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**20/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 80.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 123 cartas.
+- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.5% entre as cartas que se moveram; o universo observado reúne 109 cartas.
 - **Concentração:** Bundesliga aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Deniz Undav | 84 | Bundesliga | 48k coins | +38.3% | +24.2% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 27k coins | +38.3% | +6.7% |
-| Mario Götze | 88 | Bundesliga | 32k coins | +34% | -10.1% |
-| Johan Bakayoko | 88 | Bundesliga | 26k coins | +29.8% | -21.6% |
-| Sven Ulreich | 87 | Bundesliga | 20k coins | +28.6% | -42.1% |
-| Aleix García | 89 | Bundesliga | 23k coins | +27.8% | +50.8% |
-| Keven Schlotterbeck | 89 | Bundesliga | 21k coins | +26% | +15% |
-| Julian Brandt | 87 | Bundesliga | 30k coins | +25.8% | +10.9% |
-| Harry Kane | 91 | Bundesliga | 380k coins | +25.4% | +31% |
-| Can Uzun | 89 | Bundesliga | 105k coins | +23.5% | -4.5% |
+| Luis Díaz | 86 | Bundesliga | 55k coins | +57.1% | -11.3% |
+| Deniz Undav | 84 | Bundesliga | 48k coins | +36.2% | +23.9% |
+| Luis Díaz | 91 | Bundesliga | 369k coins | +25.7% | +23% |
+| Can Uzun | 89 | Bundesliga | 105k coins | +23.5% | -3.7% |
+| Mark Flekken | 84 | Bundesliga | 47k coins | +21.8% | +13.1% |
+| Antonio Nusa | 81 | Bundesliga | 48k coins | +18.8% | 0% |
+| Haris Tabaković | 85 | Bundesliga | 86k coins | +18.5% | -38.2% |
+| David Raum | 84 | Bundesliga | 54k coins | +17.8% | +13% |
+| Rani Khedira | 84 | Bundesliga | 39k coins | +17.3% | -32.8% |
+| Josip Stanišić | 86 | Bundesliga | 47k coins | +16.9% | +11.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**20/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Deniz Undav (84)** subiu **+38.3%** em 24h, a **48k coins** (faixa do dia: 28k–50k). Está +12% acima da média de 7 dias (aquecida).
+- **Luis Díaz (86)** subiu **+57.1%** em 24h, a **55k coins** (faixa do dia: 35k–65k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Dan-Axel Zagadou (85)** subiu **+38.3%** em 24h, a **27k coins** (faixa do dia: 15.750–35k). Está em linha com a média de 7 dias (-2%).
+- **Deniz Undav (84)** subiu **+36.2%** em 24h, a **48k coins** (faixa do dia: 28k–50k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Mario Götze (88)** subiu **+34%** em 24h, a **32k coins** (faixa do dia: 25k–46k). Está em linha com a média de 7 dias (-5%).
+- **Luis Díaz (91)** subiu **+25.7%** em 24h, a **369k coins** (faixa do dia: 288k–410k). Está em linha com a média de 7 dias (+7%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 32k coins | -42.4% | -68.4% |
-| Joshua Kimmich | 89 | Bundesliga | 102k coins | -31.3% | -39.4% |
-| Lukas Klostermann | 88 | Bundesliga | 121k coins | -28% | +22.2% |
-| Luis Díaz | 87 | Bundesliga | 159k coins | -27.7% | -38.8% |
-| Christian Eriksen | 87 | Bundesliga | 70k coins | -26% | -10.7% |
-| Manolis Saliakas | 84 | Bundesliga | 41k coins | -23.1% | +5.7% |
-| Kim Min Jae | 86 | Bundesliga | 62k coins | -21.6% | -30.4% |
-| Jamie Leweling | 86 | Bundesliga | 36k coins | -21.3% | -26% |
-| Timo Werner | 87 | Bundesliga | 50k coins | -21% | -11.2% |
-| Can Uzun | 80 | Bundesliga | 37k coins | -19.2% | -22.6% |
+| Felix Nmecha | 86 | Bundesliga | 231k coins | -46.3% | -48.7% |
+| Wouter Burger | 87 | Bundesliga | 127k coins | -36.3% | -8.3% |
+| Manolis Saliakas | 84 | Bundesliga | 34k coins | -35.2% | -8.5% |
+| Nadiem Amiri | 88 | Bundesliga | 25k coins | -32.9% | -10.7% |
+| Rudi Völler | 89 | Bundesliga | 23k coins | -27.3% | +33.3% |
+| Julian Brandt | 87 | Bundesliga | 29k coins | -27% | -36.9% |
+| Christian Eriksen | 87 | Bundesliga | 68k coins | -25.5% | -13.8% |
+| Luis Díaz | 87 | Bundesliga | 150k coins | -25% | -42.3% |
+| Grimaldo | 86 | Bundesliga | 45k coins | -15.6% | +15.5% |
+| Joshua Kimmich | 90 | Bundesliga | 68k coins | -11.9% | -28.2% |
 
 
 ### Análise das baixas
 
-- **Jean-Mattéo Bahoya (89)** caiu **-42.4%** em 24h, a **32k coins** (faixa do dia: 30k–56k). Está -47% abaixo da média de 7 dias (descontada).
+- **Felix Nmecha (86)** caiu **-46.3%** em 24h, a **231k coins** (faixa do dia: 226k–550k). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Joshua Kimmich (89)** caiu **-31.3%** em 24h, a **102k coins** (faixa do dia: 102k–150k). Está -16% abaixo da média de 7 dias (descontada).
+- **Wouter Burger (87)** caiu **-36.3%** em 24h, a **127k coins** (faixa do dia: 99k–190k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Lukas Klostermann (88)** caiu **-28%** em 24h, a **121k coins** (faixa do dia: 121k–160k). Está +16% acima da média de 7 dias (aquecida).
+- **Manolis Saliakas (84)** caiu **-35.2%** em 24h, a **34k coins** (faixa do dia: 34k–50k). Está -21% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Deniz Undav já avançou 38.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Luis Díaz já avançou 57.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jean-Mattéo Bahoya recuou -42.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Felix Nmecha recuou -46.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Deniz Undav (84, Bundesliga), com +38.3% em 24h, a 48k coins no PC.
+Luis Díaz (86, Bundesliga), com +57.1% em 24h, a 55k coins no PC.
 
 **E a maior queda do dia?**
-Jean-Mattéo Bahoya (89), -42.4% em 24h, a 32k coins.
+Felix Nmecha (86), -46.3% em 24h, a 231k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 48 cartas em alta contra 48 em queda (média -0.19%).
+Hoje o mercado está lateral — sem direção clara, com 37 cartas em alta contra 48 em queda (média -0.88%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
