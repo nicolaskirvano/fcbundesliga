@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T19:32:16.000Z
+pubDatetime: 2026-07-20T22:32:16.000Z
 title: "Mercado EA FC em 20/07: Bundesliga — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
     a: "Luis Díaz (86, Bundesliga), com +57.1% em 24h, a 55k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Felix Nmecha (86), -46.3% em 24h, a 231k coins."
+    a: "Wouter Burger (87), -42.6% em 24h, a 106k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 37 cartas em alta contra 48 em queda (média -0.88%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 39 cartas em alta contra 48 em queda (média 3.35%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**20/07/2026**, PC) o Ultimate Team está **lateral** — sem direção clara — **37 subiram**, **48 caíram** (80+ e 5k+ coins), média de **-0.88%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**20/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **39 subiram**, **48 caíram** (80+ e 5k+ coins), média de **3.35%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Luis Díaz (86) **+57.1%** · 🔴 **Maior baixa:** Felix Nmecha (86) **-46.3%**
+> 🟢 **Maior alta:** Luis Díaz (86) **+57.1%** · 🔴 **Maior baixa:** Wouter Burger (87) **-42.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Bundesliga — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,8 +35,8 @@ Hoje (**20/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.5% entre as cartas que se moveram; o universo observado reúne 109 cartas.
+- **Amplitude do dia:** 99.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.8% entre as cartas que se moveram; o universo observado reúne 111 cartas.
 - **Concentração:** Bundesliga aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
@@ -44,15 +44,15 @@ Hoje (**20/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Luis Díaz | 86 | Bundesliga | 55k coins | +57.1% | -11.3% |
-| Deniz Undav | 84 | Bundesliga | 48k coins | +36.2% | +23.9% |
-| Luis Díaz | 91 | Bundesliga | 369k coins | +25.7% | +23% |
-| Can Uzun | 89 | Bundesliga | 105k coins | +23.5% | -3.7% |
-| Mark Flekken | 84 | Bundesliga | 47k coins | +21.8% | +13.1% |
-| Antonio Nusa | 81 | Bundesliga | 48k coins | +18.8% | 0% |
-| Haris Tabaković | 85 | Bundesliga | 86k coins | +18.5% | -38.2% |
-| David Raum | 84 | Bundesliga | 54k coins | +17.8% | +13% |
-| Rani Khedira | 84 | Bundesliga | 39k coins | +17.3% | -32.8% |
-| Josip Stanišić | 86 | Bundesliga | 47k coins | +16.9% | +11.3% |
+| Bixente Lizarazu | 88 | Bundesliga | 25k coins | +56.1% | +49.3% |
+| Can Uzun | 89 | Bundesliga | 100k coins | +51.8% | +21.7% |
+| Christian Günter | 84 | Bundesliga | 27k coins | +40.3% | +44% |
+| Harry Kane | 91 | Bundesliga | 478k coins | +35.2% | +138.8% |
+| Deniz Undav | 84 | Bundesliga | 47k coins | +34.8% | +23.4% |
+| Aleksandar Pavlović | 89 | Bundesliga | 41k coins | +33.6% | -10.7% |
+| Deniz Undav | 91 | Bundesliga | 170k coins | +30.8% | +70.9% |
+| Christoph Baumgartner | 86 | Bundesliga | 48k coins | +29.1% | +13% |
+| Nico Schlotterbeck | 87 | Bundesliga | 72k coins | +25% | +26.1% |
 
 
 ### Análise das altas
@@ -63,41 +63,41 @@ Hoje (**20/07/2026**, PC) o Ultimate Team está **lateral** — sem direção cl
 
 - **Luis Díaz (86)** subiu **+57.1%** em 24h, a **55k coins** (faixa do dia: 35k–65k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Deniz Undav (84)** subiu **+36.2%** em 24h, a **48k coins** (faixa do dia: 28k–50k). Está +11% acima da média de 7 dias (aquecida).
+- **Bixente Lizarazu (88)** subiu **+56.1%** em 24h, a **25k coins** (faixa do dia: 11.000–30k). Está +44% acima da média de 7 dias (aquecida).
 
-- **Luis Díaz (91)** subiu **+25.7%** em 24h, a **369k coins** (faixa do dia: 288k–410k). Está em linha com a média de 7 dias (+7%).
+- **Can Uzun (89)** subiu **+51.8%** em 24h, a **100k coins** (faixa do dia: 80k–130k). Está em linha com a média de 7 dias (-5%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Felix Nmecha | 86 | Bundesliga | 231k coins | -46.3% | -48.7% |
-| Wouter Burger | 87 | Bundesliga | 127k coins | -36.3% | -8.3% |
-| Manolis Saliakas | 84 | Bundesliga | 34k coins | -35.2% | -8.5% |
-| Nadiem Amiri | 88 | Bundesliga | 25k coins | -32.9% | -10.7% |
-| Rudi Völler | 89 | Bundesliga | 23k coins | -27.3% | +33.3% |
-| Julian Brandt | 87 | Bundesliga | 29k coins | -27% | -36.9% |
-| Christian Eriksen | 87 | Bundesliga | 68k coins | -25.5% | -13.8% |
-| Luis Díaz | 87 | Bundesliga | 150k coins | -25% | -42.3% |
-| Grimaldo | 86 | Bundesliga | 45k coins | -15.6% | +15.5% |
-| Joshua Kimmich | 90 | Bundesliga | 68k coins | -11.9% | -28.2% |
+| Wouter Burger | 87 | Bundesliga | 106k coins | -42.6% | -17.4% |
+| Felix Nmecha | 86 | Bundesliga | 231k coins | -40.3% | -57.9% |
+| Nadiem Amiri | 88 | Bundesliga | 24k coins | -37% | -4% |
+| Manuel Neuer | 86 | Bundesliga | 47k coins | -24.2% | -17.9% |
+| Franck Honorat | 85 | Bundesliga | 22k coins | -24.2% | +1.1% |
+| Michael Gregoritsch | 84 | Bundesliga | 38k coins | -20.5% | -19.7% |
+| Joshua Kimmich | 90 | Bundesliga | 65k coins | -18.1% | -31.1% |
+| Silas | 84 | Bundesliga | 60k coins | -17.3% | -12.7% |
+| Joshua Kimmich | 89 | Bundesliga | 108k coins | -16.9% | -42.9% |
+| Jonathan Tah | 88 | Bundesliga | 35k coins | -16.7% | -14.1% |
 
 
 ### Análise das baixas
 
-- **Felix Nmecha (86)** caiu **-46.3%** em 24h, a **231k coins** (faixa do dia: 226k–550k). Está -46% abaixo da média de 7 dias (descontada).
+- **Wouter Burger (87)** caiu **-42.6%** em 24h, a **106k coins** (faixa do dia: 99k–190k). Está -32% abaixo da média de 7 dias (descontada).
 
-- **Wouter Burger (87)** caiu **-36.3%** em 24h, a **127k coins** (faixa do dia: 99k–190k). Está -18% abaixo da média de 7 dias (descontada).
+- **Felix Nmecha (86)** caiu **-40.3%** em 24h, a **231k coins** (faixa do dia: 226k–302k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Manolis Saliakas (84)** caiu **-35.2%** em 24h, a **34k coins** (faixa do dia: 34k–50k). Está -21% abaixo da média de 7 dias (descontada).
+- **Nadiem Amiri (88)** caiu **-37%** em 24h, a **24k coins** (faixa do dia: 23k–40k). Está em linha com a média de 7 dias (-8%).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Luis Díaz já avançou 57.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Felix Nmecha recuou -46.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Wouter Burger recuou -42.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Luis Díaz (86, Bundesliga), com +57.1% em 24h, a 55k coins no PC.
 
 **E a maior queda do dia?**
-Felix Nmecha (86), -46.3% em 24h, a 231k coins.
+Wouter Burger (87), -42.6% em 24h, a 106k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 37 cartas em alta contra 48 em queda (média -0.88%).
+Hoje o mercado está em alta — predominam as valorizações, com 39 cartas em alta contra 48 em queda (média 3.35%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
