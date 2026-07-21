@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:30:48.000Z
+pubDatetime: 2026-07-21T13:32:19.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 21/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 21/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/07/2026)?"
-    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 3.800 coins no PC."
+    a: "Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 4.200 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 3.800 coins.
+> 💰 **Melhor pechincha:** Joshua Kimmich (89) por apenas 4.200 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Bundesliga em 21/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-21-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 8.678 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 7.812 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 1.700 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,37 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 3.800 coins | +52% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 3.800 coins | +11.4% |
-| Harry Kane | 89 | ST | Bundesliga | 4.500 coins | +6.4% |
-| Rudi Völler | 89 | ST | Bundesliga | 13.000 coins | -11.7% |
-| Aleix García | 89 | CM | Bundesliga | 14.250 coins | -11.8% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4.200 coins | +17.6% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 4.200 coins | +17.1% |
+| Harry Kane | 89 | ST | Bundesliga | 5.400 coins | +17.4% |
+| Rudi Völler | 89 | ST | Bundesliga | 12.250 coins | -3.8% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 1.700 coins | +13.3% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 10.750 coins | -14% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11.000 coins | 0% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 11.250 coins | -14% |
-| Kevin Stöger | 86 | CM | Bundesliga | 14.500 coins | -6.1% |
-| Dayot Upamecano | 85 | CB | Bundesliga | 2.000 coins | +53.3% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 13.000 coins | +24.4% |
 
 
 ## 📈 Destaques
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.200 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4.200 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **5.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Aleix García (89, CM)** da Bundesliga, a apenas **14.250 coins**
+- **Jamal Musiala (88, CAM)** da Bundesliga, a apenas **1.700 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Dayot Upamecano (85, CB) por 2.000 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 4.200 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 3.800 coins é a referência de rating deste recorte.
-
-- **Ataque:** Harry Kane (89, ST) por 4.500 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 5.400 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -89,7 +86,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/07/2026)?**  
-Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 3.800 coins no PC.
+Joshua Kimmich (89, Bundesliga) aparece como melhor custo-benefício, a 4.200 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
