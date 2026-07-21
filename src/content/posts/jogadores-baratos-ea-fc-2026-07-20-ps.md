@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:32:10.000Z
+pubDatetime: 2026-07-21T01:32:10.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 20/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.257 coins.
+- **Preço médio das 15 opções:** 11.567 coins.
 - **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 2.700 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.700 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,20 +40,20 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Florian Wirtz | 89 | CAM | Bundesliga | 2.700 coins | +45% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 2.900 coins | +45% |
-| Harry Kane | 89 | ST | Bundesliga | 4.500 coins | +7.3% |
-| Rudi Völler | 89 | ST | Bundesliga | 13.500 coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 14.000 coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.750 coins | -7.3% |
-| Jonathan Tah | 88 | CB | Bundesliga | 13.500 coins | -4.5% |
-| Roy Makaay | 87 | ST | Bundesliga | 13.750 coins | +1.9% |
-| Grimaldo | 87 | LM | Bundesliga | 13.750 coins | +10% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 12.750 coins | -3.7% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 13.000 coins | -5.3% |
-| Nathan Tella | 86 | CAM | Bundesliga | 13.750 coins | -1.9% |
-| Uli Hoeneß | 86 | RM | Bundesliga | 14.000 coins | -1.8% |
-| Luka Vušković | 86 | CB | Bundesliga | 14.000 coins | +3.7% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 2.700 coins | +50% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 3.000 coins | +50% |
+| Harry Kane | 89 | ST | Bundesliga | 4.300 coins | 0% |
+| Rudi Völler | 89 | ST | Bundesliga | 14.250 coins | +13.2% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14.750 coins | +10.5% |
+| Mario Gomez | 88 | ST | Bundesliga | 14.000 coins | +12% |
+| Roy Makaay | 87 | ST | Bundesliga | 13.750 coins | +14.6% |
+| Grimaldo | 87 | LM | Bundesliga | 14.250 coins | +17.5% |
+| Julian Brandt | 87 | CAM | Bundesliga | 14.750 coins | -11.6% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 12.500 coins | -5.7% |
+| Uli Hoeneß | 86 | RM | Bundesliga | 13.250 coins | +1.9% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 13.500 coins | +10.2% |
+| Nathan Tella | 86 | CAM | Bundesliga | 13.750 coins | +7.7% |
+| Luka Vušković | 86 | CB | Bundesliga | 14.750 coins | +10.3% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
@@ -61,22 +61,22 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **2.900 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rudi Völler (89, ST)** da Bundesliga, a apenas **13.500 coins**
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14.250 coins**
 
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **14.000 coins**
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Jürgen Kohler (89, CB) por 14.000 coins é a referência de rating deste recorte.
+- **Defesa:** Keven Schlotterbeck (89, CB) por 14.750 coins é a referência de rating deste recorte.
 
 - **Meio:** Florian Wirtz (89, CAM) por 2.700 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 4.500 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 4.300 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
