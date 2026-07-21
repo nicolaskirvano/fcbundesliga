@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:32:16.000Z
+pubDatetime: 2026-07-21T22:32:16.000Z
 title: "Mercado EA FC em 21/07: Bundesliga — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Nicolas Seiwald (85, Bundesliga), com +59% em 24h, a 33k coins no PC."
+    a: "Manolis Saliakas (84, Bundesliga), com +59.4% em 24h, a 50k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nico Schlotterbeck (87), -46.2% em 24h, a 36k coins."
+    a: "Christian Eriksen (87), -46.2% em 24h, a 36k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 44 cartas em alta contra 54 em queda (média 1.44%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 50 cartas em alta contra 50 em queda (média 2.74%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **44 subiram** e **54 caíram**, com variação média de **1.44%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **50 subiram** e **50 caíram**, com variação média de **2.74%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Nicolas Seiwald (85) **+59%** · 🔴 **Maior baixa:** Nico Schlotterbeck (87) **-46.2%**
+> 🟢 **Maior alta:** Manolis Saliakas (84) **+59.4%** · 🔴 **Maior baixa:** Christian Eriksen (87) **-46.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Bundesliga — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lad
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 105.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.9% entre as cartas que se moveram; o universo observado reúne 119 cartas.
+- **Amplitude do dia:** 105.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 119 cartas.
 - **Concentração:** Bundesliga aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nicolas Seiwald | 85 | Bundesliga | 33k coins | +59% | +5.6% |
-| Manolis Saliakas | 84 | Bundesliga | 55k coins | +57.1% | +38.4% |
-| Johan Bakayoko | 88 | Bundesliga | 25k coins | +50.5% | +0.7% |
-| Ragnar Ache | 84 | Bundesliga | 58k coins | +48.1% | +51.9% |
-| Julian Brandt | 87 | Bundesliga | 24k coins | +44.9% | +16.3% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 20k coins | +34.8% | -14.4% |
-| Christoph Baumgartner | 86 | Bundesliga | 48k coins | +34.7% | +3.7% |
-| Roy Makaay | 87 | Bundesliga | 22k coins | +33.3% | +48.4% |
-| Maximilian Mittelstädt | 88 | Bundesliga | 22k coins | +32.3% | -31.7% |
-| Lennart Karl | 91 | Bundesliga | 1.30M coins | +31.3% | +31.3% |
+| Manolis Saliakas | 84 | Bundesliga | 50k coins | +59.4% | +38.4% |
+| Uli Hoeneß | 88 | Bundesliga | 26k coins | +58.8% | +36.7% |
+| Nicolas Seiwald | 85 | Bundesliga | 31k coins | +54.2% | -6.6% |
+| Kim Min Jae | 86 | Bundesliga | 65k coins | +52.4% | +8.7% |
+| Ritsu Doan | 86 | Bundesliga | 75k coins | +50% | -16.7% |
+| Roy Makaay | 87 | Bundesliga | 23k coins | +47.7% | +50% |
+| Ragnar Ache | 84 | Bundesliga | 58k coins | +47.4% | +55.4% |
+| Christian Günter | 84 | Bundesliga | 28k coins | +44.9% | +50.7% |
+| Angelo Stiller | 85 | Bundesliga | 21k coins | +40% | -4.5% |
+| Nadiem Amiri | 88 | Bundesliga | 30k coins | +34% | +34% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lad
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Nicolas Seiwald (85)** subiu **+59%** em 24h, a **33k coins** (faixa do dia: 21k–37k). Está +27% acima da média de 7 dias (aquecida).
+- **Manolis Saliakas (84)** subiu **+59.4%** em 24h, a **50k coins** (faixa do dia: 40k–55k). Está +12% acima da média de 7 dias (aquecida).
 
-- **Manolis Saliakas (84)** subiu **+57.1%** em 24h, a **55k coins** (faixa do dia: 34k–55k). Está +23% acima da média de 7 dias (aquecida).
+- **Uli Hoeneß (88)** subiu **+58.8%** em 24h, a **26k coins** (faixa do dia: 15.000–29k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Johan Bakayoko (88)** subiu **+50.5%** em 24h, a **25k coins** (faixa do dia: 15.000–43k). Está -24% abaixo da média de 7 dias (descontada).
+- **Nicolas Seiwald (85)** subiu **+54.2%** em 24h, a **31k coins** (faixa do dia: 21k–36k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nico Schlotterbeck | 87 | Bundesliga | 36k coins | -46.2% | -29% |
-| Franck Honorat | 85 | Bundesliga | 23k coins | -37.9% | -36.5% |
-| Silas | 84 | Bundesliga | 60k coins | -37.1% | -40.1% |
-| Ritsu Doan | 86 | Bundesliga | 75k coins | -37% | -20.2% |
-| Jürgen Kohler | 90 | Bundesliga | 31k coins | -32.4% | +1.6% |
-| Can Uzun | 89 | Bundesliga | 72k coins | -31.9% | -32.5% |
-| Mario Götze | 88 | Bundesliga | 24k coins | -26.6% | -26.1% |
-| Michael Olise | 87 | Bundesliga | 425k coins | -22% | -22.7% |
-| Kaishū Sano | 84 | Bundesliga | 30k coins | -17.2% | -28.6% |
-| Timo Werner | 87 | Bundesliga | 50k coins | -16.1% | -24.4% |
+| Christian Eriksen | 87 | Bundesliga | 36k coins | -46.2% | -62.4% |
+| Jürgen Kohler | 90 | Bundesliga | 31k coins | -32.4% | +5.9% |
+| Timo Werner | 87 | Bundesliga | 49k coins | -25% | -22.6% |
+| Manuel Neuer | 86 | Bundesliga | 42k coins | -24.4% | -56.2% |
+| Julian Brandt | 87 | Bundesliga | 25k coins | -23.1% | +23.5% |
+| Daniel Svensson | 84 | Bundesliga | 24k coins | -22.6% | -11.9% |
+| Jonathan Tah | 88 | Bundesliga | 26k coins | -22.3% | -33.7% |
+| David Raum | 84 | Bundesliga | 49k coins | -20.2% | +10.8% |
+| Michael Olise | 87 | Bundesliga | 397k coins | -19% | -27.8% |
+| Jean-Mattéo Bahoya | 89 | Bundesliga | 56k coins | -18.6% | -5% |
 
 
 ### Análise das baixas
 
-- **Nico Schlotterbeck (87)** caiu **-46.2%** em 24h, a **36k coins** (faixa do dia: 36k–75k). Está -38% abaixo da média de 7 dias (descontada).
+- **Christian Eriksen (87)** caiu **-46.2%** em 24h, a **36k coins** (faixa do dia: 36k–66k). Está -54% abaixo da média de 7 dias (descontada).
 
-- **Franck Honorat (85)** caiu **-37.9%** em 24h, a **23k coins** (faixa do dia: 13.500–24k). Está em linha com a média de 7 dias (-3%).
+- **Jürgen Kohler (90)** caiu **-32.4%** em 24h, a **31k coins** (faixa do dia: 31k–46k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Silas (84)** caiu **-37.1%** em 24h, a **60k coins** (faixa do dia: 35k–60k). Está em linha com a média de 7 dias (+3%).
+- **Timo Werner (87)** caiu **-25%** em 24h, a **49k coins** (faixa do dia: 49k–65k). Está -12% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Nicolas Seiwald já avançou 59% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Manolis Saliakas já avançou 59.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Nico Schlotterbeck recuou -46.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Christian Eriksen recuou -46.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Nicolas Seiwald (85, Bundesliga), com +59% em 24h, a 33k coins no PC.
+Manolis Saliakas (84, Bundesliga), com +59.4% em 24h, a 50k coins no PC.
 
 **E a maior queda do dia?**
-Nico Schlotterbeck (87), -46.2% em 24h, a 36k coins.
+Christian Eriksen (87), -46.2% em 24h, a 36k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 44 cartas em alta contra 54 em queda (média 1.44%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 50 cartas em alta contra 50 em queda (média 2.74%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

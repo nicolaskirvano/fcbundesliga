@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malik Tillman</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Timo Werner</text>
-<rect x="285" y="153" width="466" height="28" rx="7" fill="#22c55e"/>
-<text x="761" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Adeyemi</text>
-<rect x="285" y="211" width="367" height="28" rx="7" fill="#22c55e"/>
-<text x="662" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Willi Orban</text>
-<rect x="285" y="269" width="353" height="28" rx="7" fill="#22c55e"/>
-<text x="648" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malik Tillman</text>
-<rect x="285" y="327" width="317" height="28" rx="7" fill="#22c55e"/>
-<text x="612" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wouter Burger</text>
+<rect x="285" y="153" width="314" height="28" rx="7" fill="#22c55e"/>
+<text x="609" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Willi Orban</text>
+<rect x="285" y="211" width="290" height="28" rx="7" fill="#22c55e"/>
+<text x="585" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yan Diomande</text>
+<rect x="285" y="269" width="197" height="28" rx="7" fill="#22c55e"/>
+<text x="492" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lukas Klostermann</text>
+<rect x="285" y="327" width="173" height="28" rx="7" fill="#22c55e"/>
+<text x="468" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.0%</text>
 <text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ragnar Ache</text>
-<rect x="285" y="385" width="288" height="28" rx="7" fill="#22c55e"/>
-<text x="583" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.3%</text>
+<rect x="285" y="385" width="157" height="28" rx="7" fill="#22c55e"/>
+<text x="452" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.6%</text>
 </svg>

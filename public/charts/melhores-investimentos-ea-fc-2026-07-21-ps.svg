@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Willi Orban</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.6%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Angelo Stiller</text>
-<rect x="285" y="153" width="288" height="28" rx="7" fill="#22c55e"/>
-<text x="583" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malik Tillman</text>
-<rect x="285" y="211" width="254" height="28" rx="7" fill="#22c55e"/>
-<text x="549" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua Kimmich</text>
-<rect x="285" y="269" width="173" height="28" rx="7" fill="#22c55e"/>
-<text x="468" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Uli Hoeneß</text>
-<rect x="285" y="327" width="172" height="28" rx="7" fill="#22c55e"/>
-<text x="467" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Günter</text>
-<rect x="285" y="385" width="143" height="28" rx="7" fill="#22c55e"/>
-<text x="438" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+71.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wouter Burger</text>
+<rect x="285" y="153" width="323" height="28" rx="7" fill="#22c55e"/>
+<text x="618" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Uli Hoeneß</text>
+<rect x="285" y="211" width="154" height="28" rx="7" fill="#22c55e"/>
+<text x="449" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.1%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Eriksen</text>
+<rect x="285" y="269" width="99" height="28" rx="7" fill="#22c55e"/>
+<text x="394" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maximilian Mittelstädt</text>
+<rect x="285" y="327" width="96" height="28" rx="7" fill="#22c55e"/>
+<text x="391" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Adeyemi</text>
+<rect x="285" y="385" width="96" height="28" rx="7" fill="#22c55e"/>
+<text x="391" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.3%</text>
 </svg>
