@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patrik Schick</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Angelo Stiller</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Angelo Stiller</text>
-<rect x="285" y="153" width="479" height="28" rx="7" fill="#22c55e"/>
-<text x="774" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malik Tillman</text>
-<rect x="285" y="211" width="278" height="28" rx="7" fill="#22c55e"/>
-<text x="573" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Manolis Saliakas</text>
-<rect x="285" y="269" width="228" height="28" rx="7" fill="#22c55e"/>
-<text x="523" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mark Flekken</text>
-<rect x="285" y="327" width="89" height="28" rx="7" fill="#22c55e"/>
-<text x="384" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.9%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Grimaldo</text>
+<rect x="285" y="153" width="406" height="28" rx="7" fill="#22c55e"/>
+<text x="701" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Günter</text>
+<rect x="285" y="211" width="344" height="28" rx="7" fill="#22c55e"/>
+<text x="639" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roy Makaay</text>
+<rect x="285" y="269" width="329" height="28" rx="7" fill="#22c55e"/>
+<text x="624" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malik Tillman</text>
+<rect x="285" y="327" width="268" height="28" rx="7" fill="#22c55e"/>
+<text x="563" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.5%</text>
 <text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Grimaldo</text>
-<rect x="285" y="385" width="59" height="28" rx="7" fill="#22c55e"/>
-<text x="354" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.9%</text>
+<rect x="285" y="385" width="162" height="28" rx="7" fill="#22c55e"/>
+<text x="457" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.8%</text>
 </svg>
