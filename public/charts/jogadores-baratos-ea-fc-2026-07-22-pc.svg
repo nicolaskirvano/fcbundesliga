@@ -5,21 +5,21 @@
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Joshua Kimmich</text>
-<rect x="285" y="95" width="155" height="28" rx="7" fill="#38bdf8"/>
-<text x="450" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.200</text>
+<rect x="285" y="95" width="139" height="28" rx="7" fill="#38bdf8"/>
+<text x="434" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.200</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Wirtz</text>
-<rect x="285" y="153" width="162" height="28" rx="7" fill="#38bdf8"/>
-<text x="457" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.400</text>
+<rect x="285" y="153" width="159" height="28" rx="7" fill="#38bdf8"/>
+<text x="454" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">4.800</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Harry Kane</text>
-<rect x="285" y="211" width="185" height="28" rx="7" fill="#38bdf8"/>
-<text x="480" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">5.000</text>
+<rect x="285" y="211" width="192" height="28" rx="7" fill="#38bdf8"/>
+<text x="487" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">5.800</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roy Makaay</text>
-<rect x="285" y="269" width="443" height="28" rx="7" fill="#38bdf8"/>
-<text x="738" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mario Mandžukić</text>
+<rect x="285" y="269" width="364" height="28" rx="7" fill="#38bdf8"/>
+<text x="659" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.000</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Claudio Pizarro</text>
 <rect x="285" y="327" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Granit Xhaka</text>
-<rect x="285" y="385" width="81" height="28" rx="7" fill="#38bdf8"/>
-<text x="376" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">2.200</text>
+<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.500</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mario Mandžukić</text>
+<rect x="285" y="385" width="430" height="28" rx="7" fill="#38bdf8"/>
+<text x="725" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.000</text>
 </svg>

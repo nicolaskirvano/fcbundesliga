@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:32:19.000Z
+pubDatetime: 2026-07-22T13:32:19.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 22/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 6.800 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 2.200 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 8.883 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 4.200 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.200 coins | 0% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 4.400 coins | +15% |
-| Harry Kane | 89 | ST | Bundesliga | 5.000 coins | -2% |
-| Roy Makaay | 87 | ST | Bundesliga | 12.000 coins | +18.2% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4.200 coins | +4.9% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 4.800 coins | +4.8% |
+| Harry Kane | 89 | ST | Bundesliga | 5.800 coins | +3.7% |
+| Roy Makaay | 87 | ST | Bundesliga | 11.000 coins | 0% |
+| Claudio Pizarro | 87 | ST | Bundesliga | 14.500 coins | -3.1% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 13.000 coins | +18.2% |
-| Granit Xhaka | 85 | CDM | Bundesliga | 2.200 coins | +57.1% |
 
 
 ## 📈 Destaques
 
 - **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.200 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **4.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **5.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **5.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mario Mandžukić (86, ST)** da Bundesliga, a apenas **13.000 coins**
+- **Claudio Pizarro (87, ST)** da Bundesliga, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Meio:** Joshua Kimmich (89, CDM) por 4.200 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 5.000 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 5.800 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Silas</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patrik Schick</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Antonio Nusa</text>
-<rect x="285" y="153" width="470" height="28" rx="7" fill="#22c55e"/>
-<text x="765" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patrik Schick</text>
-<rect x="285" y="211" width="383" height="28" rx="7" fill="#22c55e"/>
-<text x="678" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Günter</text>
-<rect x="285" y="269" width="336" height="28" rx="7" fill="#22c55e"/>
-<text x="631" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malik Tillman</text>
-<rect x="285" y="327" width="334" height="28" rx="7" fill="#22c55e"/>
-<text x="629" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Edmond Tapsoba</text>
-<rect x="285" y="385" width="318" height="28" rx="7" fill="#22c55e"/>
-<text x="613" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alphonso Davies</text>
+<rect x="285" y="153" width="457" height="28" rx="7" fill="#22c55e"/>
+<text x="752" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.7%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Andrej Kramarić</text>
+<rect x="285" y="211" width="424" height="28" rx="7" fill="#22c55e"/>
+<text x="719" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.1%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Deniz Undav</text>
+<rect x="285" y="269" width="421" height="28" rx="7" fill="#22c55e"/>
+<text x="716" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Zé Roberto</text>
+<rect x="285" y="327" width="360" height="28" rx="7" fill="#22c55e"/>
+<text x="655" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vladimír Coufal</text>
+<rect x="285" y="385" width="349" height="28" rx="7" fill="#22c55e"/>
+<text x="644" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.3%</text>
 </svg>
