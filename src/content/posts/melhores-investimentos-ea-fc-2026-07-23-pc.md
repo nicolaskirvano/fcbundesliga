@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T13:32:18.000Z
+pubDatetime: 2026-07-23T16:32:18.000Z
 title: "Investimentos EA FC: Bundesliga em 23/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.8% em 24h** e **+36.5% em 7 dias**.
-- **2 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.6% em 24h** e **+29.4% em 7 dias**.
+- **4 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Bundesliga** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,29 +43,29 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Serhou Guirassy | 88 | Bundesliga | 60k coins | +11.1% | +76.5% | Esticada |
-| Angelo Stiller | 91 | Bundesliga | 60k coins | +31.1% | +50% | Esticada |
-| Mario Gomez | 88 | Bundesliga | 19.000 coins | +16.9% | +40.7% | Momentum moderado |
-| Uli Hoeneß | 88 | Bundesliga | 29k coins | +8.4% | +38.1% | Momentum moderado |
-| Grimaldo | 86 | Bundesliga | 52k coins | +5.9% | +37.2% | Momentum moderado |
-| Grimaldo | 92 | Bundesliga | 75k coins | +11.4% | +35.7% | Momentum moderado |
-| Farès Chaïbi | 84 | Bundesliga | 40k coins | +10.5% | +29.2% | Momentum moderado |
-| Yan Diomande | 84 | Bundesliga | 60k coins | +1.7% | +27% | Momentum moderado |
-| Julian Brandt | 87 | Bundesliga | 31k coins | +3.4% | +14.3% | Entrada a observar |
-| David Raum | 87 | Bundesliga | 15.500 coins | +15.9% | +8.1% | Momentum moderado |
+| Serhou Guirassy | 88 | Bundesliga | 60k coins | +14.3% | +76.5% | Esticada |
+| Grimaldo | 92 | Bundesliga | 78k coins | +13.6% | +50% | Momentum moderado |
+| Angelo Stiller | 91 | Bundesliga | 75k coins | +33.9% | +37.6% | Esticada |
+| Christian Günter | 88 | Bundesliga | 36k coins | +8.1% | +31.5% | Momentum moderado |
+| Farès Chaïbi | 84 | Bundesliga | 42k coins | +1.8% | +30.8% | Momentum moderado |
+| Uli Hoeneß | 86 | Bundesliga | 19.750 coins | +8.3% | +27.9% | Momentum moderado |
+| Mario Gomez | 88 | Bundesliga | 15.000 coins | +11.5% | +25.9% | Momentum moderado |
+| Grimaldo | 86 | Bundesliga | 49k coins | +1.6% | +25.6% | Momentum moderado |
+| Johan Bakayoko | 88 | Bundesliga | 43k coins | +29.5% | +17.9% | Esticada |
+| Aleix García | 89 | Bundesliga | 20k coins | +25% | +8.1% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Serhou Guirassy (88)** — 60k coins, **+76.5% em 7 dias** (+11.1% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Serhou Guirassy (88)** — 60k coins, **+76.5% em 7 dias** (+14.3% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (91)** — 60k coins, **+50% em 7 dias** (+31.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Grimaldo (92)** — 78k coins, **+50% em 7 dias** (+13.6% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mario Gomez (88)** — 19.000 coins, **+40.7% em 7 dias** (+16.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (91)** — 75k coins, **+37.6% em 7 dias** (+33.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Uli Hoeneß (88)** — 29k coins, **+38.1% em 7 dias** (+8.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Christian Günter (88)** — 36k coins, **+31.5% em 7 dias** (+8.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Grimaldo (86)** — 52k coins, **+37.2% em 7 dias** (+5.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Farès Chaïbi (84)** — 42k coins, **+30.8% em 7 dias** (+1.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +81,6 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Bundesliga em 23/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-23-pc/)
 - [Mercado EA FC em 23/07: Bundesliga — PC](/posts/mercado-ea-fc-2026-07-23-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
