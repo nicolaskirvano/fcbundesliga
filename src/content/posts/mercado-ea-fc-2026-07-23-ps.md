@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:28:39.000Z
+pubDatetime: 2026-07-23T10:32:07.000Z
 title: "Mercado EA FC em 23/07: Bundesliga — Console (PS)"
 draft: false
 featured: true
@@ -15,16 +15,16 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
     a: "Uli Hoeneß (88, Bundesliga), com +48.4% em 24h, a 22k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Luis Díaz (87), -32.5% em 24h, a 100k coins."
+    a: "Luis Díaz (87), -32.5% em 24h, a 99k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 35 cartas em alta contra 52 em queda (média 2.03%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 34 cartas em alta contra 52 em queda (média 1.88%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **23/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **35 cartas subiram** e **52 caíram** (80+ acima de 5k coins), variação média de **2.03%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **23/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **34 cartas subiram** e **52 caíram** (80+ acima de 5k coins), variação média de **1.88%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Uli Hoeneß (88) **+48.4%** · 🔴 **Maior baixa:** Luis Díaz (87) **-32.5%**
 
@@ -36,7 +36,7 @@ O mercado do **EA FC** abre **23/07/2026** no Console (PS) com mercado **em alta
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 80.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.2% entre as cartas que se moveram; o universo observado reúne 102 cartas.
+- **Participação das altas:** 39.5% entre as cartas que se moveram; o universo observado reúne 102 cartas.
 - **Concentração:** Bundesliga aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
@@ -46,8 +46,8 @@ O mercado do **EA FC** abre **23/07/2026** no Console (PS) com mercado **em alta
 | Uli Hoeneß | 88 | Bundesliga | 22k coins | +48.4% | +27.8% |
 | Serge Gnabry | 90 | Bundesliga | 364k coins | +44.4% | +7.1% |
 | Nicolas Seiwald | 85 | Bundesliga | 22k coins | +40.3% | -37.9% |
-| Timo Werner | 87 | Bundesliga | 56k coins | +33.3% | +46.6% |
-| Harry Kane | 90 | Bundesliga | 105k coins | +28% | -20.9% |
+| Timo Werner | 87 | Bundesliga | 56k coins | +28.8% | +41.6% |
+| Harry Kane | 90 | Bundesliga | 117k coins | +25.9% | -22.2% |
 | Nikola Vasilj | 84 | Bundesliga | 50k coins | +25% | +8.9% |
 | Serhou Guirassy | 88 | Bundesliga | 20k coins | +19.5% | +15.3% |
 | Vincenzo Grifo | 84 | Bundesliga | 47k coins | +11.8% | +13.2% |
@@ -72,23 +72,23 @@ O mercado do **EA FC** abre **23/07/2026** no Console (PS) com mercado **em alta
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Luis Díaz | 87 | Bundesliga | 100k coins | -32.5% | -48% |
-| Alphonso Davies | 89 | Bundesliga | 42k coins | -26.8% | -7.2% |
+| Luis Díaz | 87 | Bundesliga | 99k coins | -32.5% | -48% |
+| Alphonso Davies | 89 | Bundesliga | 50k coins | -26.8% | -7.2% |
 | Josip Stanišić | 86 | Bundesliga | 36k coins | -20.7% | -21.1% |
 | Willi Orban | 86 | Bundesliga | 27k coins | -20.1% | +39% |
-| Vladimír Coufal | 84 | Bundesliga | 33k coins | -17.5% | -13.2% |
+| Vladimír Coufal | 84 | Bundesliga | 48k coins | -17.5% | -13.2% |
 | Luis Díaz | 86 | Bundesliga | 164k coins | -16% | -23.3% |
 | Oliver Burke | 80 | Bundesliga | 42k coins | -15.8% | -11.6% |
-| Kim Min Jae | 86 | Bundesliga | 40k coins | -15% | +3.9% |
+| Kim Min Jae | 86 | Bundesliga | 35k coins | -15% | +3.9% |
 | Christoph Baumgartner | 86 | Bundesliga | 42k coins | -13.8% | -8.6% |
-| Farès Chaïbi | 84 | Bundesliga | 42k coins | -13.5% | -8.1% |
+| Karim Adeyemi | 86 | Bundesliga | 100k coins | -13.5% | -30.6% |
 
 
 ### Análise das baixas
 
-- **Luis Díaz (87)** caiu **-32.5%** em 24h, a **100k coins** (faixa do dia: 86k–144k). Está -33% abaixo da média de 7 dias (descontada).
+- **Luis Díaz (87)** caiu **-32.5%** em 24h, a **99k coins** (faixa do dia: 86k–144k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Alphonso Davies (89)** caiu **-26.8%** em 24h, a **42k coins** (faixa do dia: 32k–70k). Está -16% abaixo da média de 7 dias (descontada).
+- **Alphonso Davies (89)** caiu **-26.8%** em 24h, a **50k coins** (faixa do dia: 32k–70k). Está em linha com a média de 7 dias (+1%).
 
 - **Josip Stanišić (86)** caiu **-20.7%** em 24h, a **36k coins** (faixa do dia: 32k–52k). Está -20% abaixo da média de 7 dias (descontada).
 
@@ -122,10 +122,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 Uli Hoeneß (88, Bundesliga), com +48.4% em 24h, a 22k coins no Console (PS).
 
 **E a maior queda do dia?**
-Luis Díaz (87), -32.5% em 24h, a 100k coins.
+Luis Díaz (87), -32.5% em 24h, a 99k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 35 cartas em alta contra 52 em queda (média 2.03%).
+Hoje o mercado está em alta — predominam as valorizações, com 34 cartas em alta contra 52 em queda (média 1.88%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

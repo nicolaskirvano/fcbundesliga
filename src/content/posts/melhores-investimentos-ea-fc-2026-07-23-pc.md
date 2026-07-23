@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:28:50.000Z
+pubDatetime: 2026-07-23T10:32:18.000Z
 title: "Investimentos EA FC: Bundesliga em 23/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.1% em 24h** e **+31.1% em 7 dias**.
-- **3 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 11 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.8% em 24h** e **+31.0% em 7 dias**.
+- **2 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 10 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -47,12 +47,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Uli Hoeneß | 88 | Bundesliga | 30k coins | +10.1% | +53.8% | Momentum moderado |
 | Matthias Ginter | 88 | Bundesliga | 108k coins | +39.4% | +46.9% | Esticada |
 | Serhou Guirassy | 88 | Bundesliga | 60k coins | +9.1% | +41.2% | Momentum moderado |
-| Malik Tillman | 88 | Bundesliga | 100k coins | +1.8% | +32.3% | Momentum moderado |
 | Grimaldo | 92 | Bundesliga | 78k coins | +11.4% | +31.1% | Momentum moderado |
 | Farès Chaïbi | 84 | Bundesliga | 42k coins | +11.8% | +30.8% | Momentum moderado |
-| Nico Schlotterbeck | 87 | Bundesliga | 54k coins | +25% | +27.7% | Esticada |
 | Manolis Saliakas | 84 | Bundesliga | 50k coins | +1% | +27% | Momentum moderado |
 | Vincenzo Grifo | 84 | Bundesliga | 46k coins | +2.2% | +17.1% | Entrada a observar |
+| Aleix García | 89 | Bundesliga | 23k coins | +9.6% | +8.1% | Momentum moderado |
 | David Raum | 87 | Bundesliga | 20k coins | +8.1% | +8.1% | Momentum moderado |
 
 
@@ -62,11 +61,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Uli Hoeneß (88)** — 30k coins, **+53.8% em 7 dias** (+10.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matthias Ginter (88)** — 108k coins, **+46.9% em 7 dias** (+39.4% em 24h). Preço +70% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matthias Ginter (88)** — 108k coins, **+46.9% em 7 dias** (+39.4% em 24h). Preço +69% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Serhou Guirassy (88)** — 60k coins, **+41.2% em 7 dias** (+9.1% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Malik Tillman (88)** — 100k coins, **+32.3% em 7 dias** (+1.8% em 24h). Preço -44% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Grimaldo (92)** — 78k coins, **+31.1% em 7 dias** (+11.4% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
