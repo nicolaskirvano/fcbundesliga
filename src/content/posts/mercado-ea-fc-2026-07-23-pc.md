@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:32:17.000Z
+pubDatetime: 2026-07-24T01:32:16.000Z
 title: "Mercado EA FC em 23/07: Bundesliga — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Christian Eriksen (87, Bundesliga), com +59.7% em 24h, a 119k coins no PC."
+    a: "Roy Makaay (87, Bundesliga), com +52.6% em 24h, a 22k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Yan Diomande (84), -35% em 24h, a 39k coins."
+    a: "Deniz Undav (91), -42.4% em 24h, a 98k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 41 cartas em alta contra 26 em queda (média 11.49%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 42 cartas em alta contra 48 em queda (média 5.56%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **23/07/2026** no PC com mercado **em alta** — predominam as valorizações: **41 cartas subiram** e **26 caíram** (80+ acima de 5k coins), variação média de **11.49%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **23/07/2026** no PC com mercado **em alta** — predominam as valorizações: **42 cartas subiram** e **48 caíram** (80+ acima de 5k coins), variação média de **5.56%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Christian Eriksen (87) **+59.7%** · 🔴 **Maior baixa:** Yan Diomande (84) **-35%**
+> 🟢 **Maior alta:** Roy Makaay (87) **+52.6%** · 🔴 **Maior baixa:** Deniz Undav (91) **-42.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Bundesliga — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **23/07/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 94.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 61.2% entre as cartas que se moveram; o universo observado reúne 98 cartas.
+- **Amplitude do dia:** 95.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.7% entre as cartas que se moveram; o universo observado reúne 120 cartas.
 - **Concentração:** Bundesliga aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Christian Eriksen | 87 | Bundesliga | 119k coins | +59.7% | +84% |
-| Willi Orban | 86 | Bundesliga | 48k coins | +44.8% | +21.2% |
-| Julian Brandt | 87 | Bundesliga | 32k coins | +41.3% | +18.2% |
-| Tomáš Rosický | 89 | Bundesliga | 25k coins | +41.2% | -2% |
-| Uli Hoeneß | 86 | Bundesliga | 20k coins | +39.7% | +24.6% |
-| Jürgen Kohler | 89 | Bundesliga | 28k coins | +36.5% | +118.9% |
-| Grimaldo | 92 | Bundesliga | 70k coins | +31% | +101.3% |
-| Nico Schlotterbeck | 87 | Bundesliga | 72k coins | +27.6% | -1.3% |
-| Deniz Undav | 84 | Bundesliga | 50k coins | +26.2% | -1.6% |
-| Malik Tillman | 85 | Bundesliga | 25k coins | +23.8% | -29.3% |
+| Roy Makaay | 87 | Bundesliga | 22k coins | +52.6% | +55.4% |
+| Nico Schlotterbeck | 87 | Bundesliga | 68k coins | +45.8% | +1.4% |
+| Deniz Undav | 84 | Bundesliga | 50k coins | +42.9% | +7.5% |
+| Nikola Vasilj | 84 | Bundesliga | 48k coins | +40.7% | 0% |
+| Fábio Vieira | 87 | Bundesliga | 35k coins | +39% | +3% |
+| Kevin Stöger | 86 | Bundesliga | 34k coins | +37.9% | +1.4% |
+| Rudi Völler | 89 | Bundesliga | 24k coins | +36.1% | +44.1% |
+| Ritsu Doan | 86 | Bundesliga | 120k coins | +30.4% | 0% |
+| Alphonso Davies | 89 | Bundesliga | 90k coins | +25% | +1.1% |
+| Haris Tabaković | 85 | Bundesliga | 54k coins | +22.3% | -58.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **23/07/2026** no PC com mercado **em alta** — pre
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Christian Eriksen (87)** subiu **+59.7%** em 24h, a **119k coins** (faixa do dia: 66k–150k). Está +57% acima da média de 7 dias (aquecida).
+- **Roy Makaay (87)** subiu **+52.6%** em 24h, a **22k coins** (faixa do dia: 11.000–29k). Está +34% acima da média de 7 dias (aquecida).
 
-- **Willi Orban (86)** subiu **+44.8%** em 24h, a **48k coins** (faixa do dia: 34k–50k). Está +62% acima da média de 7 dias (aquecida).
+- **Nico Schlotterbeck (87)** subiu **+45.8%** em 24h, a **68k coins** (faixa do dia: 46k–82k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Julian Brandt (87)** subiu **+41.3%** em 24h, a **32k coins** (faixa do dia: 20k–32k). Está +22% acima da média de 7 dias (aquecida).
+- **Deniz Undav (84)** subiu **+42.9%** em 24h, a **50k coins** (faixa do dia: 30k–50k). Está +20% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Yan Diomande | 84 | Bundesliga | 39k coins | -35% | -12.4% |
-| Michael Olise | 88 | Bundesliga | 688k coins | -31.6% | -9.6% |
+| Deniz Undav | 91 | Bundesliga | 98k coins | -42.4% | -19.7% |
+| Yan Diomande | 84 | Bundesliga | 39k coins | -35% | -12.8% |
+| Silas | 84 | Bundesliga | 61k coins | -31.7% | -31.7% |
 | Rayan Philippe | 80 | Bundesliga | 32k coins | -31.6% | -31.6% |
-| Silas | 84 | Bundesliga | 41k coins | -26.8% | -40.1% |
-| Oliver Burke | 80 | Bundesliga | 36k coins | -24.2% | -12.2% |
-| Malik Tillman | 88 | Bundesliga | 175k coins | -20.8% | +4.8% |
-| Johan Bakayoko | 88 | Bundesliga | 26k coins | -20.7% | -23.4% |
-| Serge Gnabry | 90 | Bundesliga | 369k coins | -20.6% | -11.1% |
-| Patrik Schick | 88 | Bundesliga | 29k coins | -18.8% | -55% |
-| Vincenzo Grifo | 84 | Bundesliga | 43k coins | -16.3% | -16.3% |
+| Michael Olise | 88 | Bundesliga | 880k coins | -31.2% | -17.1% |
+| Johan Bakayoko | 88 | Bundesliga | 24k coins | -25% | -33.1% |
+| Oliver Burke | 80 | Bundesliga | 36k coins | -24.2% | -10% |
+| Jean-Mattéo Bahoya | 89 | Bundesliga | 58k coins | -22.7% | -18.3% |
+| Manuel Neuer | 86 | Bundesliga | 40k coins | -22.5% | -21.8% |
+| Włodzimierz Smolarek | 86 | Bundesliga | 27k coins | -22.1% | +28.2% |
 
 
 ### Análise das baixas
 
+- **Deniz Undav (91)** caiu **-42.4%** em 24h, a **98k coins** (faixa do dia: 76k–170k). Está -13% abaixo da média de 7 dias (descontada).
+
 - **Yan Diomande (84)** caiu **-35%** em 24h, a **39k coins** (faixa do dia: 39k–60k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Michael Olise (88)** caiu **-31.6%** em 24h, a **688k coins** (faixa do dia: 300k–1.10M). Está -19% abaixo da média de 7 dias (descontada).
-
-- **Rayan Philippe (80)** caiu **-31.6%** em 24h, a **32k coins** (faixa do dia: 32k–48k). Está -28% abaixo da média de 7 dias (descontada).
+- **Silas (84)** caiu **-31.7%** em 24h, a **61k coins** (faixa do dia: 35k–68k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Christian Eriksen já avançou 59.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Roy Makaay já avançou 52.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Yan Diomande recuou -35%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Deniz Undav recuou -42.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,6 +107,7 @@ O mercado do **EA FC** abre **23/07/2026** no PC com mercado **em alta** — pre
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Bundesliga em 23/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-23-pc/)
 - [Investimentos EA FC: Bundesliga em 23/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-23-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
@@ -118,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Christian Eriksen (87, Bundesliga), com +59.7% em 24h, a 119k coins no PC.
+Roy Makaay (87, Bundesliga), com +52.6% em 24h, a 22k coins no PC.
 
 **E a maior queda do dia?**
-Yan Diomande (84), -35% em 24h, a 39k coins.
+Deniz Undav (91), -42.4% em 24h, a 98k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 41 cartas em alta contra 26 em queda (média 11.49%).
+Hoje o mercado está em alta — predominam as valorizações, com 42 cartas em alta contra 48 em queda (média 5.56%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
