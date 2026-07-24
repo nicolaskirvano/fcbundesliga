@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:32:10.000Z
+pubDatetime: 2026-07-24T19:32:10.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 24/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (24/07/2026)?"
-    a: "Mario Gomez (88, Bundesliga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
+    a: "Tomáš Rosický (89, Bundesliga) aparece como melhor custo-benefício, a 11.250 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **24/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Mario Gomez (88) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Tomáš Rosický (89) por apenas 11.250 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Bundesliga em 24/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-24-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 11.133 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 1.700 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 12.679 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 10.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,37 +40,35 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Mario Gomez | 88 | ST | Bundesliga | 11.500 coins | +10.4% |
-| Roy Makaay | 87 | ST | Bundesliga | 13.000 coins | +3.8% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 14.500 coins | +11.5% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 11.500 coins | -2.1% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11.750 coins | +4.3% |
-| Nathan Tella | 86 | CAM | Bundesliga | 12.750 coins | +10.4% |
-| Włodzimierz Smolarek | 86 | ST | Bundesliga | 13.500 coins | -8.3% |
-| Palhinha | 83 | CDM | Bundesliga | 1.700 coins | +45.5% |
+| Tomáš Rosický | 89 | CAM | Bundesliga | 11.250 coins | -10.3% |
+| Mario Gomez | 88 | ST | Bundesliga | 12.750 coins | -2% |
+| Roy Makaay | 87 | ST | Bundesliga | 13.000 coins | 0% |
+| Grimaldo | 87 | LM | Bundesliga | 14.750 coins | +15.4% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 13.500 coins | +4.2% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 13.500 coins | -10% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **11.500 coins**
+- **Tomáš Rosický (89, CAM)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12.750 coins**
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **13.000 coins**
 
-- **Claudio Pizarro (87, ST)** da Bundesliga, a apenas **14.500 coins**
+- **Grimaldo (87, LM)** da Bundesliga, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claudio Pizarro (86, ST)** da Bundesliga, a apenas **11.500 coins**
-
-- **Mario Mandžukić (86, ST)** da Bundesliga, a apenas **11.750 coins**
+- **Mario Mandžukić (86, ST)** da Bundesliga, a apenas **13.500 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Piero Hincapié (83, CB) por 10.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Nathan Tella (86, CAM) por 12.750 coins é a referência de rating deste recorte.
+- **Meio:** Tomáš Rosický (89, CAM) por 11.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Mario Gomez (88, ST) por 11.500 coins é a referência de rating deste recorte.
+- **Ataque:** Mario Gomez (88, ST) por 12.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -89,7 +87,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (24/07/2026)?**  
-Mario Gomez (88, Bundesliga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
+Tomáš Rosický (89, Bundesliga) aparece como melhor custo-benefício, a 11.250 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
