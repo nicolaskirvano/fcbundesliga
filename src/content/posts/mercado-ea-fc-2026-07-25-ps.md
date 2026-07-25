@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:32:07.000Z
+pubDatetime: 2026-07-25T19:32:07.000Z
 title: "Mercado EA FC em 25/07: Bundesliga — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Rani Khedira (84, Bundesliga), com +49.7% em 24h, a 58k coins no Console (PS)."
+    a: "Daniel Svensson (84, Bundesliga), com +30.8% em 24h, a 25k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Julian Brandt (87), -48.2% em 24h, a 22k coins."
+    a: "Kevin Stöger (86), -40% em 24h, a 24k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 29 cartas em alta contra 49 em queda (média -7.27%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 26 cartas em alta contra 62 em queda (média -6.42%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**25/07/2026**, Console (PS)) o Ultimate Team está **pressionado** — as quedas dominam o dia — **29 subiram**, **49 caíram** (80+ e 5k+ coins), média de **-7.27%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**25/07/2026**, Console (PS)) o Ultimate Team está **pressionado** — as quedas dominam o dia — **26 subiram**, **62 caíram** (80+ e 5k+ coins), média de **-6.42%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Rani Khedira (84) **+49.7%** · 🔴 **Maior baixa:** Julian Brandt (87) **-48.2%**
+> 🟢 **Maior alta:** Daniel Svensson (84) **+30.8%** · 🔴 **Maior baixa:** Kevin Stöger (86) **-40%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Bundesliga — Console (PS)](/charts/mercado-ea-fc-2026-07-25-ps.svg)
 
@@ -35,24 +35,24 @@ Hoje (**25/07/2026**, Console (PS)) o Ultimate Team está **pressionado** — as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 37.2% entre as cartas que se moveram; o universo observado reúne 98 cartas.
+- **Amplitude do dia:** 70.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 29.5% entre as cartas que se moveram; o universo observado reúne 115 cartas.
 - **Concentração:** Bundesliga aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rani Khedira | 84 | Bundesliga | 58k coins | +49.7% | +45% |
-| Haris Tabaković | 85 | Bundesliga | 26k coins | +49.3% | +5% |
-| David Raum | 84 | Bundesliga | 62k coins | +39.5% | +28.4% |
-| Luis Díaz | 87 | Bundesliga | 105k coins | +33.7% | -25.8% |
-| Josip Stanišić | 86 | Bundesliga | 65k coins | +30% | +52.9% |
-| Christoph Baumgartner | 86 | Bundesliga | 44k coins | +22.6% | +18.8% |
-| Rayan Philippe | 80 | Bundesliga | 48k coins | +19.5% | 0% |
-| Yan Diomande | 80 | Bundesliga | 48k coins | +18.8% | 0% |
-| Christian Günter | 88 | Bundesliga | 40k coins | +13.9% | +72.6% |
-| Luis Díaz | 87 | Bundesliga | 45k coins | +13.5% | -0.9% |
+| Daniel Svensson | 84 | Bundesliga | 25k coins | +30.8% | +83.1% |
+| Rani Khedira | 84 | Bundesliga | 54k coins | +30.5% | +36.2% |
+| Luis Díaz | 86 | Bundesliga | 210k coins | +29.4% | +23.9% |
+| Luis Díaz | 87 | Bundesliga | 85k coins | +26% | -37.8% |
+| Jakub Kamiński | 83 | Bundesliga | 48k coins | +24.4% | -24.8% |
+| Ragnar Ache | 84 | Bundesliga | 48k coins | +18.4% | +18.4% |
+| Rayan Philippe | 80 | Bundesliga | 42k coins | +15.7% | -3.2% |
+| Luis Díaz | 87 | Bundesliga | 40k coins | +15.2% | -11.2% |
+| David Raum | 84 | Bundesliga | 56k coins | +13% | +17.7% |
+| Christian Günter | 88 | Bundesliga | 36k coins | +9.2% | +53.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**25/07/2026**, Console (PS)) o Ultimate Team está **pressionado** — as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rani Khedira (84)** subiu **+49.7%** em 24h, a **58k coins** (faixa do dia: 36k–59k). Está +29% acima da média de 7 dias (aquecida).
+- **Daniel Svensson (84)** subiu **+30.8%** em 24h, a **25k coins** (faixa do dia: 15.750–30k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Haris Tabaković (85)** subiu **+49.3%** em 24h, a **26k coins** (faixa do dia: 10.750–33k). Está em linha com a média de 7 dias (+1%).
+- **Rani Khedira (84)** subiu **+30.5%** em 24h, a **54k coins** (faixa do dia: 40k–59k). Está +21% acima da média de 7 dias (aquecida).
 
-- **David Raum (84)** subiu **+39.5%** em 24h, a **62k coins** (faixa do dia: 40k–65k). Está +24% acima da média de 7 dias (aquecida).
+- **Luis Díaz (86)** subiu **+29.4%** em 24h, a **210k coins** (faixa do dia: 137k–233k). Está +8% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julian Brandt | 87 | Bundesliga | 22k coins | -48.2% | +17.3% |
-| Michael Olise | 87 | Bundesliga | 100k coins | -48.1% | -62.4% |
-| Joshua Kimmich | 90 | Bundesliga | 40k coins | -47.5% | -31.3% |
-| Nico Schlotterbeck | 87 | Bundesliga | 44k coins | -43.3% | -12.4% |
-| Harry Kane | 91 | Bundesliga | 85k coins | -30.8% | -40.4% |
-| Serge Gnabry | 90 | Bundesliga | 240k coins | -24.5% | -15.9% |
-| Daniel Svensson | 84 | Bundesliga | 25k coins | -24% | +15.2% |
-| Manuel Neuer | 86 | Bundesliga | 28k coins | -22.9% | -30.8% |
-| Serhou Guirassy | 89 | Bundesliga | 233k coins | -22.8% | -24.8% |
-| Harry Kane | 90 | Bundesliga | 90k coins | -22.2% | -49.4% |
+| Kevin Stöger | 86 | Bundesliga | 24k coins | -40% | +12% |
+| Maximilian Mittelstädt | 88 | Bundesliga | 22k coins | -35% | -21.2% |
+| Timo Werner | 87 | Bundesliga | 24k coins | -34.9% | -4.2% |
+| Malik Tillman | 88 | Bundesliga | 90k coins | -34.6% | -36.6% |
+| Nico Schlotterbeck | 87 | Bundesliga | 45k coins | -27.7% | -12.5% |
+| Harry Kane | 91 | Bundesliga | 84k coins | -27% | -45.8% |
+| Harry Kane | 90 | Bundesliga | 88k coins | -23.2% | -48.2% |
+| Jobe Bellingham | 89 | Bundesliga | 85k coins | -22.9% | -67.9% |
+| Jürgen Kohler | 90 | Bundesliga | 38k coins | -21.6% | -22% |
+| Michael Olise | 87 | Bundesliga | 94k coins | -21% | -56.9% |
 
 
 ### Análise das baixas
 
-- **Julian Brandt (87)** caiu **-48.2%** em 24h, a **22k coins** (faixa do dia: 18.000–42k). Está em linha com a média de 7 dias (-3%).
+- **Kevin Stöger (86)** caiu **-40%** em 24h, a **24k coins** (faixa do dia: 18.000–39k). Está em linha com a média de 7 dias (-6%).
 
-- **Michael Olise (87)** caiu **-48.1%** em 24h, a **100k coins** (faixa do dia: 80k–165k). Está -44% abaixo da média de 7 dias (descontada).
+- **Maximilian Mittelstädt (88)** caiu **-35%** em 24h, a **22k coins** (faixa do dia: 13.000–22k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Joshua Kimmich (90)** caiu **-47.5%** em 24h, a **40k coins** (faixa do dia: 38k–80k). Está -40% abaixo da média de 7 dias (descontada).
+- **Timo Werner (87)** caiu **-34.9%** em 24h, a **24k coins** (faixa do dia: 14.000–60k). Está -51% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rani Khedira já avançou 49.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Daniel Svensson já avançou 30.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Julian Brandt recuou -48.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kevin Stöger recuou -40%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Rani Khedira (84, Bundesliga), com +49.7% em 24h, a 58k coins no Console (PS).
+Daniel Svensson (84, Bundesliga), com +30.8% em 24h, a 25k coins no Console (PS).
 
 **E a maior queda do dia?**
-Julian Brandt (87), -48.2% em 24h, a 22k coins.
+Kevin Stöger (86), -40% em 24h, a 24k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 29 cartas em alta contra 49 em queda (média -7.27%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 26 cartas em alta contra 62 em queda (média -6.42%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
