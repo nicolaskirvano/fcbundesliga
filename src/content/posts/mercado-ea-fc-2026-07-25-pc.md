@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:32:17.000Z
+pubDatetime: 2026-07-25T22:32:16.000Z
 title: "Mercado EA FC em 25/07: Bundesliga — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Daniel Svensson (84, Bundesliga), com +50% em 24h, a 38k coins no PC."
+    a: "Serhou Guirassy (88, Bundesliga), com +60% em 24h, a 52k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Willi Orban (86), -47.5% em 24h, a 26k coins."
+    a: "Harry Kane (91), -46.5% em 24h, a 190k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 31 cartas em alta contra 56 em queda (média -8.33%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 35 cartas em alta contra 53 em queda (média -4.02%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**25/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas dominam o dia — **31 subiram**, **56 caíram** (80+ e 5k+ coins), média de **-8.33%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**25/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas dominam o dia — **35 subiram**, **53 caíram** (80+ e 5k+ coins), média de **-4.02%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Daniel Svensson (84) **+50%** · 🔴 **Maior baixa:** Willi Orban (86) **-47.5%**
+> 🟢 **Maior alta:** Serhou Guirassy (88) **+60%** · 🔴 **Maior baixa:** Harry Kane (91) **-46.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Bundesliga — PC](/charts/mercado-ea-fc-2026-07-25-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**25/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas do
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 35.6% entre as cartas que se moveram; o universo observado reúne 116 cartas.
+- **Amplitude do dia:** 106.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 39.8% entre as cartas que se moveram; o universo observado reúne 115 cartas.
 - **Concentração:** Bundesliga aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Daniel Svensson | 84 | Bundesliga | 38k coins | +50% | 0% |
-| Julian Brandt | 87 | Bundesliga | 42k coins | +30.8% | +129.7% |
-| Kevin Diks | 84 | Bundesliga | 47k coins | +20.5% | +1.6% |
-| Harry Kane | 92 | Bundesliga | 350k coins | +12.9% | +24.6% |
-| Matthias Ginter | 88 | Bundesliga | 92k coins | +12.5% | +142.3% |
-| Jürgen Kohler | 90 | Bundesliga | 65k coins | +11.7% | +48.9% |
-| Antonio Nusa | 89 | Bundesliga | 72k coins | +11.6% | -22.2% |
-| Deniz Undav | 84 | Bundesliga | 50k coins | +9.3% | +37% |
-| Michael Olise | 88 | Bundesliga | 378k coins | +8% | -55.5% |
-| Wouter Burger | 87 | Bundesliga | 72k coins | +7.1% | -33.5% |
+| Serhou Guirassy | 88 | Bundesliga | 52k coins | +60% | +58.8% |
+| Felix Nmecha | 86 | Bundesliga | 550k coins | +56.7% | +34.1% |
+| Sven Ulreich | 87 | Bundesliga | 46k coins | +54.2% | +66.7% |
+| Luis Díaz | 89 | Bundesliga | 120k coins | +49.1% | -7% |
+| Willi Orban | 86 | Bundesliga | 46k coins | +45% | +171% |
+| Michael Olise | 87 | Bundesliga | 426k coins | +37.4% | -13.9% |
+| Julian Brandt | 87 | Bundesliga | 42k coins | +30.8% | +142.9% |
+| Serhou Guirassy | 89 | Bundesliga | 123k coins | +29.2% | +5.4% |
+| Nico Schlotterbeck | 87 | Bundesliga | 77k coins | +25.4% | +13.7% |
+| Manuel Neuer | 86 | Bundesliga | 45k coins | +25% | -3.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**25/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas do
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Daniel Svensson (84)** subiu **+50%** em 24h, a **38k coins** (faixa do dia: 10.500–38k). Está +28% acima da média de 7 dias (aquecida).
+- **Serhou Guirassy (88)** subiu **+60%** em 24h, a **52k coins** (faixa do dia: 22k–60k). Está +8% acima da média de 7 dias (aquecida).
 
-- **Julian Brandt (87)** subiu **+30.8%** em 24h, a **42k coins** (faixa do dia: 32k–42k). Está +50% acima da média de 7 dias (aquecida).
+- **Felix Nmecha (86)** subiu **+56.7%** em 24h, a **550k coins** (faixa do dia: 329k–550k). Está +30% acima da média de 7 dias (aquecida).
 
-- **Kevin Diks (84)** subiu **+20.5%** em 24h, a **47k coins** (faixa do dia: 38k–47k). Está +12% acima da média de 7 dias (aquecida).
+- **Sven Ulreich (87)** subiu **+54.2%** em 24h, a **46k coins** (faixa do dia: 18.750–48k). Está +89% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Willi Orban | 86 | Bundesliga | 26k coins | -47.5% | +45.8% |
-| Harry Kane | 91 | Bundesliga | 199k coins | -43.9% | -47.5% |
-| Christian Eriksen | 87 | Bundesliga | 63k coins | -34.3% | -18.8% |
-| Grimaldo | 92 | Bundesliga | 39k coins | -31% | +3.9% |
-| Silas | 84 | Bundesliga | 43k coins | -30.4% | -42% |
-| Harry Kane | 92 | Bundesliga | 112k coins | -25.5% | -48.3% |
-| Michael Olise | 87 | Bundesliga | 255k coins | -24.8% | -48.5% |
-| Patrik Schick | 88 | Bundesliga | 28k coins | -23.7% | -44.2% |
-| Malik Tillman | 85 | Bundesliga | 22k coins | -22.7% | -31.3% |
+| Harry Kane | 91 | Bundesliga | 190k coins | -46.5% | -41.2% |
+| Grimaldo | 92 | Bundesliga | 35k coins | -33.9% | -1.3% |
+| Christian Eriksen | 87 | Bundesliga | 59k coins | -33.9% | -24.2% |
+| Zé Roberto | 87 | Bundesliga | 80k coins | -25.2% | -13.5% |
+| Luka Vušković | 86 | Bundesliga | 21k coins | -23.2% | +1.3% |
 | Oliver Burke | 80 | Bundesliga | 37k coins | -22.6% | -8.1% |
+| Fábio Vieira | 87 | Bundesliga | 22k coins | -22.5% | -20.5% |
+| Karim Adeyemi | 86 | Bundesliga | 152k coins | -21.5% | -18.6% |
+| Silas | 84 | Bundesliga | 45k coins | -21.1% | -34.8% |
+| Mark Flekken | 84 | Bundesliga | 38k coins | -20.5% | -10.7% |
 
 
 ### Análise das baixas
 
-- **Willi Orban (86)** caiu **-47.5%** em 24h, a **26k coins** (faixa do dia: 26k–50k). Está -17% abaixo da média de 7 dias (descontada).
+- **Harry Kane (91)** caiu **-46.5%** em 24h, a **190k coins** (faixa do dia: 190k–480k). Está -45% abaixo da média de 7 dias (descontada).
 
-- **Harry Kane (91)** caiu **-43.9%** em 24h, a **199k coins** (faixa do dia: 199k–480k). Está -43% abaixo da média de 7 dias (descontada).
+- **Grimaldo (92)** caiu **-33.9%** em 24h, a **35k coins** (faixa do dia: 20k–56k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Christian Eriksen (87)** caiu **-34.3%** em 24h, a **63k coins** (faixa do dia: 63k–142k). Está -28% abaixo da média de 7 dias (descontada).
+- **Christian Eriksen (87)** caiu **-33.9%** em 24h, a **59k coins** (faixa do dia: 59k–142k). Está -33% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Daniel Svensson já avançou 50% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Serhou Guirassy já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Willi Orban recuou -47.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Harry Kane recuou -46.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Daniel Svensson (84, Bundesliga), com +50% em 24h, a 38k coins no PC.
+Serhou Guirassy (88, Bundesliga), com +60% em 24h, a 52k coins no PC.
 
 **E a maior queda do dia?**
-Willi Orban (86), -47.5% em 24h, a 26k coins.
+Harry Kane (91), -46.5% em 24h, a 190k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 31 cartas em alta contra 56 em queda (média -8.33%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 35 cartas em alta contra 53 em queda (média -4.02%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
