@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T13:32:19.000Z
+pubDatetime: 2026-07-28T16:32:18.000Z
 title: "Investimentos EA FC: Bundesliga em 28/07 — PC"
 draft: false
 featured: true
