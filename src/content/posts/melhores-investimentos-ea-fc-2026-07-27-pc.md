@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:32:18.000Z
+pubDatetime: 2026-07-28T01:32:20.000Z
 title: "Investimentos EA FC: Bundesliga em 27/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.4% em 24h** e **+25.8% em 7 dias**.
-- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.0% em 24h** e **+18.4% em 7 dias**.
+- **7 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 12 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,27 +44,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ritsu Doan | 86 | Bundesliga | 120k coins | +17.6% | +72.7% | Esticada |
-| Benedict Hollerbach | 87 | Bundesliga | 28k coins | +16% | +61.1% | Esticada |
-| Uli Hoeneß | 86 | Bundesliga | 18.000 coins | +2.9% | +60% | Esticada |
-| Mark Flekken | 84 | Bundesliga | 48k coins | +26.7% | +30.1% | Esticada |
-| Nikola Vasilj | 84 | Bundesliga | 47k coins | +5.6% | +25.8% | Momentum moderado |
-| Grimaldo | 86 | Bundesliga | 44k coins | +19.9% | +13.1% | Momentum moderado |
-| Christian Günter | 88 | Bundesliga | 32k coins | +9.2% | +11.1% | Momentum moderado |
-| Jamie Leweling | 86 | Bundesliga | 48k coins | +12.4% | +8.1% | Momentum moderado |
-| Ragnar Ache | 84 | Bundesliga | 40k coins | +1.9% | +6% | Entrada a observar |
+| Kevin Stöger | 86 | Bundesliga | 25k coins | +15.1% | +62.1% | Esticada |
+| Nico Schlotterbeck | 87 | Bundesliga | 74k coins | +3.4% | +60% | Esticada |
+| Danny da Costa | 84 | Bundesliga | 28k coins | +34.1% | +35.8% | Esticada |
+| Loïc Badé | 88 | Bundesliga | 30k coins | +13.6% | +33% | Momentum moderado |
+| Mark Flekken | 84 | Bundesliga | 48k coins | +26.7% | +21.8% | Esticada |
+| Harry Kane | 92 | Bundesliga | 218k coins | +20% | +15% | Esticada |
+| Rudi Völler | 89 | Bundesliga | 15.000 coins | +11.3% | +13.5% | Momentum moderado |
+| Nikola Vasilj | 84 | Bundesliga | 48k coins | +4.4% | +11.9% | Entrada a observar |
+| Silas | 84 | Bundesliga | 40k coins | +14.9% | +10.1% | Momentum moderado |
+| Rani Khedira | 84 | Bundesliga | 60k coins | +25% | +9.1% | Esticada |
+| Christian Günter | 88 | Bundesliga | 32k coins | +9.2% | +7.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ritsu Doan (86)** — 120k coins, **+72.7% em 7 dias** (+17.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ritsu Doan (86)** — 120k coins, **+72.7% em 7 dias** (+17.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Benedict Hollerbach (87)** — 28k coins, **+61.1% em 7 dias** (+16% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kevin Stöger (86)** — 25k coins, **+62.1% em 7 dias** (+15.1% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Uli Hoeneß (86)** — 18.000 coins, **+60% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Schlotterbeck (87)** — 74k coins, **+60% em 7 dias** (+3.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mark Flekken (84)** — 48k coins, **+30.1% em 7 dias** (+26.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Danny da Costa (84)** — 28k coins, **+35.8% em 7 dias** (+34.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nikola Vasilj (84)** — 47k coins, **+25.8% em 7 dias** (+5.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Loïc Badé (88)** — 30k coins, **+33% em 7 dias** (+13.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
