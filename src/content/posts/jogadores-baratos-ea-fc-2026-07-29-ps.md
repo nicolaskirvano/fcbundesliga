@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:32:10.000Z
+pubDatetime: 2026-07-29T19:32:10.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 29/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 29/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (29/07/2026)?"
-    a: "Lúcio (91, Bundesliga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
+    a: "Roy Makaay (89, Bundesliga) aparece como melhor custo-benefício, a 11.250 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **29/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Lúcio (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Roy Makaay (89) por apenas 11.250 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Bundesliga em 29/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-29-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.293 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 2.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 14 opções:** 13.125 coins.
+- **Posição mais frequente:** ST, com 8 cartas.
+- **Faixa real:** 10.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,41 +40,40 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.300 coins | +7.5% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 11.250 coins | 0% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Rudi Völler | 89 | ST | Bundesliga | 12.750 coins | +1.7% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.750 coins | +3.8% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14.750 coins | +11.8% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 13.000 coins | +1.9% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11.750 coins | +3.8% |
-| Nico Schlotterbeck | 85 | CB | Bundesliga | 2.100 coins | -12.5% |
-| Franck Honorat | 85 | RM | Bundesliga | 13.750 coins | +12.2% |
-| Danny da Costa | 84 | RB | Bundesliga | 12.000 coins | -5.9% |
-| Jeremie Frimpong | 83 | RB | Bundesliga | 2.000 coins | -12.5% |
+| Mario Gomez | 88 | ST | Bundesliga | 13.750 coins | -11.3% |
+| Serhou Guirassy | 88 | ST | Bundesliga | 14.500 coins | -3.2% |
+| Claudio Pizarro | 87 | ST | Bundesliga | 13.000 coins | 0% |
+| Roy Makaay | 87 | ST | Bundesliga | 14.000 coins | +15.4% |
+| Luka Vušković | 86 | CB | Bundesliga | 13.250 coins | +28.9% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 13.500 coins | -9.6% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 13.750 coins | +13.7% |
+| Włodzimierz Smolarek | 86 | ST | Bundesliga | 14.000 coins | -5.9% |
+| Nathan Tella | 86 | CAM | Bundesliga | 14.750 coins | +40.9% |
+| Franck Honorat | 85 | RM | Bundesliga | 13.750 coins | +10.2% |
+| Danny da Costa | 84 | RB | Bundesliga | 13.000 coins | +2% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.300 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Jürgen Kohler (89, CB)** da Bundesliga, a apenas **11.250 coins**
-
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Joshua Kimmich (89, RB)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **13.750 coins**
+
+- **Serhou Guirassy (88, ST)** da Bundesliga, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Claudio Pizarro (87, ST)** da Bundesliga, a apenas **13.000 coins**
+
 
 ## Como distribuir a banca
 
-- **Defesa:** Lúcio (91, CB) por 11.500 coins é a referência de rating deste recorte.
+- **Defesa:** Joshua Kimmich (89, RB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 4.300 coins é a referência de rating deste recorte.
+- **Meio:** Nathan Tella (86, CAM) por 14.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Roy Makaay (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
@@ -95,7 +94,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (29/07/2026)?**  
-Lúcio (91, Bundesliga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
+Roy Makaay (89, Bundesliga) aparece como melhor custo-benefício, a 11.250 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
