@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:32:19.000Z
+pubDatetime: 2026-07-29T22:32:19.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 9.500 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.600 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 11.423 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 5.200 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,39 +41,38 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
-| Harry Kane | 89 | ST | Bundesliga | 4.100 coins | +58.3% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.600 coins | +33.3% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 5.700 coins | +33.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.200 coins | +28.6% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 6.200 coins | +37.8% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13.000 coins | +3.7% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 11.000 coins | -2.2% |
-| Mario Gomez | 88 | ST | Bundesliga | 13.500 coins | -1.9% |
-| Roy Makaay | 87 | ST | Bundesliga | 14.750 coins | +21.2% |
-| Michael Olise | 86 | RM | Bundesliga | 1.600 coins | +36.8% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 10.750 coins | -4.4% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14.000 coins | +3.7% |
+| Mario Gomez | 88 | ST | Bundesliga | 13.000 coins | 0% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 13.250 coins | +17.8% |
+| David Raum | 87 | LB | Bundesliga | 13.500 coins | -3.6% |
+| Roy Makaay | 87 | ST | Bundesliga | 14.750 coins | +13.5% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11.750 coins | +4.4% |
 
 
 ## 📈 Destaques
 
 - **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.100 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.200 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
-
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **5.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **6.200 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Joshua Kimmich (89, RB)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Lúcio (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 5.600 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 5.200 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 4.100 coins é a referência de rating deste recorte.
+- **Ataque:** Roy Makaay (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
