@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:32:10.000Z
+pubDatetime: 2026-07-30T01:32:10.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 29/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.857 coins.
+- **Preço médio das 14 opções:** 10.504 coins.
 - **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 1.500 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.200 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,42 +41,41 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
-| Harry Kane | 89 | ST | Bundesliga | 3.400 coins | +59.1% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.900 coins | +22.5% |
+| Harry Kane | 90 | ST | Bundesliga | 3.400 coins | +50% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 12.250 coins | -3.7% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 12.000 coins | -7.7% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12.750 coins | 0% |
-| Luka Vušković | 86 | CB | Bundesliga | 12.750 coins | +13.3% |
-| Franck Honorat | 85 | RM | Bundesliga | 13.750 coins | +12.2% |
-| Danny da Costa | 84 | RB | Bundesliga | 11.250 coins | -2% |
-| Jeremie Frimpong | 83 | RB | Bundesliga | 1.500 coins | +20.8% |
-| Julian Brandt | 83 | CAM | Bundesliga | 1.800 coins | +21.4% |
-| Hugo Ekitiké | 83 | ST | Bundesliga | 2.500 coins | -7.4% |
-| Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
+| Rudi Völler | 89 | ST | Bundesliga | 14.750 coins | 0% |
+| Mario Gomez | 88 | ST | Bundesliga | 12.500 coins | -13.2% |
+| Claudio Pizarro | 87 | ST | Bundesliga | 13.750 coins | 0% |
+| Joshua Kimmich | 86 | RB | Bundesliga | 4.700 coins | +22.5% |
+| Nathan Tella | 86 | CAM | Bundesliga | 11.500 coins | +11.4% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 13.250 coins | -7.7% |
+| Luka Vušković | 86 | CB | Bundesliga | 14.000 coins | +24.4% |
+| Nico Schlotterbeck | 85 | CB | Bundesliga | 2.200 coins | -4.2% |
+| Franck Honorat | 85 | RM | Bundesliga | 11.250 coins | -2% |
+| Danny da Costa | 84 | RB | Bundesliga | 11.750 coins | +2% |
 
 
 ## 📈 Destaques
 
 - **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **3.400 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
-
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.900 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Harry Kane (90, ST)** da Bundesliga, a apenas **3.400 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Joshua Kimmich (89, RB)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Rudi Völler (89, ST)** da Bundesliga, a apenas **14.750 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Lúcio (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 4.900 coins é a referência de rating deste recorte.
+- **Meio:** Nathan Tella (86, CAM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 3.400 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (90, ST) por 3.400 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
