@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:32:19.000Z
+pubDatetime: 2026-07-30T22:32:19.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 9.664 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 3.400 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 8.900 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,32 +41,35 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 6.000 coins | 0% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 5.300 coins | -11.5% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.900 coins | +7.1% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 13.000 coins | -3.7% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11.250 coins | 0% |
-| Nico Schlotterbeck | 85 | CB | Bundesliga | 3.400 coins | +25.9% |
+| Mario Gomez | 88 | ST | Bundesliga | 13.250 coins | 0% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11.750 coins | 0% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 14.000 coins | +5.4% |
+| Nico Schlotterbeck | 85 | CB | Bundesliga | 3.200 coins | +25% |
+| Jeremie Frimpong | 83 | RB | Bundesliga | 1.600 coins | +35.7% |
 
 
 ## 📈 Destaques
 
 - **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **6.000 coins**
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **5.300 coins**
+
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.900 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Joshua Kimmich (89, RB)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Lúcio (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Florian Wirtz (89, CAM) por 6.000 coins é a referência de rating deste recorte.
+- **Meio:** Florian Wirtz (89, CAM) por 5.300 coins é a referência de rating deste recorte.
 
 - **Ataque:** Roy Makaay (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
