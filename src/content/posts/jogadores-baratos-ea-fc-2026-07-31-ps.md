@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:32:10.000Z
+pubDatetime: 2026-07-31T22:32:10.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 11.714 coins.
-- **Posição mais frequente:** CB, com 2 cartas.
-- **Faixa real:** 10.000 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 11.112 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 4.400 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,11 +41,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4.400 coins | -8% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Andrej Kramarić | 89 | CAM | Bundesliga | 12.000 coins | +19.3% |
 | Mario Gomez | 88 | ST | Bundesliga | 14.250 coins | -5% |
-| Danny da Costa | 84 | RB | Bundesliga | 11.750 coins | -6% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 14.750 coins | +8.6% |
+| Danny da Costa | 84 | RB | Bundesliga | 11.500 coins | +50% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
@@ -53,11 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.400 coins** — já **valorizando**, sinal de procura crescente.
+
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins**
 
 - **Joshua Kimmich (89, RB)** da Bundesliga, a apenas **11.250 coins**
-
-- **Andrej Kramarić (89, CAM)** da Bundesliga, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Mario Gomez (88, ST)** da Bundesliga, a apenas **14.250 coins**
 
@@ -66,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Defesa:** Lúcio (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Andrej Kramarić (89, CAM) por 12.000 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 4.400 coins é a referência de rating deste recorte.
 
 - **Ataque:** Roy Makaay (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
