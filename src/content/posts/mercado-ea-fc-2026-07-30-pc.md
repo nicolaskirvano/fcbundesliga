@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:32:16.000Z
+pubDatetime: 2026-07-31T01:32:16.000Z
 title: "Mercado EA FC em 30/07: Bundesliga — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
     a: "Harry Kane (91, Bundesliga), com +51.4% em 24h, a 330k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Michael Olise (88), -46.6% em 24h, a 320k coins."
+    a: "Harry Kane (92), -44.3% em 24h, a 230k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 35 cartas em alta contra 39 em queda (média 2.85%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 36 cartas em alta contra 41 em queda (média 6.98%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**30/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **35 subiram**, **39 caíram** (80+ e 5k+ coins), média de **2.85%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**30/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **36 subiram**, **41 caíram** (80+ e 5k+ coins), média de **6.98%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Harry Kane (91) **+51.4%** · 🔴 **Maior baixa:** Michael Olise (88) **-46.6%**
+> 🟢 **Maior alta:** Harry Kane (91) **+51.4%** · 🔴 **Maior baixa:** Harry Kane (92) **-44.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Bundesliga — PC](/charts/mercado-ea-fc-2026-07-30-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**30/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.3% entre as cartas que se moveram; o universo observado reúne 115 cartas.
+- **Amplitude do dia:** 95.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 46.8% entre as cartas que se moveram; o universo observado reúne 117 cartas.
 - **Concentração:** Bundesliga aparece em 20 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Harry Kane | 91 | Bundesliga | 330k coins | +51.4% | -17.5% |
-| Ritsu Doan | 86 | Bundesliga | 119k coins | +48.8% | -0.8% |
-| Angelo Stiller | 85 | Bundesliga | 30k coins | +46.3% | +48.1% |
-| Kaishū Sano | 84 | Bundesliga | 42k coins | +41.7% | 0% |
-| Kim Min Jae | 86 | Bundesliga | 62k coins | +35.1% | 0% |
-| Matthias Ginter | 88 | Bundesliga | 24k coins | +28% | -74.1% |
-| Vincenzo Grifo | 84 | Bundesliga | 55k coins | +27.9% | +21.5% |
-| Karim Adeyemi | 91 | Bundesliga | 300k coins | +23.6% | -3% |
-| Lennart Karl | 83 | Bundesliga | 150k coins | +21.4% | +289% |
+| Harry Kane | 91 | Bundesliga | 330k coins | +51.4% | -27.6% |
+| Ragnar Ache | 84 | Bundesliga | 60k coins | +48.8% | +27.3% |
+| Ritsu Doan | 86 | Bundesliga | 107k coins | +38.8% | -7.5% |
+| Karim Adeyemi | 91 | Bundesliga | 280k coins | +34% | -15.2% |
+| Vincenzo Grifo | 84 | Bundesliga | 55k coins | +31% | +21.5% |
+| Kaishū Sano | 84 | Bundesliga | 42k coins | +21.4% | 0% |
 | Luis Díaz | 89 | Bundesliga | 110k coins | +20.9% | -8.3% |
+| Luis Díaz | 86 | Bundesliga | 63k coins | +16.2% | +17.3% |
+| Claudio Pizarro | 87 | Bundesliga | 21k coins | +13.5% | +23.5% |
+| Harry Kane | 90 | Bundesliga | 169k coins | +13.4% | +40.8% |
 
 
 ### Análise das altas
@@ -63,41 +63,41 @@ Hoje (**30/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 - **Harry Kane (91)** subiu **+51.4%** em 24h, a **330k coins** (faixa do dia: 142k–330k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Ritsu Doan (86)** subiu **+48.8%** em 24h, a **119k coins** (faixa do dia: 80k–120k). Está em linha com a média de 7 dias (+6%).
+- **Ragnar Ache (84)** subiu **+48.8%** em 24h, a **60k coins** (faixa do dia: 40k–60k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Angelo Stiller (85)** subiu **+46.3%** em 24h, a **30k coins** (faixa do dia: 13.500–32k). Está +65% acima da média de 7 dias (aquecida).
+- **Ritsu Doan (86)** subiu **+38.8%** em 24h, a **107k coins** (faixa do dia: 80k–120k). Está em linha com a média de 7 dias (-4%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Michael Olise | 88 | Bundesliga | 320k coins | -46.6% | -63.6% |
-| Zé Roberto | 87 | Bundesliga | 70k coins | -34.6% | -15.1% |
+| Harry Kane | 92 | Bundesliga | 230k coins | -44.3% | -37.4% |
+| Manuel Neuer | 86 | Bundesliga | 79k coins | -43.6% | -40.1% |
+| Zé Roberto | 87 | Bundesliga | 70k coins | -42.1% | -22.8% |
 | Lennart Karl | 91 | Bundesliga | 865k coins | -27% | -33.5% |
-| Fábio Vieira | 87 | Bundesliga | 28k coins | -25.4% | -28.1% |
-| Haris Tabaković | 85 | Bundesliga | 48k coins | -20.8% | -12.8% |
-| Willi Orban | 86 | Bundesliga | 35k coins | -17.5% | -27.3% |
-| Karim Adeyemi | 86 | Bundesliga | 177k coins | -15.3% | -9.2% |
-| Mario Götze | 88 | Bundesliga | 46k coins | -14.3% | +29.3% |
-| Nico Schlotterbeck | 87 | Bundesliga | 78k coins | -12.8% | -9.2% |
-| Dimitris Giannoulis | 83 | Bundesliga | 45k coins | -11.1% | -10.6% |
+| Christian Eriksen | 87 | Bundesliga | 82k coins | -23.4% | -33.3% |
+| Tomáš Rosický | 89 | Bundesliga | 24k coins | -22.3% | -21.7% |
+| David Raum | 84 | Bundesliga | 52k coins | -19.5% | -5.5% |
+| Fábio Vieira | 87 | Bundesliga | 26k coins | -19.2% | -24.5% |
+| Rani Khedira | 84 | Bundesliga | 48k coins | -18.2% | +10.3% |
+| Willi Orban | 86 | Bundesliga | 35k coins | -17.5% | -28.8% |
 
 
 ### Análise das baixas
 
-- **Michael Olise (88)** caiu **-46.6%** em 24h, a **320k coins** (faixa do dia: 319k–599k). Está -31% abaixo da média de 7 dias (descontada).
+- **Harry Kane (92)** caiu **-44.3%** em 24h, a **230k coins** (faixa do dia: 112k–230k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Zé Roberto (87)** caiu **-34.6%** em 24h, a **70k coins** (faixa do dia: 46k–120k). Está -11% abaixo da média de 7 dias (descontada).
+- **Manuel Neuer (86)** caiu **-43.6%** em 24h, a **79k coins** (faixa do dia: 26k–82k). Está +46% acima da média de 7 dias (aquecida).
 
-- **Lennart Karl (91)** caiu **-27%** em 24h, a **865k coins** (faixa do dia: 863k–1.19M). Está -17% abaixo da média de 7 dias (descontada).
+- **Zé Roberto (87)** caiu **-42.1%** em 24h, a **70k coins** (faixa do dia: 46k–95k). Está -12% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Harry Kane já avançou 51.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Michael Olise recuou -46.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Harry Kane recuou -44.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Harry Kane (91, Bundesliga), com +51.4% em 24h, a 330k coins no PC.
 
 **E a maior queda do dia?**
-Michael Olise (88), -46.6% em 24h, a 320k coins.
+Harry Kane (92), -44.3% em 24h, a 230k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 35 cartas em alta contra 39 em queda (média 2.85%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 36 cartas em alta contra 41 em queda (média 6.98%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
