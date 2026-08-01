@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:32:10.000Z
+pubDatetime: 2026-08-01T01:32:10.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 11.112 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 4.400 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 12.667 coins.
+- **Posição mais frequente:** CB, com 4 cartas.
+- **Faixa real:** 10.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,12 +41,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.400 coins | -8% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 14.250 coins | -5% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 14.750 coins | +8.6% |
-| Danny da Costa | 84 | RB | Bundesliga | 11.500 coins | +50% |
+| Keven Schlotterbeck | 89 | CB | Bundesliga | 14.750 coins | -1.6% |
+| Mario Gomez | 88 | ST | Bundesliga | 12.750 coins | +5.6% |
+| Nico Schlotterbeck | 87 | CB | Bundesliga | 13.000 coins | +1.8% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 14.750 coins | +11.1% |
+| Malik Tillman | 85 | CAM | Bundesliga | 14.750 coins | 0% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
@@ -54,20 +55,20 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.400 coins** — já **valorizando**, sinal de procura crescente.
-
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins**
 
 - **Joshua Kimmich (89, RB)** da Bundesliga, a apenas **11.250 coins**
 
-- **Mario Gomez (88, ST)** da Bundesliga, a apenas **14.250 coins**
+- **Keven Schlotterbeck (89, CB)** da Bundesliga, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Mario Gomez (88, ST)** da Bundesliga, a apenas **12.750 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Lúcio (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 4.400 coins é a referência de rating deste recorte.
+- **Meio:** Malik Tillman (85, CAM) por 14.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Roy Makaay (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
