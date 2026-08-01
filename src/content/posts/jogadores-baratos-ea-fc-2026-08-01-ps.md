@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:32:10.000Z
+pubDatetime: 2026-08-01T19:32:10.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 9.029 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.800 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 12 opções:** 8.388 coins.
+- **Posição mais frequente:** CB, com 4 cartas.
+- **Faixa real:** 1.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,16 +41,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.600 coins | -7.4% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 4.500 coins | +4.2% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 5.500 coins | -9.7% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 12.750 coins | -13.5% |
-| Claudio Pizarro | 87 | ST | Bundesliga | 13.250 coins | +1.9% |
-| Roy Makaay | 87 | ST | Bundesliga | 14.000 coins | -6.7% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 13.750 coins | -7.1% |
-| Omar Marmoush | 84 | ST | Bundesliga | 1.800 coins | -6.2% |
-| Exequiel Palacios | 84 | CM | Bundesliga | 1.900 coins | -11.8% |
-| Palhinha | 83 | CDM | Bundesliga | 2.300 coins | -5% |
+| Alphonso Davies | 89 | LB | Bundesliga | 11.250 coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14.000 coins | -5.1% |
+| Roy Makaay | 87 | ST | Bundesliga | 14.500 coins | -4.8% |
+| Péter Gulácsi | 85 | GK | Bundesliga | 1.500 coins | 0% |
+| Dayot Upamecano | 85 | CB | Bundesliga | 1.900 coins | +40% |
+| Alphonso Davies | 84 | LB | Bundesliga | 3.500 coins | +21.4% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
@@ -58,20 +58,20 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **5.500 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins**
 
 - **Joshua Kimmich (89, RB)** da Bundesliga, a apenas **11.250 coins**
-
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **12.750 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Lúcio (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 4.600 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 4.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Roy Makaay (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
