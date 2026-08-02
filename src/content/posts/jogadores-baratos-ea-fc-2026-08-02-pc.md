@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:32:19.000Z
+pubDatetime: 2026-08-02T19:32:21.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 10.464 coins.
+- **Preço médio das 15 opções:** 8.840 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 4.900 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,38 +41,42 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
-| Harry Kane | 89 | ST | Bundesliga | 4.900 coins | +2.1% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.700 coins | +1.8% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 6.000 coins | -3.1% |
-| Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
+| Harry Kane | 89 | ST | Bundesliga | 4.600 coins | 0% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 5.300 coins | +10.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.600 coins | +3.6% |
 | Alphonso Davies | 89 | LB | Bundesliga | 11.250 coins | 0% |
-| Rudi Völler | 89 | ST | Bundesliga | 14.000 coins | +5.7% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14.000 coins | +20.4% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11.250 coins | -2.2% |
+| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
+| Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
+| Rudi Völler | 89 | ST | Bundesliga | 13.250 coins | +7.5% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14.000 coins | +3.7% |
+| David Raum | 87 | LB | Bundesliga | 14.250 coins | -12.9% |
+| Michael Olise | 86 | RM | Bundesliga | 2.000 coins | -10% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11.250 coins | 0% |
 | Claudio Pizarro | 86 | ST | Bundesliga | 14.000 coins | 0% |
+| Dayot Upamecano | 85 | CB | Bundesliga | 1.500 coins | 0% |
+| Granit Xhaka | 85 | CDM | Bundesliga | 1.600 coins | +7.1% |
 
 
 ## 📈 Destaques
 
 - **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **5.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **6.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins**
+- **Alphonso Davies (89, LB)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Lúcio (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 5.700 coins é a referência de rating deste recorte.
+- **Meio:** Florian Wirtz (89, CAM) por 5.300 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 4.900 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 4.600 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
