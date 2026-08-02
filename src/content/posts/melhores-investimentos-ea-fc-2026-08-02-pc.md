@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:32:19.000Z
+pubDatetime: 2026-08-02T22:32:18.000Z
 title: "Investimentos EA FC: Bundesliga em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Fábio Vieira (87, Bundesliga) lidera, com +82.7% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nikola Vasilj (84, Bundesliga) lidera, com +58.3% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Fábio Vieira (87) acumula **+82.7% em 7 dias** a 45k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Nikola Vasilj (84) acumula **+58.3% em 7 dias** a 48k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Bundesliga em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.1% em 24h** e **+18.8% em 7 dias**.
-- **7 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 11 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+22.1% em 24h** e **+35.9% em 7 dias**.
+- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,30 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Fábio Vieira | 87 | Bundesliga | 45k coins | +31.9% | +82.7% | Esticada |
-| Julian Brandt | 87 | Bundesliga | 41k coins | +20.6% | +45.3% | Esticada |
-| Harry Kane | 90 | Bundesliga | 199k coins | +32.7% | +37.2% | Esticada |
-| Danny da Costa | 84 | Bundesliga | 24k coins | +25% | +22% | Esticada |
-| David Raum | 84 | Bundesliga | 65k coins | +10.2% | +19.3% | Momentum moderado |
-| Nikola Vasilj | 84 | Bundesliga | 48k coins | +2.2% | +18.8% | Entrada a observar |
-| Deniz Undav | 84 | Bundesliga | 50k coins | +9.3% | +15.6% | Momentum moderado |
-| Ragnar Ache | 84 | Bundesliga | 47k coins | +10.6% | +15.6% | Momentum moderado |
-| Karim Adeyemi | 85 | Bundesliga | 68k coins | +28.4% | +14.8% | Esticada |
-| Rani Khedira | 84 | Bundesliga | 52k coins | +24.6% | +14.4% | Esticada |
-| Andrej Kramarić | 87 | Bundesliga | 60k coins | +22.1% | +5.3% | Esticada |
+| Nikola Vasilj | 84 | Bundesliga | 48k coins | +17.3% | +58.3% | Momentum moderado |
+| Timo Werner | 87 | Bundesliga | 52k coins | +24.9% | +50% | Esticada |
+| Lukas Klostermann | 88 | Bundesliga | 162k coins | +38.5% | +48.8% | Esticada |
+| Julian Brandt | 87 | Bundesliga | 40k coins | +12.8% | +35.9% | Momentum moderado |
+| Andrej Kramarić | 87 | Bundesliga | 58k coins | +22.1% | +19% | Esticada |
+| Karim Adeyemi | 85 | Bundesliga | 78k coins | +38.9% | +11.9% | Esticada |
+| Vladimír Coufal | 84 | Bundesliga | 47k coins | +11.1% | +7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Fábio Vieira (87)** — 45k coins, **+82.7% em 7 dias** (+31.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nikola Vasilj (84)** — 48k coins, **+58.3% em 7 dias** (+17.3% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julian Brandt (87)** — 41k coins, **+45.3% em 7 dias** (+20.6% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Timo Werner (87)** — 52k coins, **+50% em 7 dias** (+24.9% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Harry Kane (90)** — 199k coins, **+37.2% em 7 dias** (+32.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lukas Klostermann (88)** — 162k coins, **+48.8% em 7 dias** (+38.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Danny da Costa (84)** — 24k coins, **+22% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julian Brandt (87)** — 40k coins, **+35.9% em 7 dias** (+12.8% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **David Raum (84)** — 65k coins, **+19.3% em 7 dias** (+10.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andrej Kramarić (87)** — 58k coins, **+19% em 7 dias** (+22.1% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -94,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Fábio Vieira (87, Bundesliga) lidera, com +82.7% em 7 dias a 45k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nikola Vasilj (84, Bundesliga) lidera, com +58.3% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
