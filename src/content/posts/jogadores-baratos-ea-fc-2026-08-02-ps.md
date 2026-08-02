@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:21:45.000Z
+pubDatetime: 2026-08-02T10:32:10.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.687 coins.
+- **Preço médio das 13 opções:** 9.777 coins.
 - **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 1.500 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.600 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,15 +44,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
 | Alphonso Davies | 89 | LB | Bundesliga | 11.250 coins | 0% |
-| Jürgen Kohler | 89 | CB | Bundesliga | 13.500 coins | -3.5% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 13.500 coins | -5.3% |
 | Mario Gomez | 88 | ST | Bundesliga | 11.000 coins | +2% |
-| Loïc Badé | 88 | CB | Bundesliga | 13.750 coins | -6.2% |
+| Loïc Badé | 88 | CB | Bundesliga | 13.750 coins | 0% |
 | Roy Makaay | 87 | ST | Bundesliga | 13.500 coins | +26% |
 | Claudio Pizarro | 86 | ST | Bundesliga | 11.250 coins | -11.8% |
 | Mario Mandžukić | 86 | ST | Bundesliga | 11.750 coins | -2.1% |
-| Nico Schlotterbeck | 85 | CB | Bundesliga | 1.600 coins | 0% |
-| Grimaldo | 84 | LM | Bundesliga | 1.500 coins | +25% |
-| Manuel Neuer | 84 | GK | Bundesliga | 1.700 coins | +33.3% |
+| Grimaldo | 84 | LM | Bundesliga | 1.600 coins | +25% |
 | Alphonso Davies | 84 | LB | Bundesliga | 3.400 coins | +2.9% |
 | Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
@@ -74,7 +72,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Defesa:** Joshua Kimmich (89, RB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Grimaldo (84, LM) por 1.500 coins é a referência de rating deste recorte.
+- **Meio:** Grimaldo (84, LM) por 1.600 coins é a referência de rating deste recorte.
 
 - **Ataque:** Harry Kane (89, ST) por 3.600 coins é a referência de rating deste recorte.
 

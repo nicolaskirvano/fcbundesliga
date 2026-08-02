@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:21:44.000Z
+pubDatetime: 2026-08-02T10:32:08.000Z
 title: "Investimentos EA FC: Bundesliga em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+21.4% em 24h** e **+48.9% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+21.6% em 24h** e **+41.9% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Bundesliga** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dan-Axel Zagadou | 85 | Bundesliga | 27k coins | +18.1% | +85% | Esticada |
+| Dan-Axel Zagadou | 85 | Bundesliga | 27k coins | +22% | +85% | Esticada |
 | Uli Hoeneß | 86 | Bundesliga | 26k coins | +22.1% | +78% | Esticada |
 | Aleix García | 89 | Bundesliga | 28k coins | +21.6% | +77.1% | Esticada |
 | Manuel Neuer | 86 | Bundesliga | 66k coins | +24.5% | +74.8% | Esticada |
 | Sven Ulreich | 87 | Bundesliga | 40k coins | +33.3% | +73.9% | Esticada |
-| Grimaldo | 87 | Bundesliga | 28k coins | +29.4% | +66.7% | Esticada |
-| Nico Schlotterbeck | 87 | Bundesliga | 23k coins | +19.5% | +55.9% | Momentum moderado |
-| Joshua Kimmich | 90 | Bundesliga | 57k coins | +14.5% | +48.9% | Momentum moderado |
+| Grimaldo | 87 | Bundesliga | 28k coins | +31% | +66.7% | Esticada |
+| Nico Schlotterbeck | 87 | Bundesliga | 24k coins | +19.5% | +55.9% | Momentum moderado |
 | Luis Díaz | 87 | Bundesliga | 74k coins | +14.6% | +41.9% | Momentum moderado |
-| Nico Schlotterbeck | 87 | Bundesliga | 70k coins | +18.6% | +40% | Momentum moderado |
 | Matthias Ginter | 88 | Bundesliga | 46k coins | +35.7% | +38.6% | Esticada |
-| Aleksandar Pavlović | 89 | Bundesliga | 33k coins | +19.2% | +25.5% | Momentum moderado |
+| Nico Schlotterbeck | 87 | Bundesliga | 70k coins | +18.6% | +34.6% | Momentum moderado |
+| Joshua Kimmich | 90 | Bundesliga | 57k coins | +3.6% | +26.7% | Momentum moderado |
 | Silas | 84 | Bundesliga | 70k coins | +16% | +25.5% | Momentum moderado |
-| Uli Hoeneß | 88 | Bundesliga | 20k coins | +31.2% | +20% | Esticada |
-| Willi Orban | 86 | Bundesliga | 35k coins | +21.4% | +15.3% | Esticada |
+| Patrik Schick | 88 | Bundesliga | 32k coins | +9.9% | +20.5% | Momentum moderado |
+| Uli Hoeneß | 88 | Bundesliga | 15.000 coins | +31.2% | +20% | Esticada |
+| Aleksandar Pavlović | 89 | Bundesliga | 33k coins | +19.2% | +18% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Dan-Axel Zagadou (85)** — 27k coins, **+85% em 7 dias** (+18.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dan-Axel Zagadou (85)** — 27k coins, **+85% em 7 dias** (+22% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Uli Hoeneß (86)** — 26k coins, **+78% em 7 dias** (+22.1% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

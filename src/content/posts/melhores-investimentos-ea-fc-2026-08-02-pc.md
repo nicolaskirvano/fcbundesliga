@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:21:53.000Z
+pubDatetime: 2026-08-02T10:32:18.000Z
 title: "Investimentos EA FC: Bundesliga em 02/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.4% em 24h** e **+18.6% em 7 dias**.
-- **5 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 14 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.1% em 24h** e **+18.8% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,8 +45,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Serhou Guirassy | 88 | Bundesliga | 78k coins | +30.8% | +72.5% | Esticada |
 | Tomáš Rosický | 89 | Bundesliga | 32k coins | +6.7% | +60% | Esticada |
-| Deniz Undav | 91 | Bundesliga | 162k coins | +30.7% | +59.6% | Esticada |
-| Nathan Tella | 86 | Bundesliga | 18.000 coins | +9.1% | +38.5% | Momentum moderado |
+| David Raum | 84 | Bundesliga | 65k coins | +7.6% | +52.1% | Momentum moderado |
+| Nathan Tella | 86 | Bundesliga | 18.000 coins | +9.1% | +35.8% | Momentum moderado |
+| Ragnar Ache | 84 | Bundesliga | 60k coins | +40% | +32.2% | Esticada |
 | Andrej Kramarić | 87 | Bundesliga | 60k coins | +38.4% | +20.8% | Esticada |
 | Kim Min Jae | 86 | Bundesliga | 64k coins | +4.1% | +20.8% | Entrada a observar |
 | Nikola Vasilj | 84 | Bundesliga | 48k coins | +11.1% | +18.8% | Momentum moderado |
@@ -63,13 +64,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Serhou Guirassy (88)** — 78k coins, **+72.5% em 7 dias** (+30.8% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tomáš Rosický (89)** — 32k coins, **+60% em 7 dias** (+6.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tomáš Rosický (89)** — 32k coins, **+60% em 7 dias** (+6.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Deniz Undav (91)** — 162k coins, **+59.6% em 7 dias** (+30.7% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **David Raum (84)** — 65k coins, **+52.1% em 7 dias** (+7.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nathan Tella (86)** — 18.000 coins, **+38.5% em 7 dias** (+9.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nathan Tella (86)** — 18.000 coins, **+35.8% em 7 dias** (+9.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Andrej Kramarić (87)** — 60k coins, **+20.8% em 7 dias** (+38.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ragnar Ache (84)** — 60k coins, **+32.2% em 7 dias** (+40% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
