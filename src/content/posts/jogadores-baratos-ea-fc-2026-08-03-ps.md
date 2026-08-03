@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T13:32:10.000Z
+pubDatetime: 2026-08-03T16:32:10.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 03/08/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/08/2026)?"
-    a: "Lúcio (91, Bundesliga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
+    a: "Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 5.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/08/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Lúcio (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Harry Kane (89) por apenas 5.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Bundesliga em 03/08 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-08-03-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 8.827 coins.
+- **Preço médio das 14 opções:** 9.364 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.900 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,41 +40,40 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 4.800 coins | +14% |
-| Harry Kane | 89 | ST | Bundesliga | 5.000 coins | +35.9% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 5.800 coins | -3.3% |
-| Alphonso Davies | 89 | LB | Bundesliga | 11.250 coins | 0% |
-| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
+| Harry Kane | 89 | ST | Bundesliga | 5.000 coins | +30% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.500 coins | +14.3% |
+| Florian Wirtz | 89 | CAM | Bundesliga | 6.600 coins | +23.2% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
-| Keven Schlotterbeck | 89 | CB | Bundesliga | 14.250 coins | 0% |
-| Mario Gomez | 88 | ST | Bundesliga | 12.250 coins | -3.9% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14.500 coins | +7.7% |
-| Gregor Kobel | 86 | GK | Bundesliga | 2.000 coins | +33.3% |
-| Mario Mandžukić | 86 | ST | Bundesliga | 11.500 coins | -8% |
-| Claudio Pizarro | 86 | ST | Bundesliga | 12.750 coins | +13.3% |
-| Grimaldo | 84 | LM | Bundesliga | 1.900 coins | +33.3% |
-| Julian Brandt | 83 | CAM | Bundesliga | 2.400 coins | 0% |
+| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
+| Alphonso Davies | 89 | LB | Bundesliga | 11.250 coins | 0% |
+| Jürgen Kohler | 89 | CB | Bundesliga | 14.000 coins | +9.8% |
+| Mario Gomez | 88 | ST | Bundesliga | 13.000 coins | 0% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 13.500 coins | +33.3% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 12.000 coins | +4.3% |
+| Claudio Pizarro | 86 | ST | Bundesliga | 13.250 coins | +10.4% |
+| Grimaldo | 84 | LM | Bundesliga | 2.000 coins | +26.7% |
+| Julian Brandt | 83 | CAM | Bundesliga | 2.500 coins | +38.9% |
+| Piero Hincapié | 83 | CB | Bundesliga | 10.000 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins**
-
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **4.800 coins** — já **valorizando**, sinal de procura crescente.
-
 - **Harry Kane (89, ST)** da Bundesliga, a apenas **5.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **5.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.500 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Alphonso Davies (89, LB)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **6.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+
+- **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins**
+
+- **Joshua Kimmich (89, RB)** da Bundesliga, a apenas **11.250 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Lúcio (91, CB) por 11.500 coins é a referência de rating deste recorte.
+- **Defesa:** Joshua Kimmich (89, RB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 4.800 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 5.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Harry Kane (89, ST) por 5.000 coins é a referência de rating deste recorte.
 
@@ -95,7 +94,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/08/2026)?**  
-Lúcio (91, Bundesliga) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
+Harry Kane (89, Bundesliga) aparece como melhor custo-benefício, a 5.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
