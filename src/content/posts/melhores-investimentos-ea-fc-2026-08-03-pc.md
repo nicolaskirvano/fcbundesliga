@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:32:18.000Z
+pubDatetime: 2026-08-03T13:32:18.000Z
 title: "Investimentos EA FC: Bundesliga em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Angelo Stiller (85, Bundesliga) lidera, com +78.1% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Angelo Stiller (85, Bundesliga) lidera, com +88.4% em 7 dias a 31k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Angelo Stiller (85) acumula **+78.1% em 7 dias** a 32k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Angelo Stiller (85) acumula **+88.4% em 7 dias** a 31k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Bundesliga em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.7% em 24h** e **+46.6% em 7 dias**.
-- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.2% em 24h** e **+24.8% em 7 dias**.
+- **4 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Bundesliga** concentra 11 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,30 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Angelo Stiller | 85 | Bundesliga | 32k coins | +9.2% | +78.1% | Esticada |
-| Aleksandar Pavlović | 89 | Bundesliga | 52k coins | +25.3% | +70.3% | Esticada |
-| Grimaldo | 92 | Bundesliga | 42k coins | +14.1% | +49.1% | Momentum moderado |
-| Uli Hoeneß | 88 | Bundesliga | 28k coins | +13.9% | +47.4% | Momentum moderado |
-| Christian Günter | 84 | Bundesliga | 34k coins | +3.8% | +46.7% | Momentum moderado |
-| Grimaldo | 87 | Bundesliga | 26k coins | +3.9% | +46.6% | Momentum moderado |
-| Claudio Pizarro | 87 | Bundesliga | 19.500 coins | +14.7% | +32.2% | Momentum moderado |
-| Serhou Guirassy | 89 | Bundesliga | 162k coins | +31.7% | +31.7% | Esticada |
-| Karim Adeyemi | 86 | Bundesliga | 149k coins | +21.1% | +25.2% | Esticada |
-| Silas | 84 | Bundesliga | 66k coins | +30.8% | +22.8% | Esticada |
-| Julian Ryerson | 86 | Bundesliga | 50k coins | +29% | +13.6% | Esticada |
+| Angelo Stiller | 85 | Bundesliga | 31k coins | +8.3% | +88.4% | Esticada |
+| Haris Tabaković | 85 | Bundesliga | 135k coins | +5.3% | +85.3% | Esticada |
+| Grimaldo | 87 | Bundesliga | 22k coins | +10.5% | +48.4% | Momentum moderado |
+| Claudio Pizarro | 87 | Bundesliga | 19.500 coins | +20% | +32.2% | Esticada |
+| Fisnik Asllani | 85 | Bundesliga | 38k coins | +11.1% | +26.1% | Momentum moderado |
+| Harry Kane | 92 | Bundesliga | 206k coins | +2.5% | +24.8% | Entrada a observar |
+| Can Uzun | 89 | Bundesliga | 130k coins | +10.2% | +23.8% | Momentum moderado |
+| Jürgen Kohler | 89 | Bundesliga | 15.000 coins | +8.3% | +18.2% | Momentum moderado |
+| Grimaldo | 86 | Bundesliga | 50k coins | +26.6% | +12.6% | Esticada |
+| Maximilian Mittelstädt | 88 | Bundesliga | 34k coins | +11.7% | +11.7% | Momentum moderado |
+| Christoph Baumgartner | 86 | Bundesliga | 49k coins | +3.7% | +5.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Angelo Stiller (85)** — 32k coins, **+78.1% em 7 dias** (+9.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Angelo Stiller (85)** — 31k coins, **+88.4% em 7 dias** (+8.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aleksandar Pavlović (89)** — 52k coins, **+70.3% em 7 dias** (+25.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Haris Tabaković (85)** — 135k coins, **+85.3% em 7 dias** (+5.3% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Grimaldo (92)** — 42k coins, **+49.1% em 7 dias** (+14.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Grimaldo (87)** — 22k coins, **+48.4% em 7 dias** (+10.5% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Uli Hoeneß (88)** — 28k coins, **+47.4% em 7 dias** (+13.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Claudio Pizarro (87)** — 19.500 coins, **+32.2% em 7 dias** (+20% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Günter (84)** — 34k coins, **+46.7% em 7 dias** (+3.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fisnik Asllani (85)** — 38k coins, **+26.1% em 7 dias** (+11.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +84,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Angelo Stiller (85, Bundesliga) lidera, com +78.1% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Angelo Stiller (85, Bundesliga) lidera, com +88.4% em 7 dias a 31k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
