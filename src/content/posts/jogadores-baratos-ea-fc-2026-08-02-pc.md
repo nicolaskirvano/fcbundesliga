@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:32:19.000Z
+pubDatetime: 2026-08-03T01:32:19.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 6.810 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 12 opções:** 8.112 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 1.500 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,31 +41,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Lúcio | 91 | CB | Bundesliga | 11.500 coins | 0% |
-| Harry Kane | 89 | ST | Bundesliga | 4.600 coins | +18.2% |
-| Joshua Kimmich | 89 | CDM | Bundesliga | 5.300 coins | -7% |
-| Florian Wirtz | 89 | CAM | Bundesliga | 5.400 coins | -3.5% |
-| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
+| Harry Kane | 89 | ST | Bundesliga | 5.000 coins | +29.3% |
+| Joshua Kimmich | 89 | CDM | Bundesliga | 5.600 coins | +20% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
+| Joshua Kimmich | 89 | RB | Bundesliga | 11.250 coins | 0% |
 | Alphonso Davies | 89 | LB | Bundesliga | 11.250 coins | 0% |
-| Rudi Völler | 89 | ST | Bundesliga | 14.250 coins | -9.3% |
-| Jamal Musiala | 88 | CAM | Bundesliga | 3.500 coins | +28.6% |
-| Jonathan Tah | 87 | CB | Bundesliga | 1.900 coins | 0% |
-| Serhou Guirassy | 87 | ST | Bundesliga | 2.000 coins | +7.7% |
-| Luka Vušković | 86 | CB | Bundesliga | 14.750 coins | +11.1% |
-| Granit Xhaka | 85 | CDM | Bundesliga | 1.500 coins | +6.7% |
-| Dayot Upamecano | 85 | CB | Bundesliga | 1.500 coins | 0% |
-| Péter Gulácsi | 85 | GK | Bundesliga | 2.200 coins | 0% |
+| Jamal Musiala | 88 | CAM | Bundesliga | 2.000 coins | +29.2% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 13.250 coins | -3.6% |
+| Serhou Guirassy | 87 | ST | Bundesliga | 1.500 coins | +21.4% |
+| Roy Makaay | 87 | ST | Bundesliga | 11.000 coins | +4.5% |
+| Mario Mandžukić | 86 | ST | Bundesliga | 11.250 coins | +7% |
+| Julian Brandt | 83 | CAM | Bundesliga | 2.500 coins | -13.8% |
 
 
 ## 📈 Destaques
 
 - **Lúcio (91, CB)** da Bundesliga, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Harry Kane (89, ST)** da Bundesliga, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Harry Kane (89, ST)** da Bundesliga, a apenas **5.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.300 coins** — já **valorizando**, sinal de procura crescente.
+- **Joshua Kimmich (89, CDM)** da Bundesliga, a apenas **5.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Florian Wirtz (89, CAM)** da Bundesliga, a apenas **5.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins**
 
 - **Joshua Kimmich (89, RB)** da Bundesliga, a apenas **11.250 coins**
 
@@ -74,9 +71,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Defesa:** Lúcio (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Joshua Kimmich (89, CDM) por 5.300 coins é a referência de rating deste recorte.
+- **Meio:** Joshua Kimmich (89, CDM) por 5.600 coins é a referência de rating deste recorte.
 
-- **Ataque:** Harry Kane (89, ST) por 4.600 coins é a referência de rating deste recorte.
+- **Ataque:** Harry Kane (89, ST) por 5.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
