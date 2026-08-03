@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:22:44.000Z
+pubDatetime: 2026-08-03T10:32:18.000Z
 title: "Investimentos EA FC: Bundesliga em 03/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.2% em 24h** e **+39.5% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.7% em 24h** e **+46.6% em 7 dias**.
+- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 11 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,12 +44,15 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Angelo Stiller | 85 | Bundesliga | 32k coins | +9.2% | +78.1% | Esticada |
-| Uli Hoeneß | 88 | Bundesliga | 29k coins | +17.8% | +52.6% | Momentum moderado |
+| Aleksandar Pavlović | 89 | Bundesliga | 52k coins | +25.3% | +70.3% | Esticada |
 | Grimaldo | 92 | Bundesliga | 42k coins | +14.1% | +49.1% | Momentum moderado |
+| Uli Hoeneß | 88 | Bundesliga | 28k coins | +13.9% | +47.4% | Momentum moderado |
 | Christian Günter | 84 | Bundesliga | 34k coins | +3.8% | +46.7% | Momentum moderado |
+| Grimaldo | 87 | Bundesliga | 26k coins | +3.9% | +46.6% | Momentum moderado |
 | Claudio Pizarro | 87 | Bundesliga | 19.500 coins | +14.7% | +32.2% | Momentum moderado |
 | Serhou Guirassy | 89 | Bundesliga | 162k coins | +31.7% | +31.7% | Esticada |
-| Silas | 84 | Bundesliga | 66k coins | +27.3% | +22.8% | Esticada |
+| Karim Adeyemi | 86 | Bundesliga | 149k coins | +21.1% | +25.2% | Esticada |
+| Silas | 84 | Bundesliga | 66k coins | +30.8% | +22.8% | Esticada |
 | Julian Ryerson | 86 | Bundesliga | 50k coins | +29% | +13.6% | Esticada |
 
 
@@ -57,13 +60,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Angelo Stiller (85)** — 32k coins, **+78.1% em 7 dias** (+9.2% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Uli Hoeneß (88)** — 29k coins, **+52.6% em 7 dias** (+17.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aleksandar Pavlović (89)** — 52k coins, **+70.3% em 7 dias** (+25.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Grimaldo (92)** — 42k coins, **+49.1% em 7 dias** (+14.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Günter (84)** — 34k coins, **+46.7% em 7 dias** (+3.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Uli Hoeneß (88)** — 28k coins, **+47.4% em 7 dias** (+13.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Claudio Pizarro (87)** — 19.500 coins, **+32.2% em 7 dias** (+14.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Christian Günter (84)** — 34k coins, **+46.7% em 7 dias** (+3.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

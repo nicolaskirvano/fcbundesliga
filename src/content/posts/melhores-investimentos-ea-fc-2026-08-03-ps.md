@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:22:34.000Z
+pubDatetime: 2026-08-03T10:32:09.000Z
 title: "Investimentos EA FC: Bundesliga em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.6% em 24h** e **+23.0% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 15 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.6% em 24h** e **+18.0% em 7 dias**.
+- **4 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Bundesliga** concentra 14 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Aleix García | 89 | Bundesliga | 30k coins | +5.4% | +71% | Esticada |
-| Christian Günter | 84 | Bundesliga | 30k coins | +2% | +66.7% | Esticada |
-| Angelo Stiller | 85 | Bundesliga | 22k coins | +21.1% | +60.3% | Esticada |
-| Willi Orban | 86 | Bundesliga | 37k coins | +8.8% | +57.4% | Momentum moderado |
-| Uli Hoeneß | 88 | Bundesliga | 24k coins | +14.3% | +47.7% | Momentum moderado |
+| Willi Orban | 86 | Bundesliga | 38k coins | +8.8% | +57.4% | Momentum moderado |
+| Luis Díaz | 91 | Bundesliga | 210k coins | +4.8% | +48.3% | Momentum moderado |
 | Felix Nmecha | 86 | Bundesliga | 240k coins | +37.9% | +41.2% | Esticada |
-| Mark Flekken | 84 | Bundesliga | 60k coins | +18.2% | +23.8% | Momentum moderado |
-| Rudi Völler | 89 | Bundesliga | 19.500 coins | +8.7% | +23% | Momentum moderado |
+| Rudi Völler | 89 | Bundesliga | 18.750 coins | +8.7% | +23% | Momentum moderado |
 | Serhou Guirassy | 88 | Bundesliga | 42k coins | +12.7% | +21.6% | Momentum moderado |
 | Harry Kane | 90 | Bundesliga | 104k coins | +3% | +20.2% | Entrada a observar |
-| Manolis Saliakas | 84 | Bundesliga | 55k coins | +27.9% | +18.3% | Esticada |
 | Grimaldo | 86 | Bundesliga | 50k coins | +10% | +15.8% | Momentum moderado |
-| Christoph Baumgartner | 86 | Bundesliga | 50k coins | +22.9% | +15.2% | Esticada |
-| Harry Kane | 91 | Bundesliga | 112k coins | +12.6% | +13.8% | Momentum moderado |
+| Christoph Baumgartner | 86 | Bundesliga | 50k coins | +22.9% | +15.8% | Esticada |
+| Mark Flekken | 84 | Bundesliga | 60k coins | +9.1% | +14.3% | Momentum moderado |
+| Harry Kane | 91 | Bundesliga | 107k coins | +12.6% | +13.8% | Momentum moderado |
 | Deniz Undav | 84 | Bundesliga | 54k coins | +10% | +10.6% | Momentum moderado |
+| Michael Gregoritsch | 84 | Bundesliga | 64k coins | +30.7% | +10.2% | Esticada |
+| David Raum | 84 | Bundesliga | 58k coins | +3.2% | +8.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
 - **Aleix García (89)** — 30k coins, **+71% em 7 dias** (+5.4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Günter (84)** — 30k coins, **+66.7% em 7 dias** (+2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Willi Orban (86)** — 38k coins, **+57.4% em 7 dias** (+8.8% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Angelo Stiller (85)** — 22k coins, **+60.3% em 7 dias** (+21.1% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luis Díaz (91)** — 210k coins, **+48.3% em 7 dias** (+4.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Willi Orban (86)** — 37k coins, **+57.4% em 7 dias** (+8.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Felix Nmecha (86)** — 240k coins, **+41.2% em 7 dias** (+37.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Uli Hoeneß (88)** — 24k coins, **+47.7% em 7 dias** (+14.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rudi Völler (89)** — 18.750 coins, **+23% em 7 dias** (+8.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
