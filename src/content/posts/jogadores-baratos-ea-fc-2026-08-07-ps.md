@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T19:32:10.000Z
+pubDatetime: 2026-08-07T22:32:10.000Z
 title: "Jogadores baratos EA FC: Bundesliga em 07/08 — Console (PS)"
 draft: false
 featured: false
