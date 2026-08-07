@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T10:28:28.000Z
+pubDatetime: 2026-08-07T10:32:20.000Z
 title: "Investimentos EA FC: Bundesliga em 07/08 — PC"
 draft: false
 featured: true

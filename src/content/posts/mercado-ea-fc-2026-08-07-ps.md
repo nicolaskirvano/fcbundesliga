@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T10:28:17.000Z
+pubDatetime: 2026-08-07T10:32:07.000Z
 title: "Mercado EA FC em 07/08: Bundesliga — Console (PS)"
 draft: false
 featured: true
